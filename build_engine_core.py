@@ -209,14 +209,13 @@ def build_cpa(global_xt=None, team_xts=None):
     else:
         q25, q75 = 1.0, 1.5
     oqa = {}
+    # Continuous percentile-based OQA (0.80 to 1.20)
+    xga_arr = np.array(list(team_xga.values()))
+    xga_mean = xga_arr.mean()
+    xga_std = max(xga_arr.std(), 0.01)
     for t, xga in team_xga.items():
-        if xga <= q25:
-            oqa[t] = 1.15
-        elif xga >= q75:
-            oqa[t] = 0.85
-        else:
-            oqa[t] = 1.15 - 0.30 * (xga - q25) / max(q75 - q25, 0.01)
-
+        z = (xga_mean - xga) / xga_std
+        oqa[t] = round(np.clip(1.0 + z * 0.10, 0.80, 1.20), 4)
     top5 = sorted(oqa.items(), key=lambda x: -x[1])[:5]
     bot5 = sorted(oqa.items(), key=lambda x: x[1])[:5]
     print("    Top 5 toughest opponents:")
