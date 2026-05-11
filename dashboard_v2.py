@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title="Nuanced Football Engine v2.0",
+    page_title="Nuanced Football Engine v3.0",
     page_icon=":material/sports_soccer:",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -13,7 +13,7 @@ cpa_player  = st.Page("pages/pg_player_profiles.py",   title="Player Profiles (C
 archetypes  = st.Page("pages/pg_archetypes.py",        title="Archetypes",            icon=":material/category:")
 similarity  = st.Page("pages/pg_similarity.py",        title="Similarity Finder",     icon=":material/hub:")
 ecosystems  = st.Page("pages/pg_ecosystems.py",        title="Team Ecosystems",       icon=":material/workspaces:")
-targeting   = st.Page("pages/pg_team_targeting.py",     title="Team Targeting",        icon=":material/target:")
+targeting   = st.Page("pages/pg_team_targeting.py",    title="Team Targeting",        icon=":material/target:")
 adversity   = st.Page("pages/pg_adversity.py",         title="Adversity & Resilience",icon=":material/psychology:")
 transfer    = st.Page("pages/pg_transfer.py",          title="Transfer Intelligence", icon=":material/trending_up:")
 gk_profiles = st.Page("pages/pg_gk.py",               title="GK Profiles",           icon=":material/sports:")
