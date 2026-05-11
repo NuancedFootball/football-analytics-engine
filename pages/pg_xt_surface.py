@@ -2,55 +2,72 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import plotly.graph_objects as go
+import pathlib
 
 st.title("Expected Threat (xT) Surfaces")
-D = "scraped_data"
+st.caption("Pitch grid | Iterative value computation from shot-level data")
+
+SD = pathlib.Path("scraped_data")
 
 @st.cache_data
-def load_xt_league():
-    return pd.read_csv("{}/engine_xt_league.csv".format(D))
+def load_xt():
+    lp = SD / "engine_xt_league.csv"
+    tp = SD / "engine_xt_team.csv"
+    league_df = pd.read_csv(lp) if lp.exists() else None
+    team_df = pd.read_csv(tp) if tp.exists() else None
+    return league_df, team_df
 
-@st.cache_data
-def load_xt_team():
-    return pd.read_csv("{}/engine_xt_team.csv".format(D))
+league_df, team_df = load_xt()
 
-xt_lg = load_xt_league()
-xt_tm = load_xt_team()
+if league_df is None:
+    st.error("engine_xt_league.csv not found. Run build_engine_core.py first.")
+    st.stop()
+
+def extract_grid(sub):
+    val_cols = [c for c in sub.columns if c.startswith("col_")]
+    if val_cols:
+        return sub[val_cols].values
+    numeric = sub.select_dtypes(include=[np.number]).columns.tolist()
+    non_meta = [c for c in numeric if c not in ["row","league"]]
+    if non_meta:
+        return sub[non_meta].values
+    return np.zeros((12, 16))
 
 tab1, tab2 = st.tabs(["League xT", "Team xT"])
 
-def plot_xt_heatmap(df_subset, title):
-    pivot = df_subset.pivot(index="cell_y", columns="cell_x", values="xT")
-    fig = go.Figure(data=go.Heatmap(
-        z=pivot.values,
-        x=["X{}".format(i) for i in pivot.columns],
-        y=["Y{}".format(j) for j in pivot.index],
-        colorscale="YlOrRd",
-        colorbar=dict(title="xT"),
-    ))
-    fig.update_layout(
-        title=title, height=400, width=700,
-        xaxis_title="Pitch Length (own goal to opponent goal)",
-        yaxis_title="Pitch Width",
-        yaxis=dict(autorange="reversed"),
-    )
-    return fig
-
 with tab1:
-    entities = sorted(xt_lg["entity"].unique())
-    idx = entities.index("GLOBAL") if "GLOBAL" in entities else 0
-    sel = st.selectbox("Select League / Global", entities, index=idx)
-    subset = xt_lg[xt_lg["entity"] == sel]
-    st.plotly_chart(plot_xt_heatmap(subset, "xT Surface: {}".format(sel)), use_container_width=True)
-    col1, col2 = st.columns(2)
-    col1.metric("Max xT", "{:.4f}".format(subset["xT"].max()))
-    col2.metric("Mean xT", "{:.6f}".format(subset["xT"].mean()))
+    if "league" in league_df.columns:
+        options = sorted(league_df["league"].unique().tolist())
+    else:
+        options = ["GLOBAL"]
+    sel = st.selectbox("League", options, key="xt_l")
+    if "league" in league_df.columns:
+        sub = league_df[league_df["league"] == sel]
+    else:
+        sub = league_df
+    grid = extract_grid(sub)
+    fig = go.Figure(data=go.Heatmap(z=grid, colorscale="YlOrRd",
+                                     colorbar=dict(title="xT")))
+    fig.update_layout(title="xT Surface: " + sel,
+                      xaxis_title="Width", yaxis_title="Length",
+                      height=500, yaxis=dict(autorange="reversed"))
+    st.plotly_chart(fig, use_container_width=True)
+    c1, c2 = st.columns(2)
+    c1.metric("Max xT", round(float(grid.max()), 4))
+    c2.metric("Mean xT", round(float(grid.mean()), 6))
 
 with tab2:
-    teams = sorted(xt_tm["entity"].unique())
-    sel_tm = st.selectbox("Select Team", teams)
-    subset_tm = xt_tm[xt_tm["entity"] == sel_tm]
-    st.plotly_chart(plot_xt_heatmap(subset_tm, "xT Surface: {}".format(sel_tm)), use_container_width=True)
-    st.markdown("Top 5 Threat Zones:")
-    for _, r in subset_tm.nlargest(5, "xT").iterrows():
-        st.write("Zone ({}, {}): xT = {:.4f}".format(int(r["cell_x"]), int(r["cell_y"]), r["xT"]))
+    if team_df is not None and len(team_df) > 0:
+        tcol = "team" if "team" in team_df.columns else team_df.columns[0]
+        teams = sorted(team_df[tcol].unique().tolist())
+        sel_t = st.selectbox("Team", teams, key="xt_t")
+        tsub = team_df[team_df[tcol] == sel_t]
+        tgrid = extract_grid(tsub)
+        fig2 = go.Figure(data=go.Heatmap(z=tgrid, colorscale="YlOrRd",
+                                          colorbar=dict(title="xT")))
+        fig2.update_layout(title="xT: " + sel_t, xaxis_title="Width",
+                           yaxis_title="Length", height=500,
+                           yaxis=dict(autorange="reversed"))
+        st.plotly_chart(fig2, use_container_width=True)
+    else:
+        st.info("Team xT data not available.")

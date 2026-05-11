@@ -1,42 +1,61 @@
 import streamlit as st
 import pandas as pd
-import os
+import pathlib
 
-st.title("Nuanced PLAYER - LEAGUE - TEAM Analytics Engine v2.0")
-st.markdown("Big 5 Leagues | 2025/26 Season | Data-Led Professional Scouting")
+st.title("Nuanced Player - League - Team Engine v2.0")
+st.caption("Big 5 Leagues | 2025-26 Season | Understat + SoFIFA + FotMob")
 
-D = "scraped_data"
-inventory = []
-for f in sorted(os.listdir(D)):
-    if f.endswith(".csv"):
-        fp = os.path.join(D, f)
-        try:
-            df = pd.read_csv(fp, nrows=2)
-            rows = sum(1 for _ in open(fp)) - 1
-            inventory.append({"File": f, "Rows": "{:,}".format(rows), "Columns": len(df.columns)})
-        except Exception:
-            inventory.append({"File": f, "Rows": "?", "Columns": "?"})
+SD = pathlib.Path("scraped_data")
 
-st.subheader("Data Inventory")
-st.dataframe(pd.DataFrame(inventory), use_container_width=True, hide_index=True)
+def safe_load(name):
+    p = SD / name
+    if p.exists():
+        return pd.read_csv(p)
+    return None
 
-st.subheader("Engine Architecture")
-st.markdown(
-    "The engine operates across 7 analytical phases, each building on the last:\n\n"
-    "Phase 1 - Expected Threat (xT): A value surface over the pitch, computed iteratively from 40K+ shots. "
-    "Every zone gets a threat score representing the probability of scoring within the next N actions. "
-    "Surfaces are built globally, per-league, and per-team to create threat fingerprints.\n\n"
-    "Phase 2 - Contextual Performance Adjustment (CPA): Raw per-90 stats are adjusted by three factors: "
-    "League Difficulty Index (scoring environment), Opponent Quality Adjustment (defensive strength of opponents faced), "
-    "and Role Burden Index (player share of team output).\n\n"
-    "Phase 3 - Archetype Classification: PCA followed by K-means clustering produces functional archetypes "
-    "(Clinical Finisher, Creative Conductor, Deep Playmaker, Engine Room, etc.)\n\n"
-    "Phase 4 - Similarity Engine: Weighted cosine similarity across CPA-adjusted features finds "
-    "the 20 most statistically similar players for every player in the database.\n\n"
-    "Phase 5 - Team Ecosystems: Herfindahl concentration indices for creativity, goal threat, "
-    "and buildup distribution, plus xT threat corridors and archetype diversity scores.\n\n"
-    "Phase 6 - Adversity Profiles: Resilience ratio (output when trailing), big-game ratio "
-    "(output vs top defenses), and home/away delta quantify robustness.\n\n"
-    "Phase 7 - Transfer Intelligence: Composite scoring combining CPA output, efficiency, "
-    "growth signals, and adversity metrics to rank transfer targets."
+cpa = safe_load("engine_cpa_profiles.csv")
+eco = safe_load("engine_team_ecosystems_v3.csv")
+gk  = safe_load("engine_gk_profiles.csv")
+
+col1, col2, col3, col4 = st.columns(4)
+col1.metric("Outfield Players", len(cpa) if cpa is not None else "N/A")
+col2.metric("Teams Profiled", len(eco) if eco is not None else "N/A")
+col3.metric("GK Profiles", len(gk) if gk is not None else "N/A")
+col4.metric("Leagues", "5")
+
+st.divider()
+st.subheader("How It Works")
+
+desc = (
+    "The engine processes shot-level data, player match logs, and team "
+    "statistics through seven analytical phases. Phase 1 builds Expected "
+    "Threat (xT) value surfaces on a pitch grid computed iteratively from "
+    "shot data. Phase 2 constructs Contextual Performance Adjustment (CPA) "
+    "profiles that normalize output using League Difficulty Index, Opponent "
+    "Quality Adjustment, and Role Burden Index. Phase 3 classifies players "
+    "into behavioral archetypes via PCA and K-Means. Phase 4 computes "
+    "weighted cosine similarity. Phase 5 profiles team ecosystems. Phase 6 "
+    "measures adversity and resilience. Phase 7 synthesizes everything into "
+    "Transfer Intelligence scores."
 )
+st.write(desc)
+
+if cpa is not None:
+    st.divider()
+    st.subheader("Top 15 CPA-Adjusted Players (xGI per 90)")
+    cols = ["player","team","league","cpa_xGI_p90","archetype","matches","minutes"]
+    cols = [c for c in cols if c in cpa.columns]
+    top = cpa.nlargest(15, "cpa_xGI_p90")[cols].reset_index(drop=True)
+    top.index = top.index + 1
+    st.dataframe(top, use_container_width=True)
+
+if eco is not None:
+    st.divider()
+    st.subheader("Top 10 Team Ecosystems (xGD)")
+    xgd_col = "xGD" if "xGD" in eco.columns else "xgd"
+    if xgd_col in eco.columns:
+        ecols = ["team","league",xgd_col,"ppg"]
+        ecols = [c for c in ecols if c in eco.columns]
+        top_eco = eco.nlargest(10, xgd_col)[ecols].reset_index(drop=True)
+        top_eco.index = top_eco.index + 1
+        st.dataframe(top_eco, use_container_width=True)

@@ -1,44 +1,79 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+import pathlib
 
 st.title("Transfer Intelligence")
-D = "scraped_data"
+st.caption("Composite T-Score: output efficiency + growth + adversity + fit")
+
+SD = pathlib.Path("scraped_data")
 
 @st.cache_data
 def load():
-    return pd.read_csv("{}/engine_transfer_intel.csv".format(D))
+    p = SD / "engine_transfer_intel.csv"
+    return pd.read_csv(p) if p.exists() else None
 
-df = load()
+ti = load()
+if ti is None:
+    st.error("Transfer intel data not found.")
+    st.stop()
 
-col1, col2, col3 = st.columns(3)
-with col1:
-    leagues = ["All"] + sorted(df["league"].dropna().unique().tolist())
-    sel_lg = st.selectbox("League", leagues)
-with col2:
-    positions = ["All"] + sorted(df["position"].dropna().unique().tolist())
-    sel_pos = st.selectbox("Position", positions)
-with col3:
-    top_n = st.slider("Show Top N", 10, 100, 30)
+ts = None
+for c in ["transfer_score","t_score"]:
+    if c in ti.columns:
+        ts = c
+        break
 
-fdf = df.copy()
-if sel_lg != "All":
-    fdf = fdf[fdf["league"]==sel_lg]
-if sel_pos != "All":
-    fdf = fdf[fdf["position"].str.contains(sel_pos, na=False)]
+min_col = None
+for c in ["minutes","total_minutes","mins"]:
+    if c in ti.columns:
+        min_col = c
+        break
 
-if "transfer_score" in fdf.columns:
-    st.subheader("Top {} Transfer Targets".format(top_n))
-    top = fdf.nlargest(top_n, "transfer_score")
-    show_cols = ["player","team","league","position","transfer_score","transfer_rank",
-                 "cpa_xGI_p90","output_efficiency","growth_signal",
-                 "resilience_ratio","big_game_ratio"]
-    avail = [c for c in show_cols if c in top.columns]
-    st.dataframe(top[avail], use_container_width=True, hide_index=True)
+with st.sidebar:
+    if "league" in ti.columns:
+        sel_l = st.selectbox("League", ["All"] + sorted(ti["league"].unique().tolist()), key="ti_l")
+    else:
+        sel_l = "All"
+    if "archetype" in ti.columns:
+        sel_a = st.selectbox("Archetype", ["All"] + sorted(ti["archetype"].dropna().unique().tolist()), key="ti_a")
+    else:
+        sel_a = "All"
+    min_m = st.slider("Min Minutes", 450, 3000, 900, step=90, key="ti_m")
 
-    if "output_efficiency" in fdf.columns:
-        fig = px.scatter(fdf, x="cpa_xGI_p90", y="output_efficiency",
-                         hover_name="player", color="league" if sel_lg=="All" else "position",
-                         size="matches", size_max=15, opacity=0.6, title="Output vs Efficiency")
-        fig.update_layout(height=550)
-        st.plotly_chart(fig, use_container_width=True)
+fdf = ti.copy()
+if sel_l != "All" and "league" in fdf.columns:
+    fdf = fdf[fdf["league"] == sel_l]
+if sel_a != "All" and "archetype" in fdf.columns:
+    fdf = fdf[fdf["archetype"] == sel_a]
+if min_col:
+    fdf = fdf[fdf[min_col] >= min_m]
+
+cpa_col = "cpa_xGI_p90" if "cpa_xGI_p90" in fdf.columns else None
+
+if ts and cpa_col:
+    st.subheader("T-Score vs CPA Output")
+    color = "archetype" if "archetype" in fdf.columns else ("league" if "league" in fdf.columns else None)
+    fig = px.scatter(fdf, x=cpa_col, y=ts, hover_name="player",
+                     color=color, opacity=0.7, title="Transfer Intelligence Map")
+    fig.update_layout(height=550)
+    st.plotly_chart(fig, use_container_width=True)
+
+st.subheader("Transfer Targets (" + str(len(fdf)) + " players)")
+show = ["player","team","league","archetype"]
+if ts: show.append(ts)
+if cpa_col: show.append(cpa_col)
+eff = "output_efficiency" if "output_efficiency" in fdf.columns else None
+if eff: show.append(eff)
+if min_col: show.append(min_col)
+match_col = None
+for mc in ["matches","match_count","games"]:
+    if mc in fdf.columns:
+        match_col = mc
+        break
+if match_col: show.append(match_col)
+show = [c for c in show if c in fdf.columns]
+
+if ts:
+    st.dataframe(fdf.nlargest(50, ts)[show].reset_index(drop=True),
+                 use_container_width=True, height=600)

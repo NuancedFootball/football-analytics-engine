@@ -1,45 +1,60 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+import pathlib
 
 st.title("Team Ecosystem Profiles")
-D = "scraped_data"
+st.caption("xGD, goal concentration, threat corridors, dependency metrics")
+
+SD = pathlib.Path("scraped_data")
 
 @st.cache_data
 def load():
-    return pd.read_csv("{}/engine_team_ecosystems_v3.csv".format(D))
+    for f in ["engine_team_ecosystems_v3.csv","engine_team_ecosystems_v2.csv",
+              "engine_team_ecosystems.csv"]:
+        p = SD / f
+        if p.exists():
+            return pd.read_csv(p)
+    return None
 
-df = load()
+eco = load()
+if eco is None:
+    st.error("Team ecosystem data not found.")
+    st.stop()
 
-col1, col2 = st.columns(2)
-with col1:
-    leagues = ["All"] + sorted(df["league"].dropna().unique().tolist())
-    sel_lg = st.selectbox("League", leagues)
-with col2:
-    metric = st.selectbox("Color by", ["xGD","ppg","creativity_concentration","goal_concentration","avg_resilience"])
+xgd = "xGD" if "xGD" in eco.columns else ("xgd" if "xgd" in eco.columns else None)
+ppg = "ppg" if "ppg" in eco.columns else None
 
-fdf = df if sel_lg == "All" else df[df["league"]==sel_lg]
+if "league" in eco.columns:
+    leagues = ["All"] + sorted(eco["league"].unique().tolist())
+    sel = st.selectbox("League", leagues, key="eco_l")
+    fdf = eco if sel == "All" else eco[eco["league"] == sel]
+else:
+    fdf = eco
 
-st.subheader("Team Landscape")
-fig = px.scatter(fdf, x="xGF", y="xGA", color=metric, hover_name="team",
-                 size="matches", text="team", size_max=20,
-                 color_continuous_scale="RdYlGn")
-fig.update_traces(textposition="top center", textfont_size=9)
-fig.update_layout(height=600)
-st.plotly_chart(fig, use_container_width=True)
+if xgd and ppg:
+    st.subheader("xGD vs Points Per Game")
+    color = "league" if "league" in fdf.columns else None
+    fig = px.scatter(fdf, x=xgd, y=ppg, hover_name="team",
+                     color=color, opacity=0.8, title="Team Ecosystem Map")
+    fig.update_layout(height=550)
+    st.plotly_chart(fig, use_container_width=True)
 
-st.subheader("Concentration Indices")
-conc_cols = ["team","league","creativity_concentration","goal_concentration","buildup_concentration"]
-avail = [c for c in conc_cols if c in fdf.columns]
-st.dataframe(fdf[avail].sort_values("goal_concentration", ascending=False), use_container_width=True, hide_index=True)
+gc = None
+for candidate in ["goal_conc","goal_concentration"]:
+    if candidate in fdf.columns:
+        gc = candidate
+        break
 
-st.subheader("Team Deep Dive")
-sel_tm = st.selectbox("Select Team", sorted(fdf["team"].unique()))
-if sel_tm:
-    tr = fdf[fdf["team"]==sel_tm].iloc[0]
-    c1,c2,c3,c4 = st.columns(4)
-    c1.metric("PPG", "{:.2f}".format(tr["ppg"]))
-    c2.metric("xGD", "{:+.2f}".format(tr["xGD"]))
-    c3.metric("Goal Conc.", "{:.3f}".format(tr["goal_concentration"]))
-    c4.metric("Archetypes", "{}".format(tr.get("n_archetypes",0)))
-    st.markdown("Threat Corridors: {}".format(tr.get("threat_corridors","N/A")))
+if gc and xgd:
+    st.subheader("Goal Concentration vs xGD")
+    fig2 = px.scatter(fdf, x=xgd, y=gc, hover_name="team",
+                      color="league" if "league" in fdf.columns else None,
+                      title="Higher = more reliant on few scorers")
+    fig2.update_layout(height=500)
+    st.plotly_chart(fig2, use_container_width=True)
+
+st.subheader("Full Ecosystem Data")
+sort_c = xgd if xgd else fdf.columns[0]
+st.dataframe(fdf.sort_values(sort_c, ascending=False).reset_index(drop=True),
+             use_container_width=True, height=600)
