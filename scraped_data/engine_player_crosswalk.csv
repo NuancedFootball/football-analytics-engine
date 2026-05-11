@@ -1,0 +1,2634 @@
+understat_id,understat_name,understat_team,sofifa_id,sofifa_name,sofifa_team,match_score
+1257,Alisson,Liverpool,212831,Alisson Ramses Becker,Liverpool,0.55
+9833,Andrew Omobamidele,Strasbourg,261647,Andrew Omobamidele,RC Strasbourg Alsace,1.2
+9202,Felix Nmecha,Borussia Dortmund,246863,Felix Nmecha,Borussia Dortmund,1.2
+13424,Daniel Svensson,Borussia Dortmund,259716,Daniel Svensson,Borussia Dortmund,1.2
+75,Niklas Süle,Borussia Dortmund,212190,Niklas Süle,Borussia Dortmund,1.2
+604,Emre Can,Borussia Dortmund,208333,Emre Can,Borussia Dortmund,1.2
+7485,Nico Schlotterbeck,Borussia Dortmund,247819,Nico Schlotterbeck,Borussia Dortmund,1.2
+5288,Gregor Kobel,Borussia Dortmund,235073,Gregor Kobel,Borussia Dortmund,1.2
+10868,Guela Doué,Strasbourg,275208,Guéla Doué,RC Strasbourg Alsace,1.2
+12284,Samir El Mourabet,Strasbourg,279702,Samir El Mourabet,RC Strasbourg Alsace,1.2
+12498,Valentín Barco,Strasbourg,263370,Valentín Barco,RC Strasbourg Alsace,1.2
+10804,Deniz Undav,VfB Stuttgart,244176,Deniz Undav,VfB Stuttgart,1.2
+9725,Angelo Stiller,VfB Stuttgart,250959,Angelo Stiller,VfB Stuttgart,1.2
+8878,Atakan Karazor,VfB Stuttgart,239096,Atakan Karazor,VfB Stuttgart,1.2
+6626,Joshua Vagnoman,VfB Stuttgart,242602,Josha Vagnoman,VfB Stuttgart,1.166
+13426,Finn Jeltsch,VfB Stuttgart,278780,Finn Jeltsch,VfB Stuttgart,1.2
+12927,Ramon Hendriks,VfB Stuttgart,251829,Ramon Hendriks,VfB Stuttgart,1.2
+7937,Julian Chabot,VfB Stuttgart,239340,Julian Chabot,VfB Stuttgart,1.2
+2639,Alexander Nübel,VfB Stuttgart,223885,Alexander Nübel,VfB Stuttgart,1.2
+9069,Romano Schmid,Werder Bremen,239701,Romano Schmid,SV Werder Bremen,1.2
+10734,Jens Stage,Werder Bremen,232711,Jens Stage,SV Werder Bremen,1.2
+7320,Amos Pieper,Werder Bremen,246836,Amos Pieper,SV Werder Bremen,1.2
+12761,Yukinari Sugawara,Werder Bremen,242916,Yukinari Sugawara,SV Werder Bremen,1.2
+12925,Mio Backhaus,Werder Bremen,268428,Mio Backhaus,SV Werder Bremen,1.2
+9783,Jae-Sung Lee,Mainz 05,221671,Jae Sung Lee,1. FSV Mainz 05,1.157
+12918,Kaishu Sano,Mainz 05,73078,Kaishū Sano,1. FSV Mainz 05,1.152
+10071,Lennard Maloney,Mainz 05,240669,Lennard Maloney,1. FSV Mainz 05,1.2
+10390,Ismaël Doukouré,Strasbourg,257090,Ismaël Doukouré,RC Strasbourg Alsace,1.2
+6321,Moritz Nicolas,Borussia M.Gladbach,235018,Moritz Nicolas,Borussia Mönchengladbach,1.2
+12919,Nikolas Veratschnig,Mainz 05,267862,Nikolas Veratschnig,1. FSV Mainz 05,1.2
+1427,Kevin Diks,Borussia M.Gladbach,224841,Kevin Diks,Borussia Mönchengladbach,1.2
+9053,Eric Martel,FC Cologne,256942,Eric Martel,1. FC Köln,1.2
+13909,Kristoffer Lund,FC Cologne,261313,Kristoffer Lund,1. FC Köln,1.2
+13908,Sebastian Sebulonsen,FC Cologne,254638,Sebastian Sebulonsen,1. FC Köln,1.2
+4376,Marvin Schwäbe,FC Cologne,224041,Marvin Schwäbe,1. FC Köln,1.2
+13816,Mike Penders,Strasbourg,270821,Mike Penders,RC Strasbourg Alsace,1.2
+11835,Senne Lynen,Werder Bremen,261659,Senne Lynen,SV Werder Bremen,1.2
+5340,Marco Friedl,Werder Bremen,237595,Marco Friedl,SV Werder Bremen,1.2
+10485,Guemissongui Ouattara,Strasbourg,75318,Abdoul Ouattara,RC Strasbourg Alsace,0.756
+5752,Alexis Claude Maurice,Augsburg,236477,Alexis Claude-Maurice,FC Augsburg,1.026
+7264,Han-Noah Massengo,Augsburg,246594,Han-Noah Massengo,FC Augsburg,1.2
+13865,Robin Fellhauer,Augsburg,269305,Robin Fellhauer,FC Augsburg,1.2
+11850,Cédric Zesiger,Augsburg,236369,Cédric Zesiger,FC Augsburg,1.2
+7401,Keven Schlotterbeck,Augsburg,244068,Keven Schlotterbeck,FC Augsburg,1.2
+13149,Noahkai Banks,Augsburg,73731,Noahkai Banks,FC Augsburg,1.2
+6596,Finn Dahmen,Augsburg,242818,Finn Dahmen,FC Augsburg,1.2
+13013,Haris Tabakovic,Borussia M.Gladbach,212002,Haris Tabaković,Borussia Mönchengladbach,1.2
+8826,Rocco Reitz,Borussia M.Gladbach,257919,Rocco Reitz,Borussia Mönchengladbach,1.2
+8401,Luca Netz,Borussia M.Gladbach,257919,Rocco Reitz,Borussia Mönchengladbach,0.55
+9674,Joe Scally,Borussia M.Gladbach,243133,Joe Scally,Borussia Mönchengladbach,1.2
+212,Nico Elvedi,Borussia M.Gladbach,221491,Nico Elvedi,Borussia Mönchengladbach,1.2
+14022,William Bøving,Mainz 05,256127,William Bøving,1. FSV Mainz 05,1.2
+40,Stefan Bell,Mainz 05,198352,Stefan Bell,1. FSV Mainz 05,1.2
+11318,Abner,Lyon,,,,0.494
+8092,Tom Krauß,FC Cologne,251392,Tom Krauß,1. FC Köln,1.2
+8205,Jan Thielmann,FC Cologne,254660,Jan Thielmann,1. FC Köln,1.2
+13913,Rav van den Berg,FC Cologne,259442,Rav van den Berg,1. FC Köln,1.2
+11484,Ibrahim Maza,Bayer Leverkusen,275029,Ibrahim Maza,Bayer 04 Leverkusen,1.2
+11868,Arthur,Bayer Leverkusen,,,,0.45
+7877,Robert Andrich,Bayer Leverkusen,212242,Robert Andrich,Bayer 04 Leverkusen,1.2
+8317,Edmond Tapsoba,Bayer Leverkusen,247263,Edmond Tapsoba,Bayer 04 Leverkusen,1.2
+10187,Jarell Quansah,Bayer Leverkusen,273651,Jarell Quansah,Bayer 04 Leverkusen,1.2
+7047,Mark Flekken,Bayer Leverkusen,211738,Mark Flekken,Bayer 04 Leverkusen,1.2
+11856,Marvin Pieringer,FC Heidenheim,260290,Marvin Pieringer,1. FC Heidenheim 1846,1.2
+10248,Arijon Ibrahimovic,FC Heidenheim,266236,Arijon Ibrahimović,1. FC Heidenheim 1846,1.2
+5347,Jonas Föhrenbach,FC Heidenheim,229277,Jonas Föhrenbach,1. FC Heidenheim 1846,1.2
+4312,Marnon Busch,FC Heidenheim,224980,Marnon Busch,1. FC Heidenheim 1846,1.2
+11853,Patrick Mainka,FC Heidenheim,216199,Patrick Mainka,1. FC Heidenheim 1846,1.2
+9753,Diant Ramaj,FC Heidenheim,248478,Diant Ramaj,1. FC Heidenheim 1846,1.2
+12413,Joaquín Panichelli,Strasbourg,273748,Joaquín Panichelli,RC Strasbourg Alsace,1.2
+13883,Joel Chima Fujita,St. Pauli,260464,Joel Chima Fujita,FC St. Pauli,1.2
+13325,James Sands,St. Pauli,242214,James Sands,FC St. Pauli,1.2
+12978,Jackson Irvine,St. Pauli,211378,Jackson Irvine,FC St. Pauli,1.2
+13884,Louis Oppie,St. Pauli,276610,Louis Oppie,FC St. Pauli,1.2
+13882,Arkadiusz Pyrka,St. Pauli,257886,Arkadiusz Pyrka,FC St. Pauli,1.2
+5344,Hauke Wahl,St. Pauli,230855,Hauke Wahl,FC St. Pauli,1.2
+12974,Karol Mets,St. Pauli,226506,Karol Mets,FC St. Pauli,1.2
+12973,Nikola Vasilj,St. Pauli,262956,Nikola Vasilj,FC St. Pauli,1.2
+10732,Jakub Kaminski,FC Cologne,252495,Jakub Kamiński,1. FC Köln,1.2
+10160,Noah Atubolu,Freiburg,262659,Noah Atubolu,SC Freiburg,1.2
+14187,Kacper Potulski,Mainz 05,81427,Kacper Potulski,1. FSV Mainz 05,1.2
+5263,Lukas Kübler,Freiburg,208335,Lukas Kübler,SC Freiburg,1.2
+249,Danny da Costa,Mainz 05,202429,Danny da Costa,1. FSV Mainz 05,1.2
+12029,Daniel Batz,Mainz 05,199803,Daniel Batz,1. FSV Mainz 05,1.2
+647,Harry Kane,Bayern Munich,202126,Harry Kane,FC Bayern München,1.2
+993,Serge Gnabry,Bayern Munich,206113,Serge Gnabry,FC Bayern München,1.2
+13573,Lennart Karl,Bayern Munich,78063,Lennart Karl,FC Bayern München,1.2
+9948,Michael Olise,Bayern Munich,247827,Michael Olise,FC Bayern München,1.2
+223,Joshua Kimmich,Bayern Munich,212622,Joshua Kimmich,FC Bayern München,1.2
+9458,Josip Stanisic,Bayern Munich,250955,Josip Stanišić,FC Bayern München,1.2
+217,Manuel Neuer,Bayern Munich,167495,Manuel Neuer,FC Bayern München,1.2
+11978,Diego Moreira,Strasbourg,270039,Diego Manuel J. da Silva Moreira,RC Strasbourg Alsace,0.791
+11058,Julio Enciso,Strasbourg,255434,Julio César Enciso,RC Strasbourg Alsace,1.0
+7997,Julian Ryerson,Borussia Dortmund,229891,Julian Ryerson,Borussia Dortmund,1.2
+10946,Yan Couto,Borussia Dortmund,259075,Yan Bueno Couto,Borussia Dortmund,0.95
+3349,Ramy Bensebaini,Borussia Dortmund,224196,Ramy Bensebaini,Borussia Dortmund,1.2
+6475,Lucas Höler,Freiburg,234875,Lucas Höler,SC Freiburg,1.2
+13102,Johan Manzambi,Freiburg,276694,Johan Manzambi,SC Freiburg,1.2
+11354,Yuito Suzuki,Freiburg,255185,Yuito Suzuki,SC Freiburg,1.2
+12976,Philipp Treu,Freiburg,262666,Philipp Treu,SC Freiburg,1.2
+125,Maximilian Eggestein,Freiburg,226168,Maximilian Eggestein,SC Freiburg,1.2
+9711,Patrick Osterhage,Freiburg,250931,Patrick Osterhage,SC Freiburg,1.2
+315,Matthias Ginter,Freiburg,207862,Matthias Ginter,SC Freiburg,1.2
+13910,Ísak Bergmann Jóhannesson,FC Cologne,246814,Ísak Bergmann Jóhannesson,1. FC Köln,1.2
+7048,Frederik Rönnow,Union Berlin,201269,Frederik Rønnow,1. FC Union Berlin,1.2
+9689,Albert Sambi Lokonga,Hamburger SV,241928,Albert Sambi Lokonga,Hamburger SV,1.2
+82,Nadiem Amiri,Mainz 05,225309,Nadiem Amiri,1. FSV Mainz 05,1.2
+8846,Paul Nebel,Mainz 05,257075,Paul Nebel,1. FSV Mainz 05,1.2
+269,Dominik Kohr,Mainz 05,212212,Dominik Kohr,1. FSV Mainz 05,1.2
+11309,Andreas Hanche-Olsen,Mainz 05,228518,Andreas Hanche-Olsen,1. FSV Mainz 05,1.2
+9860,Malik Tillman,Bayer Leverkusen,256853,Malik Tillman,Bayer 04 Leverkusen,1.2
+1055,Aleix García,Bayer Leverkusen,228813,Aleix García Serrano,Bayer 04 Leverkusen,0.8
+8665,Loic Bade,Bayer Leverkusen,255106,Loïc Badé,Bayer 04 Leverkusen,1.2
+10300,Jeanuël Belocian,Bayer Leverkusen,84354,Emmanuel Chigozie Owen,Bayer 04 Leverkusen,0.576
+14023,Conrad Harder,RasenBallsport Leipzig,277689,Conrad Harder,RB Leipzig,1.2
+7783,Xaver Schlager,RasenBallsport Leipzig,233195,Xaver Schlager,RB Leipzig,1.2
+11871,Nicolas Seiwald,RasenBallsport Leipzig,257876,Nicolas Seiwald,RB Leipzig,1.2
+7422,Christoph Baumgartner,RasenBallsport Leipzig,242187,Christoph Baumgartner,RB Leipzig,1.2
+9724,David Raum,RasenBallsport Leipzig,236703,David Raum,RB Leipzig,1.2
+9511,Castello Lukeba,RasenBallsport Leipzig,262138,Castello Lukeba,RB Leipzig,1.2
+5257,Willi Orban,RasenBallsport Leipzig,204638,Willi Orban,RB Leipzig,1.2
+5241,Péter Gulácsi,RasenBallsport Leipzig,185122,Péter Gulácsi,RB Leipzig,1.2
+11164,Martial Godo,Strasbourg,271940,Martial Godo,RC Strasbourg Alsace,1.2
+10408,Luis Díaz,Bayern Munich,241084,Luis Díaz,FC Bayern München,1.2
+335,Leon Goretzka,Bayern Munich,209658,Leon Goretzka,FC Bayern München,1.2
+183,Jonathan Tah,Bayern Munich,213331,Jonathan Tah,FC Bayern München,1.2
+5243,Dayotchanculle Upamecano,Bayern Munich,229558,Dayot Upamecano,FC Bayern München,0.969
+9861,Jonas Urbig,Bayern Munich,263887,Jonas Urbig,FC Bayern München,1.2
+6411,Niklas Dorsch,FC Heidenheim,231227,Niklas Dorsch,1. FC Heidenheim 1846,1.2
+11864,Benedikt Gimber,FC Heidenheim,228883,Benedikt Gimber,1. FC Heidenheim 1846,1.2
+11859,Omar Traoré,FC Heidenheim,257136,Omar Haktab Traoré,1. FC Heidenheim 1846,0.959
+782,Ben Chilwell,Strasbourg,229984,Ben Chilwell,RC Strasbourg Alsace,1.2
+7743,Pereira Lage,St. Pauli,233061,Mathias Pereira Lage,FC St. Pauli,0.95
+12984,Adam Dzwigala,St. Pauli,211362,Adam Dźwigała,FC St. Pauli,1.2
+10725,Danilho Doekhi,Union Berlin,232658,Danilho Doekhi,1. FC Union Berlin,1.2
+419,Maximilian Mittelstädt,VfB Stuttgart,227647,Maximilian Mittelstädt,VfB Stuttgart,1.2
+8791,Ritsu Doan,Eintracht Frankfurt,232639,Ritsu Doan,Eintracht Frankfurt,1.2
+205,Mahmoud Dahoud,Eintracht Frankfurt,218339,Mahmoud Dahoud,Eintracht Frankfurt,1.2
+13122,Nathaniel Brown,Eintracht Frankfurt,269701,Nathaniel Brown,Eintracht Frankfurt,1.2
+12430,Nnamdi Collins,Eintracht Frankfurt,256500,Nnamdi Collins,Eintracht Frankfurt,1.2
+12955,Aurèle Amenda,Eintracht Frankfurt,270846,Aurèle Amenda,Eintracht Frankfurt,1.2
+6273,Robin Koch,Eintracht Frankfurt,236532,Robin Koch,Eintracht Frankfurt,1.2
+126,Michael Zetterer,Eintracht Frankfurt,227370,Michael Zetterer,Eintracht Frankfurt,1.2
+10091,Tyler Morton,Lyon,265459,Tyler Morton,Olympique Lyonnais,1.2
+12884,Endrick,Lyon,,,,0.418
+13925,Ransford Königsdörffer,Hamburger SV,255036,Ransford-Yeboah Königsdörffer,Hamburger SV,1.08
+7749,Rayan Philippe,Hamburger SV,251961,Rayan Philippe,Hamburger SV,1.2
+13923,Nicolás Capaldo,Hamburger SV,246885,Nicolás Capaldo,Hamburger SV,1.2
+12937,Nicolai Remberg,Hamburger SV,276119,Nicolai Remberg,Hamburger SV,1.2
+13922,Miro Muheim,Hamburger SV,232839,Miro Muheim,Hamburger SV,1.2
+13725,Luka Vuskovic,Hamburger SV,275192,Luka Vušković,Hamburger SV,1.2
+5283,Daniel Heuer Fernandes,Hamburger SV,212197,Daniel Heuer Fernandes,Hamburger SV,1.2
+5251,Rani Khedira,Union Berlin,211999,Rani Khedira,1. FC Union Berlin,1.2
+13093,Derrick Köhn,Union Berlin,250941,Derrick Köhn,1. FC Union Berlin,1.2
+12920,Leopold Querfeld,Union Berlin,265576,Leopold Querfeld,1. FC Union Berlin,1.2
+10724,Diogo Leite,Union Berlin,234575,Diogo Filipe Pinto Leite,1. FC Union Berlin,0.829
+6415,Nikolas Nartey,VfB Stuttgart,238379,Nikolas Nartey,VfB Stuttgart,1.2
+4243,Christian Günter,Freiburg,209846,Christian Günter,SC Freiburg,1.2
+9718,Jamie Leweling,VfB Stuttgart,252448,Jamie Leweling,VfB Stuttgart,1.2
+5217,Anthony Jung,Freiburg,207897,Anthony Jung,SC Freiburg,1.2
+9756,Dominik Greif,Lyon,263139,Dominik Greif,Olympique Lyonnais,1.2
+1750,Ainsley Maitland-Niles,Lyon,225782,Ainsley Maitland-Niles,Olympique Lyonnais,1.2
+5989,Moussa Niakhate,Lyon,225859,Moussa Niakhaté,Olympique Lyonnais,1.2
+11227,Dzenan Pejcinovic,Wolfsburg,270532,Dženan Pejčinović,VfL Wolfsburg,1.2
+153,Maximilian Arnold,Wolfsburg,206511,Maximilian Arnold,VfL Wolfsburg,1.2
+140,Yannick Gerhardt,Wolfsburg,212245,Yannick Gerhardt,VfL Wolfsburg,1.2
+10863,Aaron Zehnter,Wolfsburg,270013,Aaron Zehnter,VfL Wolfsburg,1.2
+13063,Konstantinos Koulierakis,Wolfsburg,270077,Konstantinos Koulierakis,VfL Wolfsburg,1.2
+13714,Jenson Seelt,Wolfsburg,266467,Jenson Seelt,VfL Wolfsburg,1.2
+11157,Sael Kumbedi,Wolfsburg,268312,Saël Kumbedi,VfL Wolfsburg,1.2
+12964,Kamil Grabara,Wolfsburg,228383,Kamil Grabara,VfL Wolfsburg,1.2
+11819,Clinton Mata,Lyon,208364,Clinton Mukoni Mata Pedro Lourenço,Olympique Lyonnais,0.572
+13738,Ruben Kluivert,Lyon,262102,Ruben Kluivert,Olympique Lyonnais,1.2
+4340,Grischa Prömel,Hoffenheim,228595,Grischa Prömel,TSG 1899 Hoffenheim,1.2
+13861,Leon Avdullahu,Hoffenheim,276969,Leon Avdullahu,TSG 1899 Hoffenheim,1.2
+13860,Wouter Burger,Hoffenheim,244050,Wouter Burger,TSG 1899 Hoffenheim,1.2
+5245,Bernardo,Hoffenheim,232805,Bernardo Fernandes,TSG 1899 Hoffenheim,0.665
+13012,Robin Hranác,Hoffenheim,276646,Robin Hranáč,TSG 1899 Hoffenheim,1.2
+8965,Vladimir Coufal,Hoffenheim,244470,Vladimír Coufal,TSG 1899 Hoffenheim,1.2
+73,Oliver Baumann,Hoffenheim,193698,Oliver Baumann,TSG 1899 Hoffenheim,1.2
+11007,Fábio Vieira,Hamburger SV,256958,Fábio Daniel Ferreira Vieira,Hamburger SV,0.8
+10288,Anton Kade,Augsburg,266433,Anton Kade,FC Augsburg,1.2
+9986,Kristijan Jakic,Augsburg,257889,Kristijan Jakić,FC Augsburg,1.2
+8643,Chrislain Matsima,Augsburg,258432,Chrislain Matsima,FC Augsburg,1.2
+13866,Ilyas Ansah,Union Berlin,276372,Ilyas Ansah,1. FC Union Berlin,1.2
+11236,Aljoscha Kemlein,Union Berlin,271659,Aljoscha Kemlein,1. FC Union Berlin,1.2
+4271,Janik Haberer,Union Berlin,211879,Janik Haberer,1. FC Union Berlin,1.2
+11776,Guillaume Restes,Toulouse,265526,Guillaume Restes,Toulouse FC,1.2
+9220,Charlie Cresswell,Toulouse,254121,Charlie Cresswell,Toulouse FC,1.2
+9931,Lovro Majer,Wolfsburg,244261,Lovro Majer,VfL Wolfsburg,1.2
+646,Christian Eriksen,Wolfsburg,190460,Christian Eriksen,VfL Wolfsburg,1.2
+3357,Djibril Sidibe,Toulouse,201042,Djibril Sidibé,Toulouse FC,1.2
+10986,Kim Min-Jae,Bayern Munich,77126,Wisdom Mike,FC Bayern München,0.621
+11917,Mathias Honsak,FC Heidenheim,232156,Mathias Honsak,1. FC Heidenheim 1846,1.2
+11865,Jan Schöppner,FC Heidenheim,256292,Jan Schöppner,1. FC Heidenheim 1846,1.2
+5684,Arnaud Nordin,Rennes,236518,Arnaud Nordin,Stade Rennais FC,1.2
+12975,Eric Smith,St. Pauli,222369,Eric Smith,FC St. Pauli,1.2
+1236,Patrik Schick,Bayer Leverkusen,234236,Patrik Schick,Bayer 04 Leverkusen,1.2
+13857,Ernest Poku,Bayer Leverkusen,264219,Ernest Poku,Bayer 04 Leverkusen,1.2
+7106,Philipp Mwene,Mainz 05,216275,Phillipp Mwene,1. FSV Mainz 05,1.163
+13995,Sota Kawasaki,Mainz 05,266061,Sota Kawasaki,1. FSV Mainz 05,1.2
+10423,Lasse Rieß,Mainz 05,263116,Lasse Rieß,1. FSV Mainz 05,1.2
+6874,Yann Gboho,Toulouse,252937,Yann Gboho,Toulouse FC,1.2
+13756,Santiago Hidalgo,Toulouse,269719,Santiago Hidalgo,Toulouse FC,1.2
+5266,Vincenzo Grifo,Freiburg,212096,Vincenzo Grifo,SC Freiburg,1.2
+2611,Philipp Lienhart,Freiburg,231366,Philipp Lienhart,SC Freiburg,1.2
+11781,Philipp Köhn,Monaco,239364,Philipp Köhn,AS Monaco,1.2
+10792,Farès Chaïbi,Eintracht Frankfurt,270670,Farès Chaïbi,Eintracht Frankfurt,1.2
+9703,Maxim Leitsch,Mainz 05,234843,Maxim Leitsch,1. FSV Mainz 05,1.2
+6109,Konrad Laimer,Bayern Munich,225375,Konrad Laimer,FC Bayern München,1.2
+12842,Mark McKenzie,Toulouse,242195,Mark McKenzie,Toulouse FC,1.2
+12841,Dayann Methalie,Toulouse,74491,Dayann Methalie,Toulouse FC,1.2
+13078,Chema Andres,VfB Stuttgart,75056,José María Andrés Baixauli,VfB Stuttgart,0.576
+11699,Ameen Al Dakhil,VfB Stuttgart,263573,Ameen Al Dakhil,VfB Stuttgart,1.2
+10497,Yannick Engelhardt,Borussia M.Gladbach,262906,Yannik Engelhardt,Borussia Mönchengladbach,1.171
+13919,Jens Castrop,Borussia M.Gladbach,264194,Jens Castrop,Borussia Mönchengladbach,1.2
+14358,Pape Diop,Toulouse,271721,Pape Demba Diop,Toulouse FC,0.95
+11143,Nelson Weiper,Mainz 05,268259,Nelson Weiper,1. FSV Mainz 05,1.2
+5745,Matthieu Udol,Lens,229236,Matthieu Udol,RC Lens,1.2
+12915,Philipp Sander,Borussia M.Gladbach,243354,Philipp Sander,Borussia Mönchengladbach,1.2
+13561,Yan Diomande,RasenBallsport Leipzig,78012,Yan Diomande,RB Leipzig,1.2
+13917,Mamadou Sangaré,Lens,258601,Mamadou Sangaré,RC Lens,1.2
+13053,Saud Abdulhamid,Lens,246688,Saud Abdulhamid,RC Lens,1.2
+13432,Nidal Celik,Lens,77056,Nidal Čelik,RC Lens,1.2
+5238,Jordan Torunarigha,Hamburger SV,236947,Jordan Torunarigha,Hamburger SV,1.2
+10769,Robin Risser,Lens,271918,Robin Risser,RC Lens,1.2
+13973,Albian Hajdari,Hoffenheim,259074,Albian Hajdari,TSG 1899 Hoffenheim,1.2
+7376,Ozan Kabak,Hoffenheim,239890,Ozan Kabak,TSG 1899 Hoffenheim,1.2
+11142,Pierre Ganiou,Lens,75320,Ismaëlo Ganiou,RC Lens,0.867
+5648,Malang Sarr,Lens,235454,Malang Sarr,RC Lens,1.2
+3347,Ellyes Skhiri,Eintracht Frankfurt,225126,Ellyes Skhiri,Eintracht Frankfurt,1.2
+9999,Arthur Theate,Eintracht Frankfurt,257278,Arthur Theate,Eintracht Frankfurt,1.2
+10750,Rasmus Kristensen,Eintracht Frankfurt,233301,Rasmus Kristensen,Eintracht Frankfurt,1.2
+9399,Quentin Merlin,Rennes,261616,Quentin Merlin,Stade Rennais FC,1.2
+3673,Valentin Rongier,Rennes,223874,Valentin Rongier,Stade Rennais FC,1.2
+5969,Jean-Luc Dompe,Hamburger SV,224970,Jean-Luc Dompé,Hamburger SV,1.2
+12941,Antonio Nusa,RasenBallsport Leipzig,262863,Antonio Nusa,RB Leipzig,1.2
+12775,Kosta Nedeljkovic,RasenBallsport Leipzig,74207,Kosta Nedeljković,RB Leipzig,1.2
+6452,Mahdi Camara,Rennes,243631,Mahdi Camara,Stade Rennais FC,1.2
+11982,Jan-Niklas Beste,Freiburg,240451,Jan-Niklas Beste,SC Freiburg,1.2
+8677,Lilian Brassier,Rennes,251380,Lilian Brassier,Stade Rennais FC,1.2
+4748,Brice Samba,Rennes,204883,Brice Samba,Stade Rennais FC,1.2
+12159,Mahamadou Nagida,Rennes,279557,Mahamadou Nagida,Stade Rennais FC,1.2
+3738,Serhou Guirassy,Borussia Dortmund,215441,Serhou Guirassy,Borussia Dortmund,1.2
+5248,Marcel Sabitzer,Borussia Dortmund,204923,Marcel Sabitzer,Borussia Dortmund,1.2
+106,Waldemar Anton,Borussia Dortmund,229476,Waldemar Anton,Borussia Dortmund,1.2
+13460,Aaron Anselmino,Borussia Dortmund,251852,Karim Adeyemi,Borussia Dortmund,0.55
+10789,Anthony Rouault,Rennes,252512,Anthony Rouault,Stade Rennais FC,1.2
+12924,Marco Grüll,Werder Bremen,256548,Marco Grüll,SV Werder Bremen,1.2
+13496,Karim Coulibaly,Werder Bremen,77636,Karim Coulibaly,SV Werder Bremen,1.2
+12075,Kauã Santos,Eintracht Frankfurt,277929,Kauã Morais Vieira dos Santos,Eintracht Frankfurt,0.75
+11946,Mohamed Kaba,Nantes,263469,Mohamed Kaba,FC Nantes,1.2
+13062,Mohammed Amoura,Wolfsburg,264697,Mohamed Amoura,VfL Wolfsburg,1.166
+9730,Patrick Wimmer,Wolfsburg,254566,Patrick Wimmer,VfL Wolfsburg,1.2
+9943,Moritz Jenz,Wolfsburg,241494,Moritz Jenz,VfL Wolfsburg,1.2
+11866,Álex Grimaldo,Bayer Leverkusen,210035,Alejandro Grimaldo García,Bayer 04 Leverkusen,0.682
+2082,Youssef El-Arabi,Nantes,194209,Youssef El Arabi,FC Nantes,1.018
+8407,Tim Lemperle,Hoffenheim,256564,Tim Lemperle,TSG 1899 Hoffenheim,1.2
+10702,Johann Lepenant,Nantes,258619,Johann Lepenant,FC Nantes,1.2
+3269,Anthony Lopes,Nantes,199482,Anthony Lopes,FC Nantes,1.2
+11547,Aleksandar Pavlovic,Bayern Munich,275298,Aleksandar Pavlović,FC Bayern München,1.2
+9715,Hiroki Ito,Bayern Munich,234205,Hiroki Ito,FC Bayern München,1.2
+6017,Chidozie Awaziem,Nantes,232693,Chidozie Awaziem,FC Nantes,1.2
+6007,Nicolas Cozza,Nantes,239136,Nicolas Cozza,FC Nantes,1.2
+14432,Ali Youssif,Nantes,83275,Ali Youssif,FC Nantes,1.2
+7763,Fabien Centonze,Nantes,229971,Fabien Centonze,FC Nantes,1.2
+6708,Bote Baku,RasenBallsport Leipzig,240709,Ridle Baku,RB Leipzig,0.832
+13185,Jahmai Simpson-Pusey,FC Cologne,75577,Jahmai Simpson-Pusey,1. FC Köln,1.2
+13887,Jobe Bellingham,Borussia Dortmund,270964,Jobe Bellingham,Borussia Dortmund,1.2
+11790,Rassoul Ndiaye,Le Havre,251926,Rassoul Ndiaye,Le Havre AC,1.2
+12446,Simon Ebonog,Le Havre,271252,Simon Ebonog,Le Havre AC,1.2
+8056,Arnaud Kalimuendo Muinga,Eintracht Frankfurt,253444,Arnaud Kalimuendo,Eintracht Frankfurt,0.879
+7879,Marius Bülter,FC Cologne,244390,Marius Bülter,1. FC Köln,1.2
+13911,Said El Mala,FC Cologne,71178,Said El Mala,1. FC Köln,1.2
+10780,Mory Diaw,Le Havre,220820,Mory Diaw,Le Havre AC,1.2
+11787,Loïc Négo,Le Havre,188537,Loïc Négo,Le Havre AC,1.2
+11845,Phillip Tietz,Mainz 05,233216,Phillip Tietz,1. FSV Mainz 05,1.2
+1139,Silvan Widmer,Mainz 05,216158,Silvan Widmer,1. FSV Mainz 05,1.2
+3701,Gautier Lloris,Le Havre,222286,Gautier Lloris,Le Havre AC,1.2
+12928,Alexander Prass,Hoffenheim,263041,Alexander Prass,TSG 1899 Hoffenheim,1.2
+11756,Tiago Santos,Lille,270559,Tiago Carvalho Santos,Lille OSC,0.877
+9745,Dimitris Giannoulis,Augsburg,236457,Dimitris Giannoulis,FC Augsburg,1.2
+3237,Aissa Mandi,Lille,201143,Aïssa Mandi,Lille OSC,1.15
+10113,Fisnik Asllani,Hoffenheim,265577,Fisnik Asllani,TSG 1899 Hoffenheim,1.2
+13781,Berke Özer,Lille,239254,Berke Özer,Lille OSC,1.15
+14131,Amine Sbaï,Angers,273666,Amine Sbaï,Angers SCO,1.2
+13335,Goduine Koyalipou,Angers,240209,Goduine Koyalipou,Angers SCO,1.2
+11981,Benedict Hollerbach,Mainz 05,258715,Benedict Hollerbach,1. FSV Mainz 05,1.2
+5329,Stefan Posch,Mainz 05,223671,Stefan Posch,1. FSV Mainz 05,1.2
+13852,Rômulo,RasenBallsport Leipzig,,,,0.414
+11975,Leonidas Stergiou,FC Heidenheim,247360,Leonidas Stergiou,1. FC Heidenheim 1846,1.2
+12162,Ayyoub Bouaddi,Lille,278901,Ayyoub Bouaddi,Lille OSC,1.15
+12953,Igor Matanovic,Freiburg,259750,Igor Matanović,SC Freiburg,1.2
+12926,Bruno Ogbus,Freiburg,279045,Bruno Ogbus,SC Freiburg,1.2
+3223,Benjamin André,Lille,190674,Benjamin André,Lille OSC,1.15
+171,Michael Gregoritsch,Augsburg,199439,Michael Gregoritsch,FC Augsburg,1.2
+13051,Matias Fernandez-Pardo,Lille,276048,Matias Fernandez-Pardo,Lille OSC,1.15
+12421,Andrej Ilic,Union Berlin,277799,Andrej Ilić,1. FC Union Berlin,1.2
+13782,Nathan Ngoy,Lille,262071,Nathan Ngoy,Lille OSC,1.15
+10585,Justin Njinmah,Werder Bremen,266183,Justin Njinmah,SV Werder Bremen,1.2
+320,Jonas Hofmann,Bayer Leverkusen,210324,Jonas Hofmann,Bayer 04 Leverkusen,1.2
+4313,Janis Blaswich,Bayer Leverkusen,204092,Janis Blaswich,Bayer 04 Leverkusen,1.2
+5225,Bakery Jatta,Hamburger SV,234640,Bakery Jatta,Hamburger SV,1.2
+8372,Lucas Gourna Douath,Le Havre,257271,Lucas Gourna-Douath,Le Havre AC,1.023
+10289,Tom Bischof,Bayern Munich,263765,Tom Bischof,FC Bayern München,1.2
+4882,Laurent Abergel,Lorient,213367,Laurent Abergel,FC Lorient,1.15
+13975,Noah Cadiou,Lorient,276594,Noah Cadiou,FC Lorient,1.15
+10844,Darline Yongwa,Lorient,253490,Darlin Yongwa,FC Lorient,1.113
+9873,Montassar Talbi,Lorient,245410,Montassar Talbi,FC Lorient,1.15
+9661,Igor Silva,Lorient,242054,Igor Silva de Almeida,FC Lorient,0.645
+11031,Kilian Fischer,Wolfsburg,256281,Kilian Fischer,VfL Wolfsburg,1.2
+14329,Younes Ebnoutalib,Eintracht Frankfurt,76282,Younes Ebnoutalib,Eintracht Frankfurt,1.2
+11911,Hugo Larsson,Eintracht Frankfurt,268896,Hugo Larsson,Eintracht Frankfurt,1.2
+8854,Tim Siersleben,FC Heidenheim,258812,Tim Siersleben,1. FC Heidenheim 1846,1.2
+8869,Ragnar Ache,FC Cologne,235360,Ragnar Ache,1. FC Köln,1.2
+13429,Julian Niehues,FC Heidenheim,262754,Julian Niehues,1. FC Heidenheim 1846,1.2
+3414,Maxime Dupé,Nice,204513,Maxime Dupé,OGC Nice,1.2
+11991,Lukas Ullrich,Borussia M.Gladbach,271119,Lukas Ullrich,Borussia Mönchengladbach,1.2
+13750,Kojo Peprah Oppong,Nice,273948,Kojo Peprah Oppong,OGC Nice,1.2
+956,Andrej Kramaric,Hoffenheim,216354,Andrej Kramarić,TSG 1899 Hoffenheim,1.2
+148,Dante,Nice,,,,0.494
+6110,Yvon Mvogo,Lorient,206003,Yvon Mvogo,FC Lorient,1.15
+11792,Issa Soumaré,Le Havre,253121,Issa Soumaré,Le Havre AC,1.2
+7267,Woo-Yeong Jeong,Union Berlin,239138,Woo Yeong Jeong,1. FC Union Berlin,1.166
+7875,Christopher Trimmel,Union Berlin,193254,Christopher Trimmel,1. FC Union Berlin,1.2
+9015,Cenk Özkacar,FC Cologne,258396,Cenk Özkacar,1. FC Köln,1.2
+3696,Morgan Sanson,Nice,252960,Isak Jansson,OGC Nice,0.61
+14031,Charles Vanhoutte,Nice,244889,Charles Vanhoutte,OGC Nice,1.2
+8685,Mohamed Ali-Cho,Nice,256476,Mohamed-Ali Cho,OGC Nice,0.979
+11515,Tom Louchet,Nice,278187,Tom Louchet,OGC Nice,1.2
+9699,Bamo Meïté,Lorient,264401,Bamo Meïté,FC Lorient,1.15
+14024,Adam Daghim,Wolfsburg,268504,Adam Daghim,VfL Wolfsburg,1.2
+13920,Daniel Elfadli,Hamburger SV,269962,Daniel Elfadli,Hamburger SV,1.2
+9929,Théo Le Bris,Lorient,265544,Théo Le Bris,FC Lorient,1.15
+12983,Danel Sinani,St. Pauli,258626,Danel Sinani,FC St. Pauli,1.2
+12981,Manolis Saliakas,St. Pauli,222542,Manolis Saliakas,FC St. Pauli,1.2
+5256,Oliver Burke,Union Berlin,225632,Oliver Burke,1. FC Union Berlin,1.2
+10818,Kévin Danois,Auxerre,272894,Kévin Danois,AJ Auxerre,1.2
+6333,Elisha Owusu,Auxerre,238392,Elisha Owusu,AJ Auxerre,1.2
+13407,Fredrik Oppegård,Auxerre,260100,Fredrik Oppegård,AJ Auxerre,1.2
+13888,Danny Namaso,Auxerre,239631,Danny Namaso,AJ Auxerre,1.2
+7735,Donovan Léon,Auxerre,205377,Donovan Léon,AJ Auxerre,1.2
+9092,Marvin Senaya,Auxerre,263112,Marvin Senaya,AJ Auxerre,1.2
+14408,Bryan Okoh,Auxerre,263028,Bryan Okoh,AJ Auxerre,1.2
+8703,Sinaly Diomande,Auxerre,257204,Sinaly Diomandé,AJ Auxerre,1.2
+9807,Gideon Mensah,Auxerre,247124,Gideon Mensah,AJ Auxerre,1.2
+449,Robin Zentner,Mainz 05,224251,Robin Zentner,1. FSV Mainz 05,1.2
+261,Julian Brandt,Borussia Dortmund,212194,Julian Brandt,Borussia Dortmund,1.2
+13020,Bilal El Khannouss,VfB Stuttgart,257504,Bilal El Khannouss,VfB Stuttgart,1.2
+13425,Luca Jaquez,VfB Stuttgart,266685,Luca Jaquez,VfB Stuttgart,1.2
+239,Pascal Groß,Borussia Dortmund,,,,0.479
+6403,Timo Hübers,FC Cologne,234727,Timo Hübers,1. FC Köln,1.2
+6445,Elvis Rexhbecaj,Augsburg,240193,Elvis Rexhbeçaj,FC Augsburg,1.2
+12038,Fabian Rieder,Augsburg,259306,Fabian Rieder,FC Augsburg,1.2
+12070,Jordy Makengo,Freiburg,262668,Jordy Makengo,SC Freiburg,1.2
+7511,Sacha Boey,Bayern Munich,247827,Michael Olise,FC Bayern München,0.572
+11311,Aurélio Buta,Eintracht Frankfurt,270846,Aurèle Amenda,Eintracht Frankfurt,0.61
+13966,Martijn Kaars,St. Pauli,269264,Martijn Kaars,FC St. Pauli,1.2
+7739,Joris Chotard,Brest,252541,Joris Chotard,Stade Brestois 29,1.2
+5975,Kenny Lala,Brest,204105,Kenny Lala,Stade Brestois 29,1.2
+7736,Brendan Chardonnet,Brest,215410,Brendan Chardonnet,Stade Brestois 29,1.2
+11061,Michel Diaz,Brest,271691,Junior Diaz,Stade Brestois 29,0.745
+12053,Mikkel Kaufmann,FC Heidenheim,245264,Mikkel Kaufmann,1. FC Heidenheim 1846,1.2
+5742,Hugo Magnetti,Brest,244480,Hugo Magnetti,Stade Brestois 29,1.2
+6496,Ermedin Demirovic,VfB Stuttgart,238900,Ermedin Demirović,VfB Stuttgart,1.2
+8973,Lorenz Assignon,VfB Stuttgart,260574,Lorenz Assignon,VfB Stuttgart,1.2
+9692,Karl Hein,Werder Bremen,248732,Karl Hein,SV Werder Bremen,1.2
+6935,Naif Aguerd,Marseille,244749,Nayef Aguerd,Olympique de Marseille,1.07
+7486,Leonardo Balerdi,Marseille,242835,Leonardo Balerdi,Olympique de Marseille,1.2
+1245,Emerson,Marseille,,,,0.494
+343,Pierre-Emile Højbjerg,Marseille,213648,Pierre-Emile Højbjerg,Olympique de Marseille,1.2
+9233,Joakim Maehle,Wolfsburg,234678,Joakim Mæhle,VfL Wolfsburg,0.967
+6905,Ludovic Ajorque,Brest,219733,Ludovic Ajorque,Stade Brestois 29,1.2
+11604,Mert Kömür,Augsburg,274226,Mert Kömür,FC Augsburg,1.2
+13850,Johan Bakayoko,RasenBallsport Leipzig,265450,Johan Bakayoko,RB Leipzig,1.2
+2225,Gerónimo Rulli,Marseille,215316,Gerónimo Rulli,Olympique de Marseille,1.2
+6601,Timothy Weah,Marseille,241496,Timothy Weah,Olympique de Marseille,1.2
+9616,Grégoire Coudert,Brest,239203,Grégoire Coudert,Stade Brestois 29,1.2
+14008,Ezequiél Fernández,Bayer Leverkusen,262151,Ezequiel Fernández,Bayer 04 Leverkusen,1.2
+13809,Giorgi Tsitaishvili,Metz,245131,Giorgi Tsitaishvili,FC Metz,1.15
+10815,Lassine Sinayoko,Auxerre,251170,Lassine Sinayoko,AJ Auxerre,1.2
+13807,Jonathan Fischer,Metz,70118,Jonathan Fischer,FC Metz,1.15
+10394,Jonas Wind,Wolfsburg,241522,Jonas Wind,VfL Wolfsburg,1.2
+10872,Vinicius Souza,Wolfsburg,262929,Vinicius de Souza Costa,VfL Wolfsburg,0.807
+11798,Koffi Kouao,Metz,239919,Koffi Kouao,FC Metz,1.15
+4764,Jean-Philippe Gbamin,Metz,214947,Jean-Philippe Gbamin,FC Metz,1.15
+11806,Sadibou Sané,Metz,278065,Sadibou Sané,FC Metz,1.15
+370,Marvin Friedrich,Borussia M.Gladbach,222493,Marvin Friedrich,Borussia Mönchengladbach,1.2
+5769,Habib Diallo,Metz,225293,Habib Diallo,FC Metz,1.15
+13907,Joël Schmied,FC Cologne,258412,Joël Schmied,1. FC Köln,1.2
+422,Mario Götze,Eintracht Frankfurt,192318,Mario Götze,Eintracht Frankfurt,1.2
+129,Dominique Heintz,FC Cologne,206198,Dominique Heintz,1. FC Köln,1.2
+7940,Denis Vavro,Wolfsburg,240988,Denis Vavro,VfL Wolfsburg,1.2
+13742,Ayumu Seko,Le Havre,247264,Ayumu Seko,Le Havre AC,1.2
+7732,Haris Belkebla,Angers,224444,Haris Belkebla,Angers SCO,1.2
+13191,Assan Ouédraogo,RasenBallsport Leipzig,276602,Assan Ouédraogo,RB Leipzig,1.2
+13604,Prosper Peter,Angers,78295,Prosper Peter,Angers SCO,1.2
+5197,Achraf Hakimi,Paris Saint Germain,235212,Achraf Hakimi,Paris Saint-Germain,1.2
+11910,William Pacho,Paris Saint Germain,256196,Willian Pacho,Paris Saint-Germain,1.123
+11486,Illia Zabarnyi,Paris Saint Germain,258781,Illia Zabarnyi,Paris Saint-Germain,1.2
+2276,Lucas Hernández,Paris Saint Germain,220814,Lucas Hernández,Paris Saint-Germain,1.2
+10786,Warren Zaïre-Emery,Paris Saint Germain,270673,Warren Zaïre-Emery,Paris Saint-Germain,1.2
+8777,Vitinha,Paris Saint Germain,,,,0.45
+11855,Adrian Beck,FC Heidenheim,253133,Adrian Beck,1. FC Heidenheim 1846,1.2
+5480,Matvey Safonov,Paris Saint Germain,240225,Matvey Safonov,Paris Saint-Germain,1.2
+8137,Maximilian Beier,Borussia Dortmund,254117,Maximilian Beier,Borussia Dortmund,1.2
+11799,Lamine Camara,Monaco,275138,Lamine Camara,AS Monaco,1.2
+2897,Aleksandr Golovin,Monaco,225663,Alexandr Golovin,AS Monaco,1.109
+6147,Denis Zakaria,Monaco,229261,Denis Zakaria,AS Monaco,1.2
+8646,Wout Faes,Monaco,235036,Wout Faes,AS Monaco,1.2
+11062,Badredine Bouanani,VfB Stuttgart,270465,Badredine Bouanani,VfB Stuttgart,1.2
+2674,Thilo Kehrer,Monaco,226229,Thilo Kehrer,AS Monaco,1.2
+12950,Jordan Teze,Monaco,245211,Jordan Teze,AS Monaco,1.2
+12023,Thomas Keller,FC Heidenheim,266641,Frank Feller,1. FC Heidenheim 1846,0.61
+11016,Ousmane Camara,Angers,258439,Ousmane Camara,Angers SCO,1.2
+5756,Carlens Arcus,Angers,228591,Carlens Arcus,Angers SCO,1.2
+6895,Jordan Lefort,Angers,234515,Jordan Lefort,Angers SCO,1.2
+3314,Franck Honorat,Borussia M.Gladbach,220876,Franck Honorat,Borussia Mönchengladbach,1.2
+12922,Samuel Essende,Augsburg,268312,Saël Kumbedi,VfL Wolfsburg,0.538
+13798,Oumar Pona,Angers,70541,Oumar Pona,Angers SCO,1.2
+8190,Melvin Bard,Nice,254548,Melvin Bard,OGC Nice,1.2
+12626,Max Rosenfelder,Freiburg,263022,Max Rosenfelder,SC Freiburg,1.2
+7410,Andras Schafer,Union Berlin,247026,András Schäfer,1. FC Union Berlin,1.2
+849,Chancel Mbemba,Lille,210897,Chancel Mbemba,Lille OSC,1.15
+14048,Calvin Verdonk,Lille,227794,Calvin Verdonk,Lille OSC,1.15
+11074,Denis Huseinbasic,FC Cologne,269922,Denis Huseinbašić,1. FC Köln,1.2
+3286,Kevin Trapp,Paris FC,188943,Kevin Trapp,Paris FC,1.2
+13805,Adama Camara,Paris FC,276398,Adama Camara,Paris FC,1.2
+9563,Mamadou Mbow,Paris FC,247248,Moustapha Mbow,Paris FC,0.815
+10169,Diego Coppola,Paris FC,269181,Diego Coppola,Paris FC,1.2
+6103,Dan-Axel Zagadou,VfB Stuttgart,238476,Dan-Axel Zagadou,VfB Stuttgart,1.2
+8647,Thibault De Smet,Paris FC,237331,Thibault De Smet,Paris FC,1.2
+7108,Jonathan Burkardt,Eintracht Frankfurt,244257,Jonathan Burkardt,Eintracht Frankfurt,1.2
+10016,Bradley Barcola,Paris Saint Germain,264652,Bradley Barcola,Paris Saint-Germain,1.2
+7908,Marshall Munetsi,Paris FC,235432,Marshall Munetsi,Paris FC,1.2
+8697,Jonathan Clauss,Nice,239093,Jonathan Clauss,OGC Nice,1.2
+9629,El Chadaille Bitshiabu,RasenBallsport Leipzig,263193,El Chadaille Bitshiabu,RB Leipzig,1.2
+13100,Juma Bah,Nice,75148,Abdulai Juma Bah,OGC Nice,0.867
+5619,Pierre Lees-Melou,Paris FC,230020,Pierre Lees-Melou,Paris FC,1.2
+13856,Christian Kofane,Bayer Leverkusen,76416,Christian Kofane,Bayer 04 Leverkusen,1.2
+8325,Exequiel Palacios,Bayer Leverkusen,231521,Exequiel Palacios,Bayer 04 Leverkusen,1.2
+14126,Montrell Culbreath,Bayer Leverkusen,81844,Montrell Culbreath,Bayer 04 Leverkusen,1.2
+10860,Derry Scherhant,Freiburg,269705,Derry Scherhant,SC Freiburg,1.2
+9201,Eren Sami Dinkci,FC Heidenheim,258316,Eren Dinkçi,1. FC Heidenheim 1846,1.015
+9491,Warmed Omari,Hamburger SV,256854,Warmed Omari,Hamburger SV,1.2
+7882,Sheraldo Becker,Mainz 05,223790,Sheraldo Becker,1. FSV Mainz 05,1.2
+9537,William Mikelbrencis,Hamburger SV,262045,William Mikelbrencis,Hamburger SV,1.2
+12045,Aron Dønnum,Toulouse,237936,Aron Dønnum,Toulouse FC,1.2
+14345,Tomoya Ando,St. Pauli,83000,Tomoya Andō,FC St. Pauli,1.002
+14390,Mathias Rasmussen,St. Pauli,225266,Mathias Rasmussen,FC St. Pauli,1.2
+3549,Adrien Thomasson,Lens,208787,Adrien Thomasson,RC Lens,1.2
+13427,Bazoumana Touré,Hoffenheim,71418,Bazoumana Touré,TSG 1899 Hoffenheim,1.2
+942,Florian Thauvin,Lens,204970,Florian Thauvin,RC Lens,1.2
+13101,Arthur Chaves,Augsburg,74871,Arthur Largura Chaves,FC Augsburg,0.965
+12732,Yanis Zouaoui,Le Havre,72374,Yanis Zouaoui,Le Havre AC,1.2
+2693,Marius Wolf,Augsburg,224425,Marius Wolf,FC Augsburg,1.2
+12942,Maarten Vandevoordt,RasenBallsport Leipzig,242879,Maarten Vandevoordt,RB Leipzig,1.2
+14058,Cameron Puertas,Werder Bremen,256688,Cameron Puertas Castro,SV Werder Bremen,0.861
+12028,Olivier Deman,Werder Bremen,247771,Olivier Deman,SV Werder Bremen,1.2
+13548,Stephan Zagadou,Le Havre,77826,Stephan Zagadou,Le Havre AC,1.2
+13794,Arsène Kouassi,Lorient,72100,Arsène Kouassi,FC Lorient,1.15
+13414,Hennes Behrens,FC Heidenheim,76922,Hennes Behrens,1. FC Heidenheim 1846,1.2
+14147,Believe Munongo,Metz,,,,0.412
+10830,Jean Négoce,Eintracht Frankfurt,,,,0.505
+10772,Karim Adeyemi,Borussia Dortmund,251852,Karim Adeyemi,Borussia Dortmund,1.2
+13808,Michel Mboula,Metz,77149,Urie-Michel Mboula,FC Metz,1.017
+14420,Luca Reggiani,Borussia Dortmund,83751,Luca Reggiani,Borussia Dortmund,1.2
+12824,Clément Akpa,Auxerre,277503,Clément Akpa,AJ Auxerre,1.2
+231,Sven Ulreich,Bayern Munich,186569,Sven Ulreich,FC Bayern München,1.2
+7058,Kevin Stöger,Borussia M.Gladbach,204497,Kevin Stöger,Borussia Mönchengladbach,1.2
+6015,Kouakou Herve Koffi,Angers,239342,Hervé Koffi,Angers SCO,0.933
+262,Leonardo Bittencourt,Werder Bremen,203106,Leonardo Bittencourt,SV Werder Bremen,1.2
+13323,Budu Zivzivadze,FC Heidenheim,237633,Budu Zivzivadze,1. FC Heidenheim 1846,1.2
+6436,Stanley N&#039;Soki,Union Berlin,241941,Stanley Nsoki,1. FC Union Berlin,0.947
+13867,Matheo Raab,Union Berlin,257480,Matheo Raab,1. FC Union Berlin,1.2
+11294,Lilian Raolisoa,Angers,273835,Lilian Raolisoa,Angers SCO,1.2
+11310,Brajan Gruda,RasenBallsport Leipzig,272612,Brajan Gruda,RB Leipzig,1.2
+12880,Albert Grønbæk,Hamburger SV,256949,Albert Grønbæk,Hamburger SV,1.2
+11073,Fabio Chiarodia,Borussia M.Gladbach,264763,Fabio Chiarodia,Borussia Mönchengladbach,1.2
+10048,Nicolas Jackson,Bayern Munich,259197,Nicolas Jackson,FC Bayern München,1.2
+10550,Tom Rothe,Union Berlin,268116,Tom Rothe,1. FC Union Berlin,1.2
+11894,Max Finkgrafe,RasenBallsport Leipzig,277887,Max Finkgräfe,RB Leipzig,1.2
+10810,Alexsandro Ribeiro,Lille,269493,Alexsandro de Souza Ribeiro,Lille OSC,0.95
+6500,Romain Perraud,Lille,231318,Romain Perraud,Lille OSC,1.15
+12954,Can Uzun,Eintracht Frankfurt,275328,Can Uzun,Eintracht Frankfurt,1.2
+12952,Oscar Højlund,Eintracht Frankfurt,274952,Oscar Højlund,Eintracht Frankfurt,1.2
+9490,Matthis Abline,Nantes,264422,Matthis Abline,FC Nantes,1.2
+6449,Chris Führich,VfB Stuttgart,241925,Chris Führich,VfB Stuttgart,1.2
+13292,Carl Klaus,Union Berlin,252456,Carl Klaus,1. FC Union Berlin,1.2
+12387,Dehmaine Assoumani,Nantes,70477,Dehmaine Tabibou,FC Nantes,0.756
+3363,Benjamin Pavard,Marseille,226851,Benjamin Pavard,Olympique de Marseille,1.2
+14376,Quinten Timber,Marseille,251806,Quinten Timber,Olympique de Marseille,1.2
+7490,Mason Greenwood,Marseille,246147,Mason Greenwood,Olympique de Marseille,1.2
+2063,Timothée Kolodziejczak,Paris FC,190034,Timothée Kolodziejczak,Paris FC,1.2
+13577,Rudy Matondo,Paris FC,78070,Rudy Matondo,Paris FC,1.2
+12317,Nhoa Sangui,Paris FC,70012,Nhoa Sangui,Paris FC,1.2
+3455,Raphael Guerreiro,Bayern Munich,209889,Raphaël Guerreiro,FC Bayern München,1.2
+9656,Ilan Kebbal,Paris FC,257118,Ilan Kebbal,Paris FC,1.2
+9326,Robert Glatzel,Hamburger SV,236533,Robert Glatzel,Hamburger SV,1.2
+5358,Lukas Klostermann,RasenBallsport Leipzig,222331,Lukas Klostermann,RB Leipzig,1.2
+13968,Daouda Guindo,Brest,260237,Daouda Guindo,Stade Brestois 29,1.2
+2665,Jeffrey Gouweleeuw,Augsburg,202201,Jeffrey Gouweleeuw,FC Augsburg,1.2
+3721,Romain Del Castillo,Brest,231612,Romain Del Castillo,Stade Brestois 29,1.2
+9356,Carney Chukwuemeka,Borussia Dortmund,259356,Carney Chukwuemeka,Borussia Dortmund,1.2
+11767,Gonçalo Ramos,Paris Saint Germain,256903,Gonçalo Matias Ramos,Paris Saint-Germain,0.988
+12346,Beraldo,Paris Saint Germain,279709,Lucas Lopes Beraldo,Paris Saint-Germain,0.738
+11314,Keke Maximilian Topp,Werder Bremen,265749,Keke Topp,SV Werder Bremen,0.821
+8119,Boubacar Traore,Metz,252975,Boubacar Traoré,FC Metz,1.15
+13999,Terry Yegbe,Metz,70160,Terry Yegbe,FC Metz,1.15
+11777,Cristian Cásseres Jr.,Toulouse,242534,Cristian Cásseres Jr,Toulouse FC,1.2
+10788,Rasmus Nicolaisen,Toulouse,235244,Rasmus Nicolaisen,Toulouse FC,1.2
+14279,Kota Takai,Borussia M.Gladbach,264702,Kota Takai,Borussia Mönchengladbach,1.2
+13871,Otávio,Paris FC,234612,Jonathan Ikoné,Paris FC,0.55
+14025,Alessio Castro-Montes,FC Cologne,233965,Alessio Castro-Montes,1. FC Köln,1.2
+11840,Jovan Milosevic,Werder Bremen,276304,Jovan Milošević,SV Werder Bremen,1.2
+12934,Shuto Machino,Borussia M.Gladbach,245622,Shuto Machino,Borussia Mönchengladbach,1.2
+10790,Branco van den Boomen,Angers,229158,Branco van den Boomen,Angers SCO,1.2
+10517,Yassin Belkhdim,Angers,269729,Yassin Belkhdim,Angers SCO,1.2
+7345,Alphonso Davies,Bayern Munich,234396,Alphonso Davies,FC Bayern München,1.2
+13921,Giorgi Gocholeishvili,Hamburger SV,274722,Giorgi Gocholeishvili,Hamburger SV,1.2
+6846,Sofiane Diop,Nice,82740,Zoumana Diallo,OGC Nice,0.588
+418,Niklas Stark,Werder Bremen,212977,Niklas Stark,SV Werder Bremen,1.2
+12494,Frank Feller,FC Heidenheim,266641,Frank Feller,1. FC Heidenheim 1846,1.2
+14451,Christian Conteh,FC Heidenheim,248765,Christian Conteh,1. FC Heidenheim 1846,1.2
+13070,Ali Abdi,Nice,252711,Ali Abdi,OGC Nice,1.2
+14419,Jonas Adjetey,Wolfsburg,276634,Jonas Adjetey,VfL Wolfsburg,1.2
+4941,Hans Hateboer,Lyon,220093,Hans Hateboer,Olympique Lyonnais,1.2
+9885,Tanner Tessmann,Lyon,256104,Tanner Tessmann,Olympique Lyonnais,1.2
+8418,Jamal Musiala,Bayern Munich,256790,Jamal Musiala,FC Bayern München,1.2
+14406,Noah Nartey,Lyon,71170,Noah Nartey,Olympique Lyonnais,1.2
+12987,Luca Kerber,FC Heidenheim,260369,Luca Kerber,1. FC Heidenheim 1846,1.2
+13733,Andrija Bulatovic,Lens,77105,Andrija Bulatović,RC Lens,1.2
+12285,Mamadou Coulibaly,Monaco,279700,Mamadou Coulibaly,AS Monaco,1.2
+5177,Caio Henrique,Monaco,232440,Caio Henrique Oliveira Silva,AS Monaco,0.684
+9690,Folarin Balogun,Monaco,247463,Folarin Balogun,AS Monaco,1.2
+12904,Samuel Mbangula,Werder Bremen,74566,Samuel Mbangula,SV Werder Bremen,1.2
+1516,Geoffrey Kondogbia,Marseille,201455,Geoffrey Kondogbia,Olympique de Marseille,1.2
+5615,Valentin Rosier,Osasuna,234730,Valentin Rosier,CA Osasuna,1.2
+13620,Miguel Román,Celta Vigo,277029,Miguel Román González,RC Celta,0.777
+9243,Ilaix Moriba,Celta Vigo,259233,Ilaix Moriba,RC Celta,1.2
+12180,Javier Rodríguez,Celta Vigo,279027,Javier Rodríguez Galiano,RC Celta,0.85
+1621,Marcos Alonso,Celta Vigo,192638,Marcos Alonso Mendoza,RC Celta,0.815
+7655,Carl Starfelt,Celta Vigo,220821,Carl Starfelt,RC Celta,1.2
+1830,Ionut Radu,Celta Vigo,234102,Ionuț Andrei Radu,RC Celta,0.892
+11783,Akor Adams,Sevilla,266256,Akor Jerome Adams,Sevilla FC,0.941
+8165,Lucien Agoume,Sevilla,246683,Lucien Agoumé,Sevilla FC,1.2
+8283,Batista Mendy,Sevilla,244114,Batista Mendy,Sevilla FC,1.2
+11343,Gabriel Suazo,Sevilla,229649,Gabriel Suazo,Sevilla FC,1.2
+9809,José Ángel Carmona,Sevilla,264172,José Ángel Carmona Navarro,Sevilla FC,0.868
+10334,Kike Salas,Sevilla,,,,0.505
+375,Odisseas Vlachodimos,Sevilla,211990,Odysseas Vlachodimos,Sevilla FC,1.15
+5768,Remy Descamps,Lyon,234371,Rémy Descamps,Olympique Lyonnais,1.2
+9002,Vedat Muriqi,Mallorca,223710,Vedat Muriqi,RCD Mallorca,1.2
+2456,Omar Mascarell,Mallorca,208620,Omar Mascarell González,RCD Mallorca,0.807
+10974,Samú Costa,Mallorca,255566,Samuel Almeida Costa,RCD Mallorca,0.867
+6242,Johan Mojica,Mallorca,214026,Johan Mojica,RCD Mallorca,1.2
+7838,Martin Valjent,Mallorca,219585,Martin Valjent,RCD Mallorca,1.2
+12074,David López,Mallorca,278392,David López Guijarro,RCD Mallorca,0.76
+1003,Pablo Maffeo,Mallorca,221342,Pablo Maffeo Becerra,RCD Mallorca,0.8
+9839,Leo Román,Mallorca,258466,Leo Román Riquelme,RCD Mallorca,0.717
+7859,Sergio Herrera,Osasuna,224003,Sergio Herrera Pirón,CA Osasuna,0.874
+7604,Alejandro Catena,Osasuna,243976,Alejandro Catena Marugán,CA Osasuna,0.85
+6656,Sergio Gómez,Real Sociedad,241811,Sergio Gómez Martín,Real Sociedad,0.824
+7385,Javi Galán,Osasuna,231591,Javier Galán Gil,CA Osasuna,0.819
+11185,Pablo Marín,Real Sociedad,272455,Pablo Marín Tejada,Real Sociedad,0.809
+13936,Jon Gorrotxategi,Real Sociedad,74091,Jon Gorrotxategi,Real Sociedad,1.2
+7007,Duje Caleta-Car,Real Sociedad,225263,Duje Ćaleta-Car,Real Sociedad,1.2
+2417,Igor Zubeldia,Real Sociedad,233738,Igor Zubeldia Elorza,Real Sociedad,0.838
+2555,Remiro,Real Sociedad,,,,0.45
+11151,Marc Casadó,Barcelona,272600,Marc Casadó Torras,FC Barcelona,0.809
+9805,Álex Balde,Barcelona,263578,Alejandro Balde Martínez,FC Barcelona,0.579
+12005,Pau Cubarsí,Barcelona,278046,Pau Cubarsí Paredes,FC Barcelona,0.783
+8045,Eric Garcia,Barcelona,245037,Eric García Martret,FC Barcelona,0.783
+6433,Jules Koundé,Barcelona,241486,Jules Koundé,FC Barcelona,1.2
+9773,Joan García,Barcelona,259532,Joan García Pons,FC Barcelona,0.865
+8584,Raul Moro,Osasuna,258139,Raúl Moro Prescoli,CA Osasuna,0.717
+8424,Aimar Oroz,Osasuna,258937,Aimar Oroz Huarte,CA Osasuna,0.791
+13279,Víctor Muñoz,Osasuna,76042,Víctor Muñoz Villanueva,CA Osasuna,0.736
+11395,Iker Muñoz,Osasuna,274355,Iker Muñoz Cameros,CA Osasuna,0.764
+2478,Carlos Soler,Real Sociedad,234153,Carlos Soler Barragán,Real Sociedad,0.777
+12353,Jon Martín,Real Sociedad,277225,Jon Martín Vicente,Real Sociedad,0.764
+13837,David Affengruber,Elche,261264,David Affengruber,Elche CF,1.15
+13761,Filip Ugrinic,Valencia,236657,Filip Ugrinić,Valencia CF,1.2
+10382,Eray Cömert,Valencia,233885,Eray Cömert,Valencia CF,1.2
+2509,Dimitri Foulquier,Valencia,203177,Dimitri Foulquier,Valencia CF,1.2
+2619,Stole Dimitrievski,Valencia,211348,Stole Dimitrievski,Valencia CF,1.2
+10095,Abdessamad Ezzalzouli,Real Betis,264432,Abdessamad Ezzalzouli,Real Betis Balompié,1.2
+14001,Nelson Deossa,Real Betis,267430,Nelson Deossa,Real Betis Balompié,1.2
+11094,Antony,Real Betis,,,,0.494
+5086,Marc Roca,Real Betis,235945,Marc Roca Junqué,Real Betis Balompié,0.77
+308,Ricardo Rodríguez,Real Betis,193352,Ricardo Rodríguez,Real Betis Balompié,1.2
+2163,Diego Llorente,Real Betis,212602,Diego Javier Llorente Ríos,Real Betis Balompié,0.75
+2453,Marc Bartra,Real Betis,198141,Marc Bartra Aregall,Real Betis Balompié,0.783
+6427,Aitor Ruibal,Real Betis,241867,Aitor Ruibal García,Real Betis Balompié,0.824
+11740,Álvaro Vallés,Real Betis,246657,Álvaro Valles Rosa,Real Betis Balompié,0.889
+11087,Pep Chavarría,Rayo Vallecano,258371,Josep María Chavarría Pérez,Rayo Vallecano,0.65
+12286,Nobel Mendy,Rayo Vallecano,276633,Nobel Mendy,Rayo Vallecano,1.2
+5073,Florian Lejeune,Rayo Vallecano,197948,Florian Lejeune,Rayo Vallecano,1.2
+7515,Andrei Ratiu,Rayo Vallecano,248165,Andrei Rațiu,Rayo Vallecano,1.007
+12298,Augusto Batalla,Rayo Vallecano,227186,Augusto Batalla,Rayo Vallecano,1.2
+3423,Kylian Mbappe-Lottin,Real Madrid,231747,Kylian Mbappé,Real Madrid,0.863
+7008,Vinícius Júnior,Real Madrid,238794,Vinícius José de Oliveira Júnior,Real Madrid,0.838
+6560,Aurelien Tchouameni,Real Madrid,241637,Aurélien Tchouaméni,Real Madrid,1.2
+7359,Eduardo Camavinga,Real Madrid,248243,Eduardo Camavinga,Real Madrid,1.2
+6241,Federico Valverde,Real Madrid,239053,Federico Valverde,Real Madrid,1.2
+680,Thibaut Courtois,Real Madrid,192119,Thibaut Courtois,Real Madrid,1.2
+11527,Lamine Yamal,Barcelona,277643,Lamine Yamal Nasraoui Ebana,FC Barcelona,0.665
+7781,Frenkie de Jong,Barcelona,228702,Frenkie de Jong,FC Barcelona,1.2
+2505,José Gayá,Valencia,211688,José Luís Gayà Peña,Valencia CF,0.693
+8066,Arnaut Danjuma Groeneveld,Valencia,236276,Arnaut Danjuma,Valencia CF,0.768
+12182,Jon Aramburu,Real Sociedad,259848,Jon Mikel Aramburu,Real Sociedad,1.0
+7020,Gorka Guruzeta,Athletic Club,231184,Gorka Guruzeta Rodríguez,Athletic Club,0.787
+12263,Mikel Jauregizar,Athletic Club,279604,Mikel Jauregizar Alboniga,Athletic Club,0.83
+12724,Adama Boiro,Athletic Club,70344,Adama Boiro,Athletic Club,1.2
+2229,Yuri,Athletic Club,,,,0.383
+8948,Aitor Paredes,Athletic Club,259524,Aitor Paredes Casamichana,Athletic Club,0.734
+5185,Unai Simón,Athletic Club,230869,Unai Simón Mendibil,Athletic Club,0.74
+3603,Corentin Tolisso,Lyon,219683,Corentin Tolisso,Olympique Lyonnais,1.2
+14388,Luis Vázquez,Getafe,251651,Luis Vázquez,Getafe CF,1.2
+3264,Mauro Arambarri,Getafe,232665,Mauro Arambarri,Getafe CF,1.2
+8725,Luis Milla,Getafe,242201,Luis Milla Manzanares,Getafe CF,0.695
+9218,Juan Iglesias,Getafe,260178,Juan Antonio Iglesias Sánchez,Getafe CF,0.669
+7860,Domingos Duarte,Getafe,234835,Domingos Sousa Menezes Duarte,Getafe CF,0.882
+14387,Zaid Romero,Getafe,260404,Zaid Romero,Getafe CF,1.2
+6151,Djené Dakonam,Getafe,217940,Dakonam Djené,Getafe CF,0.588
+5043,Kiko Femenía,Getafe,189860,Francisco Femenía Far,Getafe CF,0.656
+2415,David Soria,Getafe,223952,David Soria Solís,Getafe CF,0.836
+7287,Iñaki Peña,Elche,246139,Ignacio Peña Sotorres,Elche CF,0.581
+8230,German Valera,Elche,254860,Germán Valera Karabinaite,Elche CF,0.684
+2353,Pedro Bigas,Elche,206222,Pedro Bigas Rigo,Elche CF,0.815
+8861,Urko Gonzalez,Espanyol,260546,Urko González de Zárate,RCD Espanyol,0.772
+7916,Pol Lozano,Espanyol,244407,Pol Lozano Vizuete,RCD Espanyol,0.764
+8902,José Salinas,Espanyol,258684,José Salinas Morán,RCD Espanyol,0.85
+6168,Leandro Cabrera,Espanyol,192816,Leandro Cabrera,RCD Espanyol,1.2
+10875,Omar El Hilali,Espanyol,261654,Omar El Hilali,RCD Espanyol,1.2
+6224,Marko Dmitrovic,Espanyol,227290,Marko Dmitrović,RCD Espanyol,1.2
+5656,Nicolas Pepe,Villarreal,226110,Nicolas Pépé,Villarreal CF,1.2
+8696,Pape Alassane Gueye,Villarreal,241707,Pape Gueye,Villarreal CF,0.89
+11744,Sergi Cardona,Villarreal,262402,Sergi Cardona Bermúdez,Villarreal CF,0.793
+11383,Renato Veiga,Villarreal,273906,Renato Palma Veiga,Villarreal CF,1.0
+12914,Pau Navarro,Villarreal,278659,Pau Navarro Badenes,Villarreal CF,0.783
+12917,Luiz Júnior,Villarreal,258885,Luiz Lúcio Reis Júnior,Villarreal CF,0.867
+10576,Álvaro Fernández,Real Madrid,246608,Álvaro Fidalgo Fernández,Real Betis Balompié,0.95
+11943,Dean Huijsen,Real Madrid,278349,Dean Huijsen,Real Madrid,1.2
+13201,Raúl,Real Madrid,264309,Arda Güler,Real Madrid,0.621
+6637,Hugo Duro,Valencia,243032,Hugo Duro Perales,Valencia CF,0.742
+10982,Copete,Valencia,263396,José Manuel Arias Copete,Valencia CF,0.6
+9793,Matías Dituro,Elche,207935,Matías Dituro,Elche CF,1.15
+7574,Leo Petrot,Elche,248559,Léo Pétrot,Elche CF,1.15
+8972,Victor Chust,Elche,259173,Víctor Chust García,Elche CF,0.774
+13200,Fernando López,Celta Vigo,75628,Fernando López González,RC Celta,0.807
+8122,Sergio Carreira,Celta Vigo,252866,Sergio Carreira Vilariño,RC Celta,0.819
+11402,Carlos Romero,Espanyol,270728,Carlos Romero Serrano,RCD Espanyol,0.815
+11924,Clemens Riedel,Espanyol,263575,Clemens Riedel,RCD Espanyol,1.2
+10858,Jorge Herrando,Osasuna,272433,Jorge Herrando Oroz,CA Osasuna,0.898
+11186,Alvaro Rodríguez,Elche,272445,Álvaro Daniel Rodríguez Muñoz,Elche CF,0.711
+7842,Aleix Febas,Elche,235522,Aleix Febas Pérez,Elche CF,0.786
+2385,Mat Ryan,Levante,199005,Mathew Ryan,Levante UD,0.992
+2399,Iñaki Williams,Athletic Club,216201,Iñaki Williams Arthuer,Athletic Club,0.828
+9825,Nicolás Serrano,Athletic Club,259422,Nicolás Serrano Galdeano,Athletic Club,0.819
+2498,Aymeric Laporte,Athletic Club,212218,Aymeric Laporte,Athletic Club,1.2
+6325,Andoni Gorosabel,Athletic Club,241049,Andoni Gorosabel Espinosa,Athletic Club,0.83
+11788,Arouna Sangante,Le Havre,262237,Arouna Sangante,Le Havre AC,1.2
+9001,Martín Satriano,Getafe,264325,Martín Satriano,Getafe CF,1.2
+1189,Lucas Boyé,Alaves,222041,Lucas Boyé,Deportivo Alavés,1.2
+9280,Antonio Blanco,Alaves,261987,Antonio Blanco Conde,Deportivo Alavés,0.874
+13319,Facundo Garcés,Alaves,258601,Mamadou Sangaré,RC Lens,0.552
+8423,Jon Pacheco Dozagarat,Alaves,255854,Jon Pacheco Dozagarat,Deportivo Alavés,1.2
+10364,Nahuel Tenaglia,Alaves,240953,Nahuel Tenaglia,Deportivo Alavés,1.2
+6075,Antonio Sivera,Alaves,222464,Antonio Sivera Salvá,Deportivo Alavés,0.874
+6170,André Silva,Elche,228941,André Miguel Valente da Silva,Elche CF,0.7
+257,Jeremy Toljan,Levante,214622,Jeremy Toljan,Levante UD,1.15
+7605,Manuel Sánchez,Levante,252327,Manuel Sánchez de la Peña,Levante UD,0.718
+11890,Natan,Real Betis,,,,0.435
+2269,Koke,Atletico Madrid,,,,0.317
+9796,Giuliano Simeone,Atletico Madrid,253396,Giuliano Simeone,Atlético Madrid,1.2
+7086,David Hancko,Atletico Madrid,247103,Dávid Hancko,Atlético Madrid,1.2
+2278,Giménez,Atletico Madrid,216460,José María Giménez,Atlético Madrid,0.76
+2518,Marcos Llorente,Atletico Madrid,226161,Marcos Llorente Moreno,Atlético Madrid,0.861
+2261,Jan Oblak,Atletico Madrid,200389,Jan Oblak,Atlético Madrid,1.2
+11322,Viktor Tsygankov,Girona,244369,Viktor Tsygankov,Girona FC,1.2
+7529,Iván Martín,Girona,246928,Iván Martín Núñez,Girona FC,0.836
+10949,Arnau Martinez,Girona,260815,Arnau Martínez López,Girona FC,0.874
+548,Daley Blind,Girona,190815,Daley Blind,Girona FC,1.2
+13380,Vitor Reis,Girona,76624,Vitor Reis,Girona FC,1.2
+12189,Hugo Rincón,Girona,279026,Hugo Rincón Lumbreras,Girona FC,0.738
+973,Paulo Gazzaniga,Girona,205186,Paulo Gazzaniga,Girona FC,1.2
+3621,Neal Maupay,Sevilla,211784,Neal Maupay,Sevilla FC,1.2
+7888,Nemanja Gudelj,Sevilla,193198,Nemanja Gudelj,Sevilla FC,1.2
+10930,Etta Eyong,Levante,271414,Karl Edouard Etta Eyong,Levante UD,0.756
+14258,Kareem Tunde,Levante,82834,Kareem Tunde Ruiz,Levante UD,0.828
+12160,Alberto Moleiro,Villarreal,264388,Alberto Moleiro González,Villarreal CF,0.819
+2521,Alfonso,Villarreal,228302,Alfonso Pedraza Sag,Villarreal CF,0.588
+5091,Alex Berenguer,Athletic Club,225201,Alejandro Berenguer Remiro,Athletic Club,0.7
+6766,Dani Vivian,Athletic Club,248550,Daniel Vivian Moreno,Athletic Club,0.76
+9768,Jesús Areso,Athletic Club,239614,Jesús Areso Blanco,Athletic Club,0.809
+8409,Juanlu Sanchez,Sevilla,184941,Alexis Sánchez,Sevilla FC,0.914
+13350,Roberto Fernández,Espanyol,263676,Roberto Fernández Jaén,RCD Espanyol,0.922
+10067,Rubén Sánchez,Espanyol,262479,Rubén Sánchez Sáez,RCD Espanyol,0.889
+11291,Warren Kamanzi,Toulouse,257970,Warren Kamanzi,Toulouse FC,1.2
+10846,Julián Álvarez,Atletico Madrid,246191,Julián Alvarez,Atlético Madrid,1.2
+10494,Pablo Barrios Rivas,Atletico Madrid,272449,Pablo Barrios Rivas,Atlético Madrid,1.2
+10189,Marc Pubill,Atletico Madrid,266039,Marc Pubill Pagès,Atlético Madrid,0.836
+8824,Jude Bellingham,Real Madrid,252371,Jude Bellingham,Real Madrid,1.2
+11900,Lucas Beltrán,Valencia,246258,Lucas Beltrán,Valencia CF,1.2
+2346,Aarón,Real Oviedo,220383,Aarón Escandell,Real Oviedo,0.55
+9275,Iván Romero,Levante,264173,Iván Romero de Ávila,Levante UD,0.71
+8183,Pablo Martínez,Levante,243312,Pablo Martínez Andrés,Levante UD,0.8
+10319,Adrián De la Fuente,Levante,245290,Adrián De La Fuente,Levante UD,1.15
+12078,Alan Matturro,Levante,274082,Alan Matturro,Levante UD,1.15
+13615,Oso,Sevilla,,,,0.4
+13839,Marc Aguado,Elche,246809,Marc Aguado Pallarés,Elche CF,0.71
+8935,Pedri,Barcelona,,,,0.421
+11822,Fermín López,Barcelona,277179,Fermín López Marín,FC Barcelona,0.85
+10397,Ugo Raghouber,Levante,74774,Ugo Raghouber,Levante UD,1.15
+9217,Jesús Vázquez,Valencia,260082,Jesús Vázquez Alcalde,Valencia CF,0.815
+7174,Adrià Pedrosa,Elche,246113,Adrià Giner Pedrosa,Elche CF,0.963
+2183,Rubén García,Osasuna,211022,Rubén García Santos,CA Osasuna,0.824
+7857,Jon Moncayola,Osasuna,247495,Jon Moncayola Tollar,CA Osasuna,0.838
+12893,Enzo Boyomo,Osasuna,259066,Flavien-Enzo Boyomo,CA Osasuna,0.959
+7071,Álvaro García,Rayo Vallecano,216447,Álvaro García Rivera,Rayo Vallecano,0.838
+12863,Pedro Díaz,Rayo Vallecano,236492,Pedro Díaz Fanjul,Rayo Vallecano,0.791
+9815,Pathé Ciss,Rayo Vallecano,250858,Pathé Ciss,Rayo Vallecano,1.2
+8733,Alfonso Espino,Rayo Vallecano,247131,Alfonso Espino,Rayo Vallecano,1.2
+227,Robert Lewandowski,Barcelona,188545,Robert Lewandowski,FC Barcelona,1.2
+13983,David Carmo,Real Oviedo,251616,David Mota Teixeira Carmo,Real Oviedo,0.811
+7050,Lucas Torró,Osasuna,208137,Lucas Torró Marset,CA Osasuna,0.809
+14041,Vladyslav Vanat,Girona,271541,Vladyslav Vanat,Girona FC,1.2
+3425,Thomas Lemar,Girona,213565,Thomas Lemar,Girona FC,1.2
+4120,Álex Moreno,Girona,217036,Alexandre Moreno Lopera,Girona FC,0.697
+2090,Marc-André ter Stegen,Girona,192448,Marc-André ter Stegen,Girona FC,1.2
+13705,Federico Viñas,Real Oviedo,253385,Federico Viñas,Real Oviedo,1.2
+13701,Ilyas Chaira,Real Oviedo,262300,Ilyas Chaira,Real Oviedo,1.2
+8413,Javier López,Real Oviedo,73215,José Luis Pereda López,Real Oviedo,0.788
+4160,David Costas,Real Oviedo,219848,David Costas Cordal,Real Oviedo,0.824
+5058,Carles Aleñá,Alaves,233113,Carles Aleñá Castillo,Deportivo Alavés,0.777
+10857,Pablo Ibáñez,Alaves,264160,Pablo Ibáñez Lumbreras,Deportivo Alavés,0.756
+2280,Jonny,Alaves,,,,0.4
+11216,Rodrigo Mendoza,Elche,269622,Federico Redondo,Elche CF,0.581
+9199,John Donald,Elche,260083,John Chetauya Donald,Elche CF,0.86
+12323,Johnny Cardoso,Atletico Madrid,259516,João Lucas de Souza Cardoso,Atlético Madrid,0.688
+8872,Matteo Ruggeri,Atletico Madrid,259584,Matteo Ruggeri,Atlético Madrid,1.2
+7276,Robin Le Normand,Atletico Madrid,233486,Robin Le Normand,Atlético Madrid,1.2
+8963,Nahuel Molina,Atletico Madrid,233084,Nahuel Molina,Atlético Madrid,1.2
+10200,Rafa Marín,Villarreal,277244,Rafael Marín Zamora,Villarreal CF,0.74
+13003,Santiago Mouriño,Villarreal,276493,Santiago Mouriño,Villarreal CF,1.2
+11797,Maxime Colin,Metz,201136,Maxime Colin,FC Metz,1.15
+3393,Bouna Sarr,Metz,204472,Bouna Sarr,FC Metz,1.15
+11826,Carlos Benavídez,Alaves,244948,Carlos Protesoni,Deportivo Alavés,0.675
+10143,Bryan Zaragoza,Celta Vigo,,,,0.479
+13361,Jones El Abdellaoui,Celta Vigo,270860,Jones El-Abdellaoui,RC Celta,1.023
+10078,Hugo Álvarez,Celta Vigo,266331,Hugo Álvarez Antúnez,RC Celta,0.8
+2234,Mikel Oyarzabal,Real Sociedad,230142,Mikel Oyarzabal Ugarte,Real Sociedad,0.861
+7306,Aihen Muñoz,Real Sociedad,246748,Aihen Muñoz Capellán,Real Sociedad,0.76
+13699,Kwasi Sibo,Real Oviedo,253114,Kwasi Sibo,Real Oviedo,1.2
+5727,Gauthier Hein,Metz,234239,Gauthier Hein,FC Metz,1.15
+2107,Pau López,Real Betis,221087,Pau López Sabata,Real Betis Balompié,0.77
+5074,Kike García,Espanyol,192678,Enrique García Martínez,RCD Espanyol,0.579
+13374,Ángel Ortiz,Real Betis,76740,Ángel Ortiz Monterrey,Real Betis Balompié,0.738
+5081,Edu Expósito,Espanyol,229862,Eduardo Expósito Jaén,RCD Espanyol,0.777
+11349,Mario Martín,Getafe,274555,Mario Martín Rielves,Getafe CF,0.8
+6931,Fran Beltrán,Girona,235997,Francisco José Beltrán Peinado,Girona FC,0.621
+13845,Valentín Gómez,Real Betis,267860,Valentín Gómez,Real Betis Balompié,1.2
+2543,Borja Iglesias,Celta Vigo,224179,Borja Iglesias Quintás,RC Celta,0.828
+8187,Georges Mikautadze,Villarreal,254551,Georges Mikautadze,Villarreal CF,1.2
+8107,Jorge De Frutos,Rayo Vallecano,243559,Jorge de Frutos Sebastián,Rayo Vallecano,0.8
+8050,Hichem Boudaoui,Nice,83396,Kaïl Boudache,OGC Nice,0.55
+2597,Dani Calvo,Real Oviedo,219180,Daniel Pedro Calvo Sanromán,Real Oviedo,0.591
+6709,Yehvann Diouf,Nice,235633,Yehvann Diouf,OGC Nice,1.2
+9514,Antoine Mendy,Nice,272515,Antoine Mendy,OGC Nice,1.2
+5682,Gonçalo Guedes,Real Sociedad,224411,Gonçalo Manuel Ganchinho Guedes,Real Sociedad,0.822
+9465,Beñat Turrientes,Real Sociedad,262510,Beñat Turrientes Imaz,Real Sociedad,0.915
+2621,Sergi Darder,Mallorca,202648,Sergi Darder Moll,RCD Mallorca,0.878
+2584,Raíllo,Mallorca,,,,0.431
+14392,Ángel Pérez,Alaves,76768,Ángel Pérez Hidalgo,Deportivo Alavés,0.783
+8417,Álex Baena,Atletico Madrid,257279,Alejandro Baena Rodríguez,Atlético Madrid,0.564
+10975,Largie Ramazani,Valencia,243134,Largie Ramazani,Valencia CF,1.2
+10322,Javier Guerra,Valencia,266436,Javier Guerra Moreno,Valencia CF,0.838
+7070,Santiago Comesaña,Villarreal,235781,Santiago Comesaña Veiga,Villarreal CF,0.9
+7826,Joseph Aidoo,Celta Vigo,230021,Joseph Aidoo,RC Celta,1.2
+8267,Guido Rodríguez,Valencia,225659,Guido Rodríguez,Valencia CF,1.2
+1450,Umar Sadiq,Valencia,231627,Umar Sadiq,Valencia CF,1.2
+9466,Jon Ander Olasagasti,Levante,262500,Jon Ander Olasagasti Imizcoz,Levante UD,0.833
+13083,Matías Moreno,Levante,276820,Matías Moreno,Levante UD,1.15
+3059,Axel Witsel,Girona,177413,Axel Witsel,Girona FC,1.2
+6400,Antonio Martínez,Alaves,234826,Antonio Martínez López,Deportivo Alavés,0.892
+13278,Youssef Lekhedim,Alaves,278003,Youssef Enríquez Lekhedim,Deportivo Alavés,0.98
+12207,Victor Parada,Alaves,279109,Víctor Parada González,Deportivo Alavés,0.793
+281,Lukas Hradecky,Monaco,190941,Lukáš Hrádecký,AS Monaco,1.2
+14323,Julio Díaz,Atletico Madrid,82936,Julio Díaz Del Romo,Atlético Madrid,0.74
+4091,Unai López,Rayo Vallecano,222390,Unai López Cabrera,Rayo Vallecano,0.764
+6177,Luiz Felipe,Rayo Vallecano,236355,Luiz Felipe Ramos Marchi,Rayo Vallecano,0.679
+5065,Diego Rico,Getafe,220414,Diego Rico Salguero,Getafe CF,0.74
+14389,Sebastián Boselli,Getafe,273850,Sebastián Boselli,Getafe CF,1.2
+12035,Gonzalo García,Real Madrid,278399,Gonzalo García Torres,Real Madrid,0.85
+1822,Antonio Rüdiger,Real Madrid,205452,Antonio Rüdiger,Real Madrid,1.2
+14018,Lucas Ahijado,Real Oviedo,229894,Lucas Ahijado Quintana,Real Oviedo,0.793
+13848,Thiago Pitarch,Real Madrid,80807,Thiago Pitarch Pinar,Real Madrid,0.874
+6233,Ferland Mendy,Real Madrid,228618,Ferland Mendy,Real Madrid,1.2
+1791,Trent Alexander-Arnold,Real Madrid,231281,Trent Alexander-Arnold,Real Madrid,1.2
+13700,Alberto Reina,Real Oviedo,275985,Alberto Reina Campos,Real Oviedo,0.838
+6149,Unai Núñez,Valencia,240900,Unai Núñez Gestoso,Valencia CF,0.764
+8058,Thierry Correia,Valencia,247832,Thierry Rendall Correia,Valencia CF,0.989
+13829,Tyrhys Dolan,Espanyol,257063,Tyrhys Dolan,RCD Espanyol,1.2
+2589,Rafa Mir,Elche,231628,Rafael Mir Vicente,Elche CF,0.615
+1235,Ante Budimir,Osasuna,188335,Ante Budimir,CA Osasuna,1.2
+2624,Djibril Sow,Sevilla,229752,Djibril Sow,Sevilla FC,1.2
+2335,Pablo Fornals,Real Betis,226456,Pablo Fornals Malla,Real Betis Balompié,0.863
+8764,Oriol Rey,Levante,242279,Oriol Rey Erenas,Levante UD,0.72
+7870,Luis Rioja,Valencia,224415,Luis Rioja González,Valencia CF,0.74
+10107,César Tárrega,Valencia,265726,César Tárrega Requeni,Valencia CF,0.815
+14050,Kervin Arriaga,Levante,267873,Kervin Arriaga,Levante UD,1.15
+6531,Alexander Sørloth,Atletico Madrid,216549,Alexander Sørloth,Atlético Madrid,1.2
+7074,Nicolás González,Atletico Madrid,240690,Nico Gonzalez,Atlético Madrid,1.097
+13358,Thiago Almada,Atletico Madrid,245371,Thiago Almada,Atlético Madrid,1.2
+9811,Óscar Valentín,Rayo Vallecano,243558,Óscar Valentín Martín Luengo,Rayo Vallecano,0.717
+13991,Jan Virgili,Mallorca,80915,Jan Virgili Tenas,RCD Mallorca,0.836
+2306,Cédric Bakambu,Real Betis,198951,Cédric Bakambu,Real Betis Balompié,1.2
+13996,Tani Oluwaseyi,Villarreal,271108,Tani Oluwaseyi,Villarreal CF,1.2
+9297,Abdelkabir Abqar,Getafe,245628,Abdelkabir Abqar,Getafe CF,1.2
+7779,Oihan Sancet,Athletic Club,244675,Oihan Sancet Tirapu,Athletic Club,0.824
+1739,Eric Bailly,Real Oviedo,225508,Eric Bailly,Real Oviedo,1.2
+12190,Arda Güler,Real Madrid,264309,Arda Güler,Real Madrid,1.2
+6916,Fernando Calero,Espanyol,240289,Fernando Calero Villa,RCD Espanyol,0.883
+391,David Alaba,Real Madrid,197445,David Alaba,Real Madrid,1.2
+8026,Raphinha,Barcelona,,,,0.479
+2379,João Cancelo,Barcelona,210514,João Pedro Cavaco Cancelo,FC Barcelona,0.849
+12821,Gerard Martín,Barcelona,74462,Gerard Martín Langreo,FC Barcelona,0.815
+681,César Azpilicueta,Sevilla,184432,César Azpilicueta Tanco,Sevilla FC,0.9
+9812,Isi Palazón,Rayo Vallecano,232498,Isaac Palazón Camacho,Rayo Vallecano,0.675
+10121,Ilias Akhomach,Rayo Vallecano,265578,Ilias Akhomach,Rayo Vallecano,1.2
+14400,Lucas Cepeda,Elche,71013,Lucas Cepeda,Elche CF,1.15
+10100,Kamory Doumbia,Brest,267702,Kamory Doumbia,Stade Brestois 29,1.2
+9755,Inigo Ruiz de Galarreta,Athletic Club,205157,Iñigo Ruiz de Galarreta,Athletic Club,1.2
+13769,Carlos Espí,Levante,70967,Carlos Espí Escrihuela,Levante UD,0.667
+6291,Diego Pampín,Levante,241055,Diego Varela Pampín,Levante UD,0.924
+14316,Nicolás Fonseca,Real Oviedo,266608,Nicolás Fonseca,Real Oviedo,1.2
+5162,Nacho Vidal,Real Oviedo,238305,Ignacio Vidal Miralles,Real Oviedo,0.656
+6227,Brais Méndez,Real Sociedad,235944,Brais Méndez Portela,Real Sociedad,0.8
+12790,Abel Bretones,Osasuna,271145,Abel Bretones Cruz,CA Osasuna,0.889
+11065,Remy Labeau Lascary,Brest,274692,Rémy Labeau Lascary,Stade Brestois 29,1.2
+6441,Ferrán Torres,Barcelona,241461,Ferran Torres García,FC Barcelona,0.838
+13787,Manuel Fernández,Celta Vigo,80666,Manuel Fernández Arroyo,RC Celta,0.871
+11401,Haissem Hassan,Real Oviedo,245870,Haissem Hassan,Real Oviedo,1.2
+7236,Leander Dendoncker,Real Oviedo,212501,Leander Dendoncker,Real Oviedo,1.2
+13953,Santiago Colombatto,Real Oviedo,232770,Santiago Colombatto,Real Oviedo,1.2
+14012,Fábio Cardoso,Sevilla,213917,Fábio Rafael Rodrigues Cardoso,Sevilla FC,0.805
+13600,Andrés Castrín,Sevilla,275468,Andrés García Robledo,Aston Villa,0.571
+4175,Pere Milla,Espanyol,225926,Pere Milla Peña,RCD Espanyol,0.85
+8001,Takefusa Kubo,Real Sociedad,237681,Takefusa Kubo,Real Sociedad,1.2
+11264,Carlos Álvarez,Levante,274209,Carlos Álvarez Rivera,Levante UD,0.8
+11057,André Almeida,Valencia,247729,Domingos André Ribeiro Almeida,Valencia CF,0.805
+9824,Julen Agirrezabala,Valencia,263880,Julen Agirrezabala,Valencia CF,1.2
+8328,Azz-Eddine Ounahi,Girona,255125,Azzedine Ounahi,Girona FC,1.168
+9011,Óscar Mingueza,Celta Vigo,259694,Óscar Mingueza García,RC Celta,0.85
+2228,Aritz Elustondo,Real Sociedad,226221,Aritz Elustondo,Real Sociedad,1.2
+13793,Lamine Sy,Auxerre,268440,Lamine Sy,AJ Auxerre,1.2
+8500,Víctor García,Levante,246011,Víctor García Raja,Levante UD,0.839
+12643,Javier Rueda,Celta Vigo,72426,Javier Rueda García,RC Celta,0.824
+13698,Rahim Alhassane,Real Oviedo,73502,Rahim Alhassane,Real Oviedo,1.2
+12328,Arthur Avom,Lorient,69997,Arthur Avom Ebong,FC Lorient,0.786
+8015,Rodrygo,Real Madrid,243812,Rodrygo Silva de Goes,Real Madrid,0.55
+9810,Fran García,Real Madrid,241867,Aitor Ruibal García,Real Betis Balompié,0.75
+2308,Denis Suárez,Alaves,205192,Denis Suárez Fernández,Deportivo Alavés,0.756
+3536,Jean-Victor Makengo,Lorient,230686,Jean-Victor Makengo,FC Lorient,1.15
+2551,Pepelu,Valencia,,,,0.358
+6954,Juan Camilo Hernández,Real Betis,237034,Juan Camilo Hernández Suárez,Real Betis Balompié,0.907
+2609,Gerard Gumbau,Rayo Vallecano,214944,Gerard Gumbau Garriga,Rayo Vallecano,0.815
+10701,Nicolás Tagliafico,Lyon,211256,Nicolás Tagliafico,Olympique Lyonnais,1.2
+7829,Eder Militão,Real Madrid,240130,Éder Gabriel Militão,Real Madrid,0.95
+9694,Diego López,Valencia,264238,Diego López Noguerol,Valencia CF,0.76
+13627,Alejandro Rego,Athletic Club,78550,Alejandro Rego Mora,Athletic Club,0.898
+5050,Clement Lenglet,Atletico Madrid,220440,Clément Lenglet,Atlético Madrid,1.2
+12742,Peque,Sevilla,241707,Pape Gueye,Villarreal CF,0.533
+770,Ayoze Pérez,Villarreal,215590,Ayoze Pérez Gutiérrez,Villarreal CF,0.738
+6306,Juan Foyth,Villarreal,237221,Juan Foyth,Villarreal CF,1.2
+13735,Pavel Sulc,Lyon,247050,Pavel Šulc,Olympique Lyonnais,1.2
+7338,Bryan Gil Salvatierra,Girona,246785,Bryan Gil Salvatierra,Girona FC,1.2
+13836,Álvaro Núñez,Elche,272445,Álvaro Daniel Rodríguez Muñoz,Elche CF,0.537
+9211,Nico Williams,Athletic Club,256516,Nicholas Williams Arthuer,Athletic Club,0.734
+2252,Borja Mayoral,Getafe,228635,Borja Mayoral Moya,Getafe CF,0.889
+11208,Mateo Joseph,Mallorca,270206,Mateo Joseph,RCD Mallorca,1.2
+11809,Lucas Bergström,Mallorca,261375,Lucas Bergström,RCD Mallorca,1.2
+556,Marcus Rashford,Barcelona,231677,Marcus Rashford,FC Barcelona,1.2
+6324,Marash Kumbulla,Mallorca,245426,Marash Kumbulla,RCD Mallorca,1.2
+11757,Hákon Haraldsson,Lille,262088,Hákon Arnar Haraldsson,Lille OSC,0.992
+5681,Giovani Lo Celso,Real Betis,226226,Giovani Lo Celso,Real Betis Balompié,1.2
+12294,Carlos Vicente,Alaves,244948,Carlos Protesoni,Deportivo Alavés,0.65
+2378,Daniel Parejo,Villarreal,189513,Daniel Parejo Muñoz,Villarreal CF,0.863
+11154,Pablo Durán,Celta Vigo,272453,Pablo Durán Fernández,RC Celta,0.738
+11953,Sergi Altimira,Real Betis,276471,Sergio Altimira Clavell,Real Betis Balompié,0.807
+2479,Toni Lato,Mallorca,232008,Antonio Latorre Grueso,RCD Mallorca,0.631
+8070,Mateu Morey,Mallorca,248820,Mateu Jaume Morey Bauzá,RCD Mallorca,0.697
+5680,Thomas Meunier,Lille,202371,Thomas Meunier,Lille OSC,1.15
+914,Nabil Bentaleb,Lille,213296,Nabil Bentaleb,Lille OSC,1.15
+12850,Esteban Lepaul,Rennes,70415,Estéban Lepaul,Stade Rennais FC,1.2
+13697,Oier Luengo,Real Oviedo,,,,0.487
+13758,Seny Koumbassa,Toulouse,80695,Seny Koumbassa,Toulouse FC,1.2
+2403,Íñigo Lekue,Athletic Club,225523,Iñigo Lekue Martínez,Athletic Club,0.76
+5666,Mouctar Diakhaby,Valencia,230578,Mouctar Diakhaby,Valencia CF,1.2
+12322,Tajon Buchanan,Villarreal,246800,Tajon Buchanan,Villarreal CF,1.2
+12382,Nathaniel Adjei,Lorient,271075,Nathaniel Adjei,FC Lorient,1.15
+13904,Abdoulaye Faye,Lorient,277969,Abdoulaye Faye,FC Lorient,1.15
+498,Alexis Sánchez,Sevilla,184941,Alexis Sánchez,Sevilla FC,1.2
+7528,Sergio Camello,Rayo Vallecano,248805,Sergio Camello Pérez,Rayo Vallecano,0.874
+13159,Marius Louãr,Angers,75423,Marius Louër,Angers SCO,0.967
+565,Nyom,Getafe,192667,Allan-Roméo Nyom,Getafe CF,0.621
+8804,Felix Agu,Werder Bremen,243350,Felix Agu,SV Werder Bremen,1.2
+12360,Julián Malatini,Werder Bremen,261182,Julián Malatini,SV Werder Bremen,1.2
+8664,Facundo Medina,Marseille,236804,Facundo Medina,Olympique de Marseille,1.2
+8117,Nick Woltemade,VfB Stuttgart,238379,Nikolas Nartey,VfB Stuttgart,0.55
+12986,Léo Scienza,FC Heidenheim,,,,0.512
+8700,Xavi Simons,RasenBallsport Leipzig,79107,Andrija Maksimović,RB Leipzig,0.533
+7934,Andreas Skov Olsen,Wolfsburg,257637,Daniel Klein,FC Augsburg,0.533
+14010,Igor Paixão,Marseille,271400,Igor Guilherme Barbosa da Paixão,Olympique de Marseille,0.712
+9911,Piero Hincapié,Bayer Leverkusen,82392,Jesper Schlich,Bayer 04 Leverkusen,0.55
+8456,Nathan Tella,Bayer Leverkusen,237328,Nathan Tella,Bayer 04 Leverkusen,1.2
+6351,Robin Hack,Borussia M.Gladbach,239367,Robin Hack,Borussia Mönchengladbach,1.2
+14396,Alexander Freeman,Villarreal,267920,Alex Freeman,Villarreal CF,1.028
+8548,Arnau Tenas,Villarreal,259065,Arnau Tenas Ureña,Villarreal CF,0.836
+12723,Alejandro Francés,Girona,254310,Alejandro Francés Torrijo,Girona FC,0.86
+11825,Abderrahmane Rebbach,Alaves,270834,Abderrahman Rebbach,Deportivo Alavés,1.174
+14439,Obed Vargas,Atletico Madrid,263701,Obed Vargas,Atlético Madrid,1.2
+14225,Javier Boñar,Atletico Madrid,85082,Javier Morcillo,Atlético Madrid,0.717
+7095,Juan Musso,Atletico Madrid,214979,Juan Musso,Atlético Madrid,1.2
+6750,Gonzalo Villar,Elche,244393,Gonzalo Villar del Fraile,Elche CF,0.718
+9659,Bradley Locko,Brest,263908,Bradley Locko,Stade Brestois 29,1.2
+12642,Yoel Lago,Celta Vigo,72425,Yoel Lago Amil,RC Celta,0.833
+2120,Gerard Moreno,Villarreal,224309,Joan Jordán Moreno,Sevilla FC,0.795
+5062,Yeray Álvarez,Athletic Club,227950,Yeray Álvarez López,Athletic Club,0.863
+8694,Chidera Ejuke,Sevilla,238050,Chidera Ejuke,Sevilla FC,1.2
+7194,Andriy Lunin,Real Madrid,243952,Andriy Lunin,Real Madrid,1.2
+492,Héctor Bellerín,Real Betis,203747,Héctor Bellerín Moruno,Real Betis Balompié,0.861
+13812,Alpha Touré,Metz,73485,Alpha Touré,FC Metz,1.15
+13694,Jozhua Vertrouwd,Rayo Vallecano,73316,Jozhua Vertrouwd,Rayo Vallecano,1.2
+5672,Iván Balliu,Rayo Vallecano,203581,Iván Balliu,Rayo Vallecano,1.2
+9961,Nuno Mendes,Paris Saint Germain,252145,Nuno Alexandre Tavares Mendes,Paris Saint-Germain,0.75
+12988,Sirlord Conteh,FC Heidenheim,251002,Sirlord Conteh,1. FC Heidenheim 1846,1.2
+318,Pierre-Emerick Aubameyang,Marseille,188567,Pierre-Emerick Aubameyang,Olympique de Marseille,1.2
+8989,Ansgar Knauff,Eintracht Frankfurt,257540,Ansgar Knauff,Eintracht Frankfurt,1.2
+13817,Lucas Høgsberg,Strasbourg,276377,Lucas Høgsberg,RC Strasbourg Alsace,1.2
+6380,Anthony Caci,Mainz 05,236636,Anthony Caci,1. FSV Mainz 05,1.2
+2253,Lucas Vázquez,Bayer Leverkusen,208618,Lucas Vázquez Iglesias,Bayer 04 Leverkusen,0.793
+10243,Jacques Ekomie,Angers,271061,Jacques Ekomié,Angers SCO,1.2
+8895,Tete Morente,Elche,231628,Rafael Mir Vicente,Elche CF,0.533
+7308,Ander Barrenetxea,Real Sociedad,246672,Ander Barrenetxea,Real Sociedad,1.2
+7927,Sofyan Amrabat,Real Betis,224158,Sofyan Amrabat,Real Betis Balompié,1.2
+8549,Ferrán Jutglà,Celta Vigo,265800,Ferran Jutglà Blanch,RC Celta,0.838
+9520,Hugo Sotelo,Celta Vigo,264095,Hugo Sotelo Gómez,RC Celta,0.836
+9519,Carlos Domínguez,Celta Vigo,262140,Carlos Dominguez Cáceres,RC Celta,0.85
+8091,Ronald Araújo,Barcelona,253163,Ronald Araujo,FC Barcelona,1.2
+10944,Fran Pérez,Rayo Vallecano,248805,Sergio Camello Pérez,Rayo Vallecano,0.733
+7981,Nianzou Kouassi,Sevilla,252961,Tanguy Nianzou,Sevilla FC,0.533
+6955,Ezequiel Ávila,Real Betis,228520,Ezequiel Ávila,Real Betis Balompié,1.2
+7350,Yangel Herrera,Real Sociedad,234060,Yangel Herrera,Real Sociedad,1.2
+8292,Dani Olmo,Barcelona,244260,Daniel Olmo Carvajal,FC Barcelona,0.671
+14129,Xavi Espart,Barcelona,81863,Xavi Espart Font,FC Barcelona,0.865
+2260,Daniel Carvajal,Real Madrid,204963,Daniel Carvajal Ramos,Real Madrid,0.883
+8108,Daniel Cárdenas,Rayo Vallecano,236033,Daniel Cárdenas Líndez,Rayo Vallecano,0.861
+7810,Ruben Vargas,Sevilla,238581,Ruben Vargas,Sevilla FC,1.2
+13048,Orri Óskarsson,Real Sociedad,269186,Orri Óskarsson,Real Sociedad,1.2
+12862,Luka Sucic,Real Sociedad,258775,Luka Sučić,Real Sociedad,1.2
+14233,Dani Martinez,Atletico Madrid,225523,Iñigo Lekue Martínez,Athletic Club,0.817
+3291,Adrien Rabiot,AC Milan,210008,Adrien Rabiot,AC Milan,1.2
+8642,Strahinja Pavlovic,AC Milan,254840,Strahinja Pavlović,AC Milan,1.2
+4920,Matteo Gabbia,AC Milan,240277,Matteo Gabbia,AC Milan,1.2
+703,Fikayo Tomori,AC Milan,232756,Fikayo Tomori,AC Milan,1.2
+3737,Mike Maignan,AC Milan,215698,Mike Maignan,AC Milan,1.2
+5992,Marcus Thuram,Inter,228093,Marcus Thuram,Inter,1.2
+1386,Piotr Zielinski,Inter,210406,Piotr Zieliński,Inter,1.2
+1409,Nicolò Barella,Inter,224232,Nicolò Barella,Inter,1.2
+10891,Carlos Augusto,Inter,258648,Carlos Augusto Zopolato Neves,Inter,0.701
+6490,Manuel Akanji,Inter,229237,Manuel Akanji,Inter,1.2
+199,Yann Sommer,Inter,177683,Yann Sommer,Inter,1.2
+1102,Giovanni Simeone,Torino,216816,Giovanni Simeone,Torino,1.2
+6276,Nikola Vlasic,Torino,241095,Nikola Vlašić,Torino,1.2
+10899,Emirhan Ilkhan,Torino,266257,Emirhan İlkhan,Torino,1.2
+8554,Rafael Obrador,Torino,258507,Rafael Obrador Burguera,Torino,0.807
+8632,Enzo Ebosse,Torino,241007,Enzo Ebosse,Torino,1.2
+9090,Ardian Ismajli,Torino,258782,Ardian Ismajli,Torino,1.2
+9044,Alberto Paleari,Torino,235740,Alberto Paleari,Torino,1.2
+13934,Martin Baturina,Como,262842,Martin Baturina,Como,1.2
+8182,Lucas Da Cunha,Como,254579,Lucas Da Cunha,Como,1.2
+11378,Máximo Perrone,Como,267991,Máximo Perrone,Como,1.2
+12822,Álex Valle,Como,273875,Álex Valle Gómez,Como,0.819
+12436,Jacobo Ramón,Como,70966,Jacobo Ramón Naveros,Como,0.8
+8297,Alexis Saelemaekers,AC Milan,242664,Alexis Saelemaekers,AC Milan,1.2
+10890,Michele Di Gregorio,Juventus,235840,Michele Di Gregorio,Juventus,1.2
+5610,Jean Butez,Como,225149,Jean Butez,Como,1.2
+8313,Pierre Kalulu Kyatengwa,Juventus,255654,Pierre Kalulu,Juventus,0.772
+8326,Maduka Okoye,Udinese,257288,Maduka Okoye,Udinese,1.2
+6902,Toma Basic,Lazio,245275,Toma Bašić,Lazio,1.2
+1204,Patric,Lazio,,,,0.494
+13447,Oliver Provstgaard,Lazio,266123,Oliver Provstgaard,Lazio,1.2
+1119,Alessio Romagnoli,Lazio,210413,Alessio Romagnoli,Lazio,1.2
+6180,Manuel Lazzari,Lazio,235374,Manuel Lazzari,Lazio,1.2
+14391,Edoardo Motta,Lazio,277802,Edoardo Motta,Lazio,1.2
+6253,Gianluca Scamacca,Atalanta,226710,Gianluca Scamacca,Atalanta,1.2
+7500,Giacomo Raspadori,Atalanta,253002,Giacomo Raspadori,Atalanta,1.2
+1134,Mario Pasalic,Atalanta,223273,Mario Pašalić,Atalanta,1.2
+1927,Berat Gjimshiti,Atalanta,208165,Berat Djimsiti,Atalanta,0.947
+9107,Giorgio Scalvini,Atalanta,265188,Giorgio Scalvini,Atalanta,1.2
+8871,Marco Carnesecchi,Atalanta,252154,Marco Carnesecchi,Atalanta,1.2
+11877,Michael Folorunsho,Cagliari,268683,Michael Folorunsho,Cagliari,1.2
+7507,Gianluca Gaetano,Cagliari,246877,Gianluca Gaetano,Cagliari,1.2
+10073,Adam Obert,Cagliari,266636,Adam Obert,Cagliari,1.2
+6521,Yerry Mina,Cagliari,220523,Yerry Mina,Cagliari,1.2
+14019,Zé Pedro,Cagliari,,,,0.471
+6706,Ndary Adopo,Cagliari,254982,Michel Ndary Adopo,Cagliari,0.959
+7087,Elia Caprile,Cagliari,255303,Elia Caprile,Cagliari,1.2
+1122,Manuel Locatelli,Juventus,222077,Manuel Locatelli,Juventus,1.2
+5360,Weston McKennie,Juventus,238744,Weston McKennie,Juventus,1.2
+6960,Bremer,Juventus,,,,0.494
+8090,Lloyd Kelly,Juventus,231512,Lloyd Kelly,Juventus,1.2
+13443,Ivan Smolcic,Como,77163,Ivan Smolčić,Como,1.2
+11380,Vitinha,Genoa,,,,0.431
+6618,Oumar Solet,Udinese,242238,Oumar Solet,Udinese,1.2
+13395,Danilo Veiga,Lecce,271539,Danilo Filipe Melo Veiga,Lecce,0.867
+14417,Kieron Bowie,Verona,,,,0.48
+1496,Roberto Gagliardini,Verona,,,,0.5
+12854,Martin Frese,Verona,232284,Mark Travers,Everton,0.583
+14416,Andrias Edmundsson,Verona,,,,0.467
+13449,Victor Nelsson,Verona,76624,Vitor Reis,Girona FC,0.667
+8881,Lorenzo Montipò,Verona,76172,Lorenzo Venturino,Roma,0.75
+8638,Lucas Chevalier,Paris Saint Germain,251752,Lucas Chevalier,Paris Saint-Germain,1.2
+11470,Niccolò Pisilli,Roma,275291,Niccolò Pisilli,Roma,1.2
+12104,Neil El Aynaoui,Roma,262745,Neil El Aynaoui,Roma,1.2
+1168,Bryan Cristante,Roma,208268,Bryan Cristante,Roma,1.2
+13891,Wesley,Roma,,,,0.431
+6159,Gianluca Mancini,Roma,229582,Gianluca Mancini,Roma,1.2
+7049,Evan Ndicka,Roma,236403,Evan Ndicka,Roma,1.2
+10967,Mile Svilar,Roma,230872,Mile Svilar,Roma,1.2
+10172,Jonathan Rowe,Bologna,266500,Jonathan Rowe,Bologna,1.2
+11039,Lewis Ferguson,Bologna,242280,Lewis Ferguson,Bologna,1.2
+1488,Remo Freuler,Bologna,202024,Remo Freuler,Bologna,1.2
+11038,Jhon Lucumí,Bologna,231207,Jhon Lucumí,Bologna,1.2
+13894,Torbjørn Heggem,Bologna,248342,Torbjørn Heggem,Bologna,1.2
+1544,Federico Ravaglia,Bologna,240657,Federico Ravaglia,Bologna,1.2
+13939,Stefano Moreo,Pisa,222959,Stefano Moreo,Pisa,1.2
+10383,Michel Aebischer,Pisa,236898,Michel Aebischer,Pisa,1.2
+10345,Samuele Angori,Pisa,270658,Samuele Angori,Pisa,1.2
+9853,Simone Canestrelli,Pisa,264480,Simone Canestrelli,Pisa,1.2
+4984,Wladimiro Falcone,Lecce,210676,Wladimiro Falcone,Lecce,1.2
+13027,Gaby Jean,Lecce,270888,Gaby Jean,Lecce,1.2
+10957,Mikael Ellertsson,Genoa,264436,Mikael Egill Ellertsson,Genoa,1.05
+13875,Jamil Siebert,Lecce,259299,Jamil Siebert,Lecce,1.2
+10365,Morten Frendrup,Genoa,242633,Morten Frendrup,Genoa,1.2
+9985,Johan Vásquez,Genoa,244349,Johan Vásquez,Genoa,1.2
+12958,Alessandro Marcandalli,Genoa,276477,Alessandro Marcandalli,Genoa,1.2
+10237,Leo Østigard,Genoa,238516,Leo Østigård,Genoa,1.2
+11962,Oussama El Azzouzi,Auxerre,269745,Oussama El Azzouzi,AJ Auxerre,1.2
+10994,Kristian Thorstvedt,Sassuolo,242725,Kristian Thorstvedt,Sassuolo,1.2
+399,Ulisses García,Sassuolo,223143,Ulisses Garcia,Sassuolo,1.2
+13879,Tarik Muharemovic,Sassuolo,262027,Tarik Muharemović,Sassuolo,1.2
+12989,Jay Idzes,Sassuolo,262396,Jay Idzes,Sassuolo,1.2
+8030,Sebastian Walukiewicz,Sassuolo,243497,Sebastian Walukiewicz,Sassuolo,1.2
+8101,Stefano Turati,Sassuolo,254502,Stefano Turati,Sassuolo,1.2
+10716,Manor Solomon,Fiorentina,246791,Manor Solomon,Fiorentina,1.2
+10366,Albert Gudmundsson,Fiorentina,238004,Albert Guðmundsson,Fiorentina,1.2
+7379,Nicolo Fagioli,Fiorentina,260823,Nicolò Fagioli,Fiorentina,1.2
+11768,Cher Ndour,Fiorentina,276682,Cher Ndour,Fiorentina,1.2
+6696,Luca Ranieri,Fiorentina,240777,Luca Ranieri,Fiorentina,1.2
+1301,Daniele Rugani,Fiorentina,211320,Daniele Rugani,Fiorentina,1.2
+10935,Dodô,Fiorentina,74926,Eddy Kouadio,Fiorentina,0.55
+546,David de Gea,Fiorentina,193080,David De Gea Quintana,Fiorentina,0.777
+12362,Santiago Pierotti,Lecce,253139,Santiago Pierotti,Lecce,1.2
+11945,Ylber Ramadani,Lecce,243787,Ylber Ramadani,Lecce,1.2
+3334,Lassana Coulibaly,Lecce,230107,Lassana Coulibaly,Lecce,1.2
+8009,Antonino Gallo,Lecce,244717,Antonino Gallo,Lecce,1.2
+12040,Thomas Thiesson Kristensen,Udinese,261573,Thomas Kristensen,Udinese,0.991
+7785,Kingsley Ehizibue,Udinese,225669,Kingsley Ehizibue,Udinese,1.2
+6929,Adrian Semper,Pisa,244274,Adrian Šemper,Pisa,1.2
+13069,Ismaël Koné,Sassuolo,264207,Ismaël Koné,Sassuolo,1.2
+11551,Marco Palestra,Cagliari,278339,Marco Palestra,Cagliari,1.2
+11955,Alberto Dossena,Cagliari,237586,Alberto Dossena,Cagliari,1.2
+8626,Nikola Moro,Bologna,244270,Nikola Moro,Bologna,1.2
+7286,Juan Miranda,Bologna,240915,Juan Miranda González,Bologna,0.777
+14382,Eivind Helland,Bologna,278724,Eivind Helland,Bologna,1.2
+1193,Lorenzo De Silvestri,Bologna,170320,Lorenzo De Silvestri,Bologna,1.2
+13237,Massimo Pessina,Bologna,75741,Massimo Pessina,Bologna,1.2
+10467,Soumaila Coulibaly,Brest,261495,Soumaila Coulibaly,Stade Brestois 29,1.2
+13739,Afonso Moreira,Lyon,276901,Afonso Bastardo Moreira,Olympique Lyonnais,0.957
+13964,Petar Sucic,Inter,276278,Petar Sučić,Inter,1.2
+1324,Federico Dimarco,Inter,226268,Federico Dimarco,Inter,1.2
+9840,Denzel Dumfries,Inter,233096,Denzel Dumfries,Inter,1.2
+6414,Yann Bisseck,Inter,241736,Yann Aurel Bisseck,Inter,1.0
+3209,Jean-Daniel Akpa-Akpro,Verona,241463,Daniel Raba Antolin,Valencia CF,0.564
+13962,Rafik Belghali,Verona,277695,Daniele Ghilardi,Roma,0.533
+11942,Kenan Yildiz,Juventus,277954,Kenan Yıldız,Juventus,1.2
+5136,Estupiñán,AC Milan,237942,Pervis Estupiñán,AC Milan,0.92
+11800,Arthur Atta,Udinese,272783,Arthur Atta,Udinese,1.2
+11741,Saúl Coco,Torino,278013,Saba Sazonov,Torino,0.526
+6686,Nicolo Zaniolo,Udinese,238067,Nicolò Zaniolo,Udinese,1.2
+9993,Jurgen Ekkelenkamp,Udinese,243249,Jurgen Ekkelenkamp,Udinese,1.2
+3729,Hassane Kamara,Udinese,220421,Hassane Kamara,Udinese,1.2
+14347,Oumar Ngom,Lecce,266848,Oumar Ngom,Lecce,1.2
+13396,Tiago Gabriel,Lecce,70555,Tiago Gabriel Coelho Oliveira,Lecce,0.669
+6211,Mehdi Leris,Pisa,240660,Mehdi Léris,Pisa,1.2
+6133,Antonio Caracciolo,Pisa,199174,Antonio Caracciolo,Pisa,1.2
+11876,Luca Marianucci,Torino,278319,Luca Marianucci,Torino,1.2
+6352,Valentino Lazaro,Torino,211147,Valentino Lazaro,Torino,1.2
+11278,Gvidas Gineitis,Torino,273932,Gvidas Gineitis,Torino,1.2
+14380,Justin Bijlow,Genoa,232229,Justin Bijlow,Genoa,1.2
+12008,Nikola Krstovic,Atalanta,277839,Nikola Krstović,Atalanta,1.2
+9036,Nicola Zalewski,Atalanta,262113,Nicola Zalewski,Atalanta,1.2
+10404,Éderson,Atalanta,208461,Marten de Roon,Atalanta,0.621
+12779,Honest Ahanor,Atalanta,74483,Honest Ahanor,Atalanta,1.2
+11055,Rasmus Højlund,Napoli,259399,Rasmus Højlund,Napoli,1.2
+14427,Alisson Santos,Napoli,79270,Alisson de Almeida Santos,Napoli,0.918
+6125,Stanislav Lobotka,Napoli,216435,Stanislav Lobotka,Napoli,1.2
+5560,Scott McTominay,Napoli,237238,Scott McTominay,Napoli,1.2
+8513,Miguel Gutiérrez,Napoli,261865,Miguel Gutiérrez Ortega,Napoli,0.871
+1473,Matteo Politano,Napoli,216409,Matteo Politano,Napoli,1.2
+5025,Alessandro Buongiorno,Napoli,243241,Alessandro Buongiorno,Napoli,1.2
+11961,Sam Beukema,Napoli,262394,Sam Beukema,Napoli,1.2
+6167,Vanja Milinkovic-Savic,Napoli,224836,Vanja Milinković-Savić,Napoli,1.2
+11541,Nico Paz,Como,277846,Nicolás Paz Martínez,Como,0.621
+5712,Diego Carlos,Como,219693,Diego Carlos Santos Silva,Como,0.699
+13446,Mateo Pellegrino,Parma Calcio 1913,,,,0.0
+11967,Davide Bartesaghi,AC Milan,278237,Davide Bartesaghi,AC Milan,1.2
+6697,Armand Lauriente,Sassuolo,243593,Armand Laurienté,Sassuolo,1.2
+12782,Woyo Coulibaly,Sassuolo,251335,Woyo Coulibaly,Sassuolo,1.2
+9691,Nuno Tavares,Lazio,251530,Nuno Albertino Varela Tavares,Lazio,0.785
+7375,Roberto Piccoli,Fiorentina,248385,Roberto Piccoli,Fiorentina,1.2
+8720,Jack Harrison,Fiorentina,232080,Jack Harrison,Fiorentina,1.2
+3821,Rolando Mandragora,Fiorentina,225439,Rolando Mandragora,Fiorentina,1.2
+11964,Giovanni Fabbian,Fiorentina,271019,Giovanni Fabbian,Fiorentina,1.2
+189,Hakan Calhanoglu,Inter,208128,Hakan Çalhanoğlu,Inter,1.2
+4291,Marc-Oliver Kempf,Como,210719,Marc-Oliver Kempf,Como,1.2
+608,Alberto Moreno,Como,205566,Alberto Moreno Pérez,Como,0.874
+1463,Francesco Acerbi,Inter,199845,Francesco Acerbi,Inter,1.2
+12781,Zion Suzuki,Parma Calcio 1913,,,,0.0
+12853,Jesper Karlström,Udinese,214658,Jesper Karlström,Udinese,1.2
+1725,Christian Kabasele,Udinese,190324,Christian Kabasele,Udinese,1.2
+9652,Alidu Seidu,Rennes,257946,Alidu Seidu,Stade Rennais FC,1.2
+7969,Sebastiano Esposito,Cagliari,247888,Sebastiano Esposito,Cagliari,1.2
+14065,Juan Rodríguez,Cagliari,78037,Juan Rodríguez,Cagliari,1.2
+11545,Jérémy Jacquet,Rennes,278903,Jérémy Jacquet,Stade Rennais FC,1.2
+14003,Francesco Pio Esposito,Inter,277327,Francesco Pio Esposito,Inter,1.2
+1541,Stefan de Vrij,Inter,198176,Stefan de Vrij,Inter,1.2
+9052,Josep Martínez,Inter,243311,Josep Martínez Riera,Inter,0.874
+1804,Álvaro Morata,Como,201153,Álvaro Borja Morata Martín,Como,0.717
+13979,Mariano Troilo,Parma Calcio 1913,,,,0.0
+11027,Emanuele Valeri,Parma Calcio 1913,,,,0.0
+8967,Lautaro Valenti,Parma Calcio 1913,,,,0.0
+12783,Alessandro Circati,Parma Calcio 1913,,,,0.0
+7027,Arijanet Muric,Sassuolo,233164,Arijanet Murić,Sassuolo,1.2
+3544,Jeremie Boga,Juventus,224422,Jérémie Boga,Juventus,1.2
+10877,Charles De Ketelaere,Atalanta,251470,Charles De Ketelaere,Atalanta,1.2
+11520,Lorenzo Bernasconi,Atalanta,74574,Lorenzo Bernasconi,Atalanta,1.2
+6692,Enrico Del Prato,Parma Calcio 1913,,,,0.0
+13097,Mandela Keita,Parma Calcio 1913,,,,0.0
+12030,Tasos Douvikas,Como,261478,Tasos Douvikas,Como,1.2
+6160,Riccardo Orsolini,Bologna,233556,Riccardo Orsolini,Bologna,1.2
+8829,Nicolò Casale,Bologna,239770,Nicolò Casale,Bologna,1.2
+1500,Leonardo Spinazzola,Napoli,202884,Leonardo Spinazzola,Napoli,1.2
+6368,Mathías Olivera,Napoli,240716,Mathías Olivera,Napoli,1.2
+9866,Nadir Zortea,Bologna,252440,Nadir Zortea,Bologna,1.2
+12345,Senny Mayulu,Paris Saint Germain,70004,Senny Mayulu,Paris Saint-Germain,1.2
+12777,Patrizio Masini,Genoa,276485,Patrizio Masini,Genoa,1.2
+5133,Aarón Martín,Genoa,236295,Aarón Martín Caricol,Genoa,0.8
+9447,Niakhate Ndiaye,Parma Calcio 1913,,,,0.0
+2019,Federico Bonazzoli,Cremonese,223137,Federico Bonazzoli,Cremonese,1.2
+12084,Martín Payero,Cremonese,240970,Martín Payero,Cremonese,1.2
+1281,Giuseppe Pezzella,Cremonese,230681,Giuseppe Pezzella,Cremonese,1.2
+10902,Federico Baschirotto,Cremonese,268573,Federico Baschirotto,Cremonese,1.2
+8512,Filippo Terracciano,Cremonese,271579,Filippo Terracciano,Cremonese,1.2
+1302,Emil Audero,Cremonese,228413,Emil Audero,Cremonese,1.2
+7924,Amir Rrahmani,Napoli,244263,Amir Rrahmani,Napoli,1.2
+8303,Marin Pongracic,Fiorentina,238370,Marin Pongračić,Fiorentina,1.2
+1710,Marten de Roon,Atalanta,208461,Marten de Roon,Atalanta,1.2
+1178,Davide Zappacosta,Atalanta,216150,Davide Zappacosta,Atalanta,1.2
+9749,Donyell Malen,Roma,231447,Donyell Malen,Roma,1.2
+6872,Mehmet Zeki Çelik,Roma,224490,Zeki Çelik,Roma,0.941
+6136,Mario Hermoso,Roma,229668,Mario Hermoso Canseco,Roma,0.815
+12378,Tijjani Noslin,Lazio,264257,Tijjani Noslin,Lazio,1.2
+9071,Matteo Cancellieri,Lazio,263929,Matteo Cancellieri,Lazio,1.2
+14341,Kenneth Taylor,Lazio,255009,Kenneth Taylor,Lazio,1.2
+2250,Luka Modric,AC Milan,177003,Luka Modrić,AC Milan,1.2
+7453,Khvicha Kvaratskhelia,Paris Saint Germain,247635,Khvicha Kvaratskhelia,Paris Saint-Germain,1.2
+12367,Gift Orban,Verona,,,,0.516
+13313,Nicolás Valentini,Verona,229582,Gianluca Mancini,Roma,0.545
+7700,Che Adams,Torino,226093,Ché Adams,Torino,1.2
+10433,Cesare Casadei,Torino,273883,Cesare Casadei,Torino,1.2
+12012,Marcus Pedersen,Torino,243481,Marcus Pedersen,Torino,1.2
+10898,Warren Bondo,Cremonese,257353,Warren Bondo,Cremonese,1.2
+13091,Jaydee Canvot,Toulouse,,,,0.435
+3785,Kelvin Adou,Nantes,231235,Kelvin Amian,FC Nantes,0.746
+3799,Wesley Said,Lens,212613,Wesley Saïd,RC Lens,1.2
+9632,Deiver Machado,Lens,,,,0.464
+6006,Ruben Aguilar,Lens,223597,Ruben Aguilar,RC Lens,1.2
+7206,Jonathan Gradit,Lens,221284,Jonathan Gradit,RC Lens,1.2
+10581,Junior Mwanga,Nantes,,,,0.494
+10831,Mostafa Mohamed,Nantes,254247,Mostafa Mohamed,FC Nantes,1.2
+13825,Tylel Tati,Nantes,80570,Tylel Tati,FC Nantes,1.2
+10058,Maghnes Akliouche,Monaco,264862,Maghnes Akliouche,AS Monaco,1.2
+643,Eric Dier,Monaco,202335,Eric Dier,AS Monaco,1.2
+11131,Christian Mawissa Elebi,Monaco,272785,Christian Mawissa,AS Monaco,0.9
+502,Olivier Giroud,Lille,178509,Olivier Giroud,Lille OSC,1.15
+11259,Julien Le Cardinal,Brest,231612,Romain Del Castillo,Stade Brestois 29,0.536
+8641,Radoslaw Majecki,Brest,235413,Radosław Majecki,Stade Brestois 29,1.2
+11789,Josué Casimir,Auxerre,260943,Josué Casimir,AJ Auxerre,1.2
+7081,Francisco Sierralta,Auxerre,228681,Francisco Sierralta,AJ Auxerre,1.2
+3239,Hamari Traore,Paris FC,219789,Hamari Traoré,Paris FC,1.2
+3772,Maxime Lopez,Paris FC,224030,Maxime Lopez,Paris FC,1.2
+13800,Samir Chergui,Paris FC,248477,Samir Chergui,Paris FC,1.2
+13799,Obed Nkambadio,Paris FC,255266,Obed Nkambadio,Paris FC,1.2
+6401,Amine Gouiri,Marseille,240753,Amine Gouiri,Olympique de Marseille,1.2
+11253,Mamadou Sarr,Strasbourg,75318,Abdoul Ouattara,RC Strasbourg Alsace,0.569
+5690,Karl-Johan Johnsson,Strasbourg,190120,Karl-Johan Johnsson,RC Strasbourg Alsace,1.2
+1144,Seko Fofana,Rennes,77633,Rayan Fofana,RC Lens,0.759
+12381,Panos Katseris,Lorient,276007,Panos Katseris,FC Lorient,1.15
+5974,Bingourou Kamara,Lorient,224442,Bingourou Kamara,FC Lorient,1.15
+3390,Rémy Cabella,Nantes,193476,Rémy Cabella,FC Nantes,1.2
+3290,Benjamin Stambouli,Metz,198200,Benjamin Stambouli,FC Metz,1.15
+8768,Kevin Omoruyi,Nice,252386,Kevin Carlos Omoruyi Benjamin,OGC Nice,0.669
+3475,Ludovic Blas,Rennes,,,,0.494
+9633,Przemyslaw Frankowski,Rennes,,,,0.457
+13811,Idrissa Gueye,Metz,78584,Ismaël Guerti,FC Metz,0.538
+7169,Moses Simon,Paris FC,216820,Moses Simon,Paris FC,1.2
+5696,Vincent Marchetti,Paris FC,228774,Vincent Marchetti,Paris FC,1.2
+11802,Malick Mbaye,Metz,,,,0.483
+13795,Dermane Karim,Lorient,76509,Dermane Karim,FC Lorient,1.15
+12734,João Neves,Paris Saint Germain,272834,João Pedro Gonçalves Neves,Paris Saint-Germain,0.756
+2447,Fabián,Paris Saint Germain,226271,Fabián Ruiz Peña,Paris Saint-Germain,0.595
+11250,Théo De Percin,Auxerre,263402,Théo De Percin,AJ Auxerre,1.2
+13827,Yassine Benhattab,Nantes,269729,Yassin Belkhdim,Angers SCO,0.625
+5598,Angel Gomes,Marseille,240753,Amine Gouiri,Olympique de Marseille,0.572
+11762,Morgan Guilavogui,Lens,223597,Ruben Aguilar,RC Lens,0.583
+9523,Andy Diouf,Lens,236518,Arnaud Nordin,Stade Rennais FC,0.522
+13732,Samson Baidoo,Lens,270997,Samson Baidoo,RC Lens,1.2
+10174,CJ Egan-Riley,Marseille,268131,CJ Egan-Riley,Olympique de Marseille,1.2
+11782,Mousa Al Tamari,Rennes,259191,Mousa Al Tamari,Stade Rennais FC,1.2
+11795,Yassine Kechta,Le Havre,263468,Yassine Kechta,Le Havre AC,1.2
+13745,Lionel Mpasi,Le Havre,223150,Lionel Mpasi,Le Havre AC,1.2
+12336,Malick Fofana,Lyon,256420,Malick Fofana,Olympique Lyonnais,1.2
+6155,Robin Gosens,Fiorentina,223697,Robin Gosens,Fiorentina,1.2
+6176,Adam Marusic,Lazio,224031,Adam Marušić,Lazio,1.2
+9893,Youssef Maleh,Cremonese,236838,Youssef Maleh,Cremonese,1.2
+1639,Sebastiano Luperto,Cremonese,220534,Sebastiano Luperto,Cremonese,1.2
+7483,Hans Nicolussi Caviglia,Parma Calcio 1913,,,,0.0
+14445,Paul Mendy,Cagliari,83827,Paul Mendy,Cagliari,1.2
+11817,Emanuel Emegha,Strasbourg,258437,Emanuel Emegha,RC Strasbourg Alsace,1.2
+10057,Felix Lemarechal,Strasbourg,77413,Felix Meiser,FC Augsburg,0.571
+8690,Jean-Phillipe Krasso,Paris FC,256731,Jean-Philippe Krasso,Paris FC,1.147
+12846,Louis Leroux,Nantes,74473,Louis Leroux,FC Nantes,1.2
+12111,Amir Murillo,Marseille,240753,Amine Gouiri,Olympique de Marseille,0.633
+3297,Marquinhos,Paris Saint Germain,,,,0.435
+7747,Mama Baldé,Brest,237960,Mama Samba Baldé,Stade Brestois 29,0.969
+5356,Breel Embolo,Rennes,222357,Breel Embolo,Stade Rennais FC,1.2
+12800,Ngal&#039;ayel Mukau,Lille,274447,Ngal'ayel Mukau,Lille OSC,1.053
+9444,Felix Correia,Lille,253167,Félix Alexandre A. Sanches Correia,Lille OSC,0.715
+12049,Aiyegun Tosin,Lorient,253181,Aiyegun Tosin,FC Lorient,1.15
+11770,Formose Mendy,Lorient,236610,Moise Kean,Fiorentina,0.609
+12151,Gabriel Osho,Auxerre,268440,Lamine Sy,AJ Auxerre,0.526
+9642,Salis Abdul Samed,Nice,252059,Salis Abdul Samed,OGC Nice,1.2
+7988,Billy Gilmour,Napoli,245992,Billy Gilmour,Napoli,1.2
+7912,Eljif Elmas,Napoli,241390,Eljif Elmas,Napoli,1.2
+1247,Juan Jesus,Napoli,200752,Juan Guilherme Nunes Jesus,Napoli,0.756
+9924,Fabiano Parisi,Fiorentina,258976,Fabiano Parisi,Fiorentina,1.2
+10985,Sulemana,Cagliari,271577,Ibrahim Sulemana,Cagliari,0.867
+9630,Kamaldeen Sulemana,Atalanta,256035,Kamaldeen Sulemana,Atalanta,1.2
+11053,Isak Hien,Atalanta,260697,Isak Hien,Atalanta,1.2
+13059,Jesús Rodriguez,Como,75055,Jesús Rodríguez Caraballo,Como,0.8
+13050,Ignace Van der Brempt,Como,251464,Ignace Van der Brempt,Como,1.2
+6982,Ivan Provedel,Lazio,224987,Ivan Provedel,Lazio,1.2
+8341,Lazar Samardzic,Atalanta,256115,Lazar Samardžić,Atalanta,1.2
+342,Sead Kolasinac,Atalanta,207993,Sead Kolašinac,Atalanta,1.2
+1206,Danilo Cataldi,Lazio,211361,Danilo Cataldi,Lazio,1.2
+12528,Santiago Castro,Bologna,267861,Santiago Castro,Bologna,1.2
+1305,Lukasz Skorupski,Bologna,189908,Łukasz Skorupski,Bologna,1.2
+4990,Marius Marin,Pisa,252313,Marius Marin,Pisa,1.2
+14125,Francesco Coppola,Pisa,278294,Francesco Coppola,Pisa,1.2
+6129,Nícolas,Pisa,205496,David Nicolás Andrade,Pisa,0.55
+9969,Teun Koopmeiners,Juventus,240679,Teun Koopmeiners,Juventus,1.2
+9841,Andrea Cambiaso,Juventus,258966,Andrea Cambiaso,Juventus,1.2
+1093,Mattia Perin,Juventus,198009,Mattia Perin,Juventus,1.2
+1471,Lorenzo Pellegrini,Roma,228251,Lorenzo Pellegrini,Roma,1.2
+7482,Kouadio Kone,Roma,250723,Kouadio Manu Koné,Roma,1.028
+9964,Koni de Winter,AC Milan,265774,Koni De Winter,AC Milan,1.2
+8852,Konstantinos Tsimikas,Roma,232223,Kostas Tsimikas,Roma,1.033
+1898,Stefano Sabelli,Genoa,206159,Stefano Sabelli,Genoa,1.2
+12784,Ange-Yoan Bonny,Inter,259565,Yoan Bonny,Inter,1.033
+13949,Oliver Sørensen,Parma Calcio 1913,,,,0.0
+1612,Domenico Berardi,Sassuolo,210935,Domenico Berardi,Sassuolo,1.2
+12872,Fisayo Dele-Bashiru,Lazio,258890,Fisayo Dele-Bashiru,Lazio,1.2
+10577,Mario Gila,Lazio,268804,Mario Gila Fuentes,Lazio,0.764
+11139,Tommaso Barbieri,Cremonese,275162,Tommaso Barbieri,Cremonese,1.2
+13901,Francesco Folino,Cremonese,74448,Francesco Folino,Cremonese,1.2
+7755,Domagoj Bradaric,Verona,,,,0.478
+7005,Jens Odgaard,Bologna,234671,Jens Odgaard,Bologna,1.2
+13946,João Mário,Bologna,257290,João Mário Neto Lopes,Bologna,0.695
+14021,Benjamín Cremaschi,Parma Calcio 1913,,,,0.0
+8290,Edoardo Corvi,Parma Calcio 1913,,,,0.0
+11049,Reda Belahyane,Lazio,275163,Reda Belahyane,Lazio,1.2
+13980,Sascha Britschgi,Parma Calcio 1913,,,,0.0
+7193,Rafael Leão,AC Milan,241721,Rafael da Conceição Leão,AC Milan,0.829
+10993,Federico Gatti,Juventus,266872,Federico Gatti,Juventus,1.2
+7758,Cheikh Niasse,Verona,,,,0.462
+9710,Armel Bella Kotchap,Verona,,,,0.439
+11929,Luca Lipani,Sassuolo,274702,Luca Lipani,Sassuolo,1.2
+8819,Mergim Vojvoda,Como,228349,Mërgim Vojvoda,Como,1.2
+13895,Ardon Jashari,AC Milan,257186,Ardon Jashari,AC Milan,1.2
+4981,Davide Frattesi,Inter,239807,Davide Frattesi,Inter,1.2
+4939,Alessandro Bastoni,Inter,237383,Alessandro Bastoni,Inter,1.2
+11989,Walid Cheddira,Lecce,268511,Walid Cheddira,Lecce,1.2
+7328,Maxence Caqueret,Como,246646,Maxence Caqueret,Como,1.2
+1892,Alex Meret,Napoli,225116,Alex Meret,Napoli,1.2
+7939,Morten Thorsby,Cremonese,222475,Morten Thorsby,Cremonese,1.2
+8980,Luis Henrique,Inter,256632,Luis Henrique Tomaz de Lima,Inter,0.7
+14020,Joseph Liteta,Cagliari,80407,Joseph Liteta,Cagliari,1.2
+14350,Rosen Bozhinov,Pisa,72912,Rosen Bozhinov,Pisa,1.2
+12598,Rafik Messali,Toulouse,72099,Rafik Messali,Toulouse FC,1.2
+7284,Marco Brescianini,Fiorentina,257785,Marco Brescianini,Fiorentina,1.2
+7944,Gabriel Strefezza,Parma Calcio 1913,,,,0.0
+13893,Martin Vitík,Bologna,259748,Martin Vitík,Bologna,1.2
+13955,Jakub Piotrowski,Udinese,229973,Jakub Piotrowski,Udinese,1.2
+10740,Jordan Zemura,Udinese,259634,Jordan Zemura,Udinese,1.2
+9029,Simon Sohm,Bologna,244634,Simon Sohm,Bologna,1.2
+1843,Matteo Bianchetti,Cremonese,205363,Matteo Bianchetti,Cremonese,1.2
+8880,Matteo Tramoni,Pisa,240797,Mattéo Tramoni,Pisa,1.2
+11902,Pietro Comuzzo,Fiorentina,278340,Pietro Comuzzo,Fiorentina,1.2
+13389,Devyne Rensch,Roma,258826,Devyne Rensch,Roma,1.2
+1634,Alessandro Deiola,Cagliari,229743,Alessandro Deiola,Cagliari,1.2
+12858,Daniele Ghilardi,Roma,277695,Daniele Ghilardi,Roma,1.2
+13401,Daniel Oyegoke,Verona,277695,Daniele Ghilardi,Roma,0.533
+1504,Alberto Grassi,Cremonese,220475,Alberto Grassi,Cremonese,1.2
+7628,Lameck Banda,Lecce,271197,Lameck Banda,Lecce,1.2
+13876,Corrie Ndaba,Lecce,247528,Corrie Ndaba,Lecce,1.2
+6434,Franck Zambo,Napoli,227236,André-Franck Zambo Anguissa,Napoli,0.682
+7265,Kephren Thuram,Juventus,247246,Khéphren Thuram,Juventus,1.166
+7576,Nicolò Cambiaghi,Bologna,268703,Nicolò Cambiaghi,Bologna,1.2
+3856,Milan Djuric,Cremonese,192840,Milan Đurić,Cremonese,1.007
+2662,Christian Pulisic,AC Milan,227796,Christian Pulisic,AC Milan,1.2
+1053,Keinan Davis,Udinese,231743,Keinan Davis,Udinese,1.2
+1588,Raúl Albiol,Pisa,157481,Raúl Albiol Tortajada,Pisa,0.738
+13942,Malthe Højholt,Pisa,253464,Malthe Højholt,Pisa,1.2
+7947,Ruslan Malinovskiy,Genoa,231969,Ruslan Malinovskyi,Genoa,0.994
+13136,Brooke Norton-Cuffy,Genoa,260653,Brooke Norton-Cuffy,Genoa,1.2
+447,Kevin De Bruyne,Napoli,192985,Kevin De Bruyne,Napoli,1.2
+12849,Melvin Zinga,Angers,257395,Melvin Zinga,Angers SCO,1.2
+5732,Abdoulaye Bamba,Angers,199313,Abdoulaye Bamba,Angers SCO,1.2
+12392,Arthur Vermeeren,Marseille,269859,Arthur Vermeeren,Olympique de Marseille,1.2
+12772,Jeffrey de Lange,Marseille,239559,Jeffrey de Lange,Olympique de Marseille,1.2
+7313,Lee Kang-In,Paris Saint Germain,243780,Kang In Lee,Paris Saint-Germain,0.621
+12186,Kassoum Ouattara,Monaco,273933,Kassoum Ouattara,AS Monaco,1.2
+6923,Mohammed Salisu,Monaco,244915,Mohammed Salisu,AS Monaco,1.2
+10193,Frank Magri,Toulouse,266299,Frank Magri,Toulouse FC,1.2
+13158,Marius Courcoul,Angers,277484,Marius Courcoul,Angers SCO,1.2
+12847,Sidiki Chérif,Angers,,,,0.464
+10923,Himad Abdelli,Angers,224444,Haris Belkebla,Angers SCO,0.569
+8686,Cheick Tidiane Sabaly,Metz,,,,0.424
+13792,Ibrahim Osman,Auxerre,257204,Sinaly Diomandé,AJ Auxerre,0.55
+14082,Emersonn,Toulouse,76803,Emersonn Correia da Silva,Toulouse FC,0.535
+12467,Paul Argney,Le Havre,71265,Paul Argney,Le Havre AC,1.2
+12733,Ibrahim Mbaye,Paris Saint Germain,74449,Ibrahim Mbaye,Paris Saint-Germain,1.2
+13329,Abdelhamid Aït Boudlal,Rennes,73192,Abdelhamid Ait Boudlal,Stade Rennais FC,1.2
+13826,Kwon Hyeok-Kyu,Nantes,,,,0.45
+13804,Tuomas Ollila,Paris FC,272599,Tuomas Ollila,Paris FC,1.2
+9279,Krépin Diatta,Monaco,238227,Krépin Diatta,AS Monaco,1.2
+13206,Matt O&#039;Riley,Marseille,,,,0.512
+14032,Tiago Gouveia,Nice,268868,Tiago Maria Antunes Gouveia,OGC Nice,0.85
+13737,Mathys de Carvalho,Lyon,80690,Mathys De Carvalho Soares,Olympique Lyonnais,0.887
+12970,Sebastian Nanasi,Strasbourg,256782,Sebastian Nanasi,RC Strasbourg Alsace,1.2
+10347,Pablo Pagis,Lorient,266099,Pablo Pagis,FC Lorient,1.15
+13089,Patrik Carlgren,Nantes,216750,Patrik Carlgren,FC Nantes,1.2
+3674,Abdoulaye Touré,Le Havre,210450,Abdoulaye Touré,Le Havre AC,1.2
+12004,Joel Mvuka,Lorient,,,,0.5
+6308,Jessy Deminguet,Metz,241238,Jessy Deminguet,FC Metz,1.15
+14052,Pathé Mboup,Brest,271689,Pathé Mboup,Stade Brestois 29,1.2
+13757,Alexis Vossah,Toulouse,80696,Alexis Vossah,Toulouse FC,1.2
+5803,Fode Toure,Metz,236723,Fodé Ballo-Touré,FC Metz,0.8
+10271,Vanderson,Monaco,263781,Vanderson de Oliveira Campos,AS Monaco,0.536
+11618,Samuel Amo-Ameyaw,Strasbourg,277561,Samuel Amo-Ameyaw,RC Strasbourg Alsace,1.2
+12258,Luc Zogbe,Brest,279573,Luck Zogbé,Stade Brestois 29,1.147
+8997,Terem Igobor Moffi,Nice,,,,0.437
+10349,Mika Biereth,Monaco,270050,Mika Biereth,AS Monaco,1.2
+13755,Mário Sauer,Toulouse,79390,Mario Sauer,Toulouse FC,1.2
+7765,Thomas Delaine,Le Havre,,,,0.45
+13596,Telli Siwe,Auxerre,78215,Telli Siwe,AJ Auxerre,1.2
+11796,Étienne Youté,Le Havre,264449,Étienne Youté Kinkoué,Le Havre AC,0.815
+12969,Moïse Bombito,Nice,274536,Moïse Bombito,OGC Nice,1.2
+11494,Justin-Noel Kalumba,Angers,240209,Goduine Koyalipou,Angers SCO,0.564
+13785,Arnaud Bodart,Lille,237525,Arnaud Bodart,Lille OSC,1.15
+8239,Takumi Minamino,Monaco,226627,Takumi Minamino,AS Monaco,1.2
+6986,Hamed Junior Traore,Marseille,240787,Hamed Junior Traoré,Olympique de Marseille,1.2
+13734,Adam Karabec,Lyon,256970,Adam Karabec,Olympique Lyonnais,1.2
+13916,Rafael Luís,Strasbourg,79607,Rafael Filipe G. Soares Luís,RC Strasbourg Alsace,0.779
+9673,Bilal Nadir,Marseille,263602,Bilal Nadir,Olympique de Marseille,1.2
+14165,Brad-Hamilton Mantsounga,Nice,82109,Brad-Hamilton Mantsounga,OGC Nice,1.2
+8287,Mbwana Samatta,Le Havre,218066,Ally Samatta,Le Havre AC,0.892
+12848,Florent Hanin,Angers,194846,Florent Hanin,Angers SCO,1.2
+12844,Bahereba Guirassy,Nantes,74475,Bahereba Guirassy,FC Nantes,1.2
+6332,Willem Geubbels,Paris FC,241266,Willem Geubbels,Paris FC,1.2
+13743,Godson Kyeremeh,Le Havre,253074,Godson Kyeremeh,Le Havre AC,1.2
+7967,Anssumane Fati,Monaco,253004,Anssumane Fati,AS Monaco,1.2
+13626,Quentin Ndjantou,Paris Saint Germain,78549,Quentin Ndjantou,Paris Saint-Germain,1.2
+8970,Sékou Mara,Auxerre,257612,Sékou Mara,AJ Auxerre,1.2
+13016,Hong Hyun-Seok,Nantes,,,,0.435
+14049,Abu Francis,Toulouse,251845,Abu Francis,Toulouse FC,1.2
+6945,Youssouf Fofana,AC Milan,245630,Youssouf Fofana,AC Milan,1.2
+5556,Ademola Lookman,Atalanta,208461,Marten de Roon,Atalanta,0.533
+9714,Odilon Kossounou,Atalanta,246875,Odilon Kossounou,Atalanta,1.2
+6978,Giovanni Di Lorenzo,Napoli,217870,Giovanni Di Lorenzo,Napoli,1.2
+12885,Kialonda Gaspar,Lecce,275783,Kialonda Gaspar,Lecce,1.2
+7530,Samuele Ricci,AC Milan,253473,Samuele Ricci,AC Milan,1.2
+7084,Dusan Vlahovic,Juventus,246430,Dušan Vlahović,Juventus,1.2
+13961,Giovane,Verona,,,,0.444
+6360,Antoine Bernede,Verona,,,,0.5
+4895,Andrea Pinamonti,Sassuolo,235842,Andrea Pinamonti,Sassuolo,1.2
+697,Nemanja Matic,Sassuolo,191202,Nemanja Matić,Sassuolo,1.2
+11023,Josh Doig,Sassuolo,255561,Josh Doig,Sassuolo,1.2
+11883,Gennaro Borrelli,Cagliari,252942,Gennaro Borrelli,Cagliari,1.2
+11959,Matteo Prati,Cagliari,278339,Marco Palestra,Cagliari,0.588
+13929,Riyad Idrissi,Cagliari,73095,Riyad Idrissi,Cagliari,1.2
+8857,Gabriele Zappa,Cagliari,252964,Gabriele Zappa,Cagliari,1.2
+307,Suat Serdar,Verona,,,,0.476
+13052,Francisco Conceição,Juventus,261050,Francisco F. da Conceição,Juventus,1.084
+1958,Mattia Zaccagni,Lazio,220502,Mattia Zaccagni,Lazio,1.2
+5759,Matteo Guendouzi,Lazio,263929,Matteo Cancellieri,Lazio,0.579
+1304,Moise Kean,Fiorentina,236610,Moise Kean,Fiorentina,1.2
+8380,Pablo Marí,Fiorentina,266099,Pablo Pagis,FC Lorient,0.762
+64,Filip Kostic,Juventus,208574,Filip Kostić,Juventus,1.2
+10389,Fali Candé,Sassuolo,256856,Fali Candé,Sassuolo,1.2
+7006,Lautaro Martínez,Inter,231478,Lautaro Martínez,Inter,1.2
+13938,Idrissa Touré,Pisa,233396,Idrissa Touré,Pisa,1.2
+9018,M&#039;Bala Nzola,Pisa,,,,0.479
+6517,Charalampos Lykogiannis,Bologna,210381,Charalampos Lykogiannis,Bologna,1.2
+13948,Christian Ordóñez,Parma Calcio 1913,,,,0.0
+1294,Paulo Dybala,Roma,211110,Paulo Dybala,Roma,1.2
+12356,Saba Goglichidze,Udinese,,,,0.414
+755,Jamie Vardy,Cremonese,208830,Jamie Vardy,Cremonese,1.2
+13898,Jari Vandeputte,Cremonese,217338,Jari Vandeputte,Cremonese,1.2
+1873,Nicola Leali,Genoa,201299,Nicola Leali,Genoa,1.2
+6073,Guillermo Maripán,Torino,219145,Guillermo Maripán,Torino,1.2
+8636,Jonathan Christian David,Juventus,243630,Jonathan David,Juventus,0.937
+7224,Boulaye Dia,Lazio,246242,Boulaye Dia,Lazio,1.2
+9179,Franco Israel,Torino,270141,Franco Israel,Torino,1.2
+11586,Ebenezer Akinsanmiro,Pisa,70471,Ebenezer Akinsanmiro,Pisa,1.2
+317,Henrikh Mkhitaryan,Inter,192883,Henrikh Mkhitaryan,Inter,1.2
+5996,Adrien Tameze,Torino,213242,Adrien Tameze,Torino,1.2
+6132,Marco Silvestri,Cremonese,190745,Marco Silvestri,Cremonese,1.2
+4918,Patrick Cutrone,Parma Calcio 1913,,,,0.0
+9065,Nahuel Estévez,Parma Calcio 1913,,,,0.0
+6412,Raoul Bellanova,Atalanta,247229,Raoul Bellanova,Atalanta,1.2
+10075,Romano Floriani,Cremonese,74071,Romano Floriani Mussolini,Cremonese,0.8
+9182,Sepe Elye Wahi,Nice,260407,Elye Wahi,OGC Nice,0.983
+13061,Benjamín Domínguez,Bologna,269558,Benjamín Domínguez,Bologna,1.2
+8912,Tommaso Pobega,Bologna,252060,Tommaso Pobega,Bologna,1.2
+13331,Mathias Løvik,Parma Calcio 1913,,,,0.0
+9876,Alessandro Zanoli,Udinese,268656,Alessandro Zanoli,Udinese,1.2
+9561,Nicolò Bertola,Udinese,271475,Nicolò Bertola,Udinese,1.2
+13940,Gabriele Piccinini,Pisa,268790,Gabriele Piccinini,Pisa,1.2
+9965,Matìas Soulè Malvano,Roma,265695,Matías Soulé,Roma,0.8
+13978,Jayden Addai,Como,279239,Jayden Addai,Como,1.2
+9854,Kristjan Asllani,Torino,201389,Cristiano Biraghi,Torino,0.595
+1441,Adam Masina,Torino,258782,Ardian Ismajli,Torino,0.61
+10956,Emil Holm,Bologna,,,,0.494
+8867,Adrián Bernabé,Parma Calcio 1913,,,,0.0
+12881,Henrik Meister,Pisa,277309,Henrik Meister,Pisa,1.2
+3965,Arturo Calabresi,Pisa,229574,Arturo Calabresi,Pisa,1.2
+8828,Ivan Ilic,Torino,258683,Ivan Ilić,Torino,1.2
+12081,Assane Diao,Como,275324,Assane Diao,Como,1.2
+13969,Nikola Stulic,Lecce,273915,Nikola Štulić,Lecce,1.2
+12609,Niccolò Fortini,Fiorentina,72180,Niccolò Fortini,Fiorentina,1.2
+10794,Thijs Dallinga,Bologna,252021,Thijs Dallinga,Bologna,1.2
+13905,Mathys Silistre,Rennes,80803,Mathys Silistrie,Stade Rennais FC,1.018
+8321,Razvan Sava,Udinese,266803,Răzvan Sava,Udinese,1.152
+13453,Santiago Giménez,AC Milan,245152,Santiago Giménez,AC Milan,1.2
+8771,Yunus Musah,AC Milan,,,,0.435
+1040,Angelino,Roma,190815,Daley Blind,Girona FC,0.526
+1164,Cristiano Biraghi,Torino,201389,Cristiano Biraghi,Torino,1.2
+7411,Nicolo Rovella,Lazio,255001,Nicolò Rovella,Lazio,1.2
+14421,Samuele Inácio,Borussia Dortmund,83748,Samuele Inacio,Borussia Dortmund,1.2
+11710,Simon Adingra,Monaco,260779,Simon Adingra,AS Monaco,1.2
+688,Ruben Loftus-Cheek,AC Milan,213666,Ruben Loftus-Cheek,AC Milan,1.2
+11930,Daniel Boloca,Sassuolo,268462,Daniel Boloca,Sassuolo,1.2
+2058,Filippo Romagna,Sassuolo,226108,Filippo Romagna,Sassuolo,1.2
+4911,Alessio Zerbin,Cremonese,237669,Alessio Zerbin,Cremonese,1.2
+13899,Michele Collocolo,Cremonese,268576,Michele Collocolo,Cremonese,1.2
+10948,Valentín Castellanos,Lazio,251530,Nuno Albertino Varela Tavares,Lazio,0.54
+11306,Cyril Ngonge,Torino,,,,0.512
+1375,Elseid Hysaj,Lazio,210864,Elseid Hysaj,Lazio,1.2
+13801,Alimami Gory,Paris FC,234158,Alimami Gory,Paris FC,1.2
+10303,Jacopo Fazzini,Fiorentina,266596,Jacopo Fazzini,Fiorentina,1.2
+10908,Medon Berisha,Lecce,271198,Medon Berisha,Lecce,1.2
+10295,Louis Mouton,Angers,269725,Louis Mouton,Angers SCO,1.2
+10413,Giovanni Bonfanti,Pisa,,,,0.437
+6977,Pietro Terracciano,AC Milan,205812,Pietro Terracciano,AC Milan,1.2
+8728,Oier Zarraga,Udinese,258615,Oier Zarraga Egaña,Udinese,0.85
+13874,Owen Kouassi,Lecce,,,,0.505
+1836,Franco Vázquez,Cremonese,223137,Federico Bonazzoli,Cremonese,0.55
+2104,Sergi Roberto,Como,199564,Sergio Roberto Carnicer,Como,0.772
+11990,Mateus Lusuardi,Pisa,252313,Marius Marin,Pisa,0.643
+13479,Tobias Slotsager,Verona,213565,Thomas Lemar,Girona FC,0.571
+11022,Simone Perilli,Verona,275291,Niccolò Pisilli,Roma,0.552
+14339,Omri Gandelman,Lecce,277840,Omri Gandelman,Lecce,1.2
+8478,Lorenzo Colombo,Genoa,256899,Lorenzo Colombo,Genoa,1.2
+1477,Luca Mazzitelli,Cagliari,221331,Luca Mazzitelli,Cagliari,1.2
+13478,Sebastian Otoa,Genoa,271882,Sebastian Otoa,Genoa,1.2
+1158,Simone Scuffet,Pisa,220048,Simone Scuffet,Pisa,1.2
+1423,Matías Vecino,Lazio,220502,Mattia Zaccagni,Lazio,0.621
+14378,Ali Youssef,Nantes,83275,Ali Youssif,FC Nantes,0.959
+13930,Semih Kiliçsoy,Cagliari,274616,Semih Kılıçsoy,Cagliari,1.2
+9030,Filippo Rinaldi,Parma Calcio 1913,,,,0.0
+11921,Filip Stojilkovic,Pisa,255562,Filip Stojilković,Pisa,1.2
+14369,Felipe Loyola,Pisa,71230,Felipe Loyola,Pisa,1.2
+1424,Federico Bernardeschi,Bologna,212404,Federico Bernardeschi,Bologna,1.2
+8163,Daniel Maldini,Lazio,255611,Daniel Maldini,Lazio,1.2
+13423,Al Musrati,Verona,,,,0.5
+11951,Gustav Isaksen,Lazio,248729,Gustav Isaksen,Lazio,1.2
+13141,Kyllian Antonio,Lens,75319,Kyllian Antonio,RC Lens,1.2
+10241,Antonio Vergara,Napoli,276706,Antonio Vergara,Napoli,1.2
+4970,Luca Pellegrini,Lazio,243237,Luca Pellegrini,Lazio,1.2
+3300,Christopher Nkunku,AC Milan,232411,Christopher Nkunku,AC Milan,1.2
+10084,Cristian Volpato,Sassuolo,265761,Cristian Volpato,Sassuolo,1.2
+1148,Duván Zapata,Torino,215333,Duván Zapata,Torino,1.2
+1370,Federico Ceccherini,Cremonese,210964,Federico Ceccherini,Cremonese,1.2
+14047,Isak Vural,Pisa,71296,İsak Vural,Pisa,1.2
+14039,Jan Ziólkowski,Roma,276680,Jan Ziółkowski,Roma,1.2
+12993,David Neres,Napoli,236632,David Neres Campos,Napoli,0.809
+10177,Evan Ferguson,Roma,259608,Evan Ferguson,Roma,1.2
+9966,Fabio Miretti,Juventus,268802,Fabio Miretti,Juventus,1.2
+1195,Daniele Padelli,Udinese,162297,Daniele Padelli,Udinese,1.2
+1922,Daniele Sommariva,Genoa,225432,Daniele Sommariva,Genoa,1.2
+12149,Alex Scott,Bournemouth,261299,Alex Scott,AFC Bournemouth,1.15
+10140,Hugo Bueno,Wolverhampton Wanderers,237658,Santiago Bueno,Wolverhampton Wanderers,0.867
+5553,Declan Rice,Arsenal,234378,Declan Rice,Arsenal,1.2
+6888,William Saliba,Arsenal,243715,William Saliba,Arsenal,1.2
+5613,Gabriel,Arsenal,268131,CJ Egan-Riley,Olympique de Marseille,0.526
+11707,Jurriën Timber,Arsenal,251805,Jurriën Timber,Arsenal,1.2
+9676,David Raya,Arsenal,220901,David Raya Martín,Arsenal,0.791
+4419,Adam Armstrong,Wolverhampton Wanderers,221841,Adam Armstrong,Wolverhampton Wanderers,1.2
+13484,Mateus Mané,Wolverhampton Wanderers,77593,Mateus Bula Dami Mané,Wolverhampton Wanderers,0.888
+13022,André,Wolverhampton Wanderers,74866,André Trindade,Wolverhampton Wanderers,0.576
+12721,Ladislav Krejcí,Wolverhampton Wanderers,252064,Ladislav Krejčí,Wolverhampton Wanderers,1.2
+5659,Nordi Mukiele,Sunderland,226166,Nordi Mukiele,Sunderland,1.2
+9958,Yerson Mosquera,Wolverhampton Wanderers,256666,Yerson Mosquera,Wolverhampton Wanderers,1.2
+10945,Santiago Bueno,Wolverhampton Wanderers,237658,Santiago Bueno,Wolverhampton Wanderers,1.2
+9740,José Sá,Wolverhampton Wanderers,212442,José Pedro Malheiro de Sá,Wolverhampton Wanderers,0.638
+7254,Viktor Gyokeres,Arsenal,241651,Viktor Gyökeres,Arsenal,1.2
+7526,Martín Zubimendi,Arsenal,248148,Martín Zubimendi Ibáñez,Arsenal,0.871
+10024,Cristhian Mosquera,Arsenal,264846,Cristhian Mosquera Ibargüen,Arsenal,0.85
+7752,Gabriel Martinelli,Arsenal,251566,Gabriel Teodoro Martinelli Silva,Arsenal,0.77
+4401,Emiliano Martinez,Aston Villa,202811,Emiliano Martínez,Aston Villa,1.2
+13222,Thiago,Brentford,,,,0.494
+9662,Dango Ouattara,Brentford,265552,Dango Ouattara,Brentford,1.2
+7166,Mathias Jensen,Brentford,229723,Mathias Jensen,Brentford,1.2
+9679,Rico Henry,Brentford,224494,Rico Henry,Brentford,1.2
+10721,Sepp van den Berg,Brentford,242453,Sepp van den Berg,Brentford,1.2
+7904,Caoimhin Kelleher,Brentford,240913,Caoimhin Kelleher,Brentford,1.2
+5555,Dominic Calvert-Lewin,Leeds,221479,Dominic Calvert-Lewin,Leeds United,1.15
+6369,Ethan Ampadu,Leeds,235735,Ethan Ampadu,Leeds United,1.15
+8000,Ilia Gruev,Leeds,248384,Ilia Gruev,Leeds United,1.15
+7753,James Justin,Leeds,231554,James Justin,Leeds United,1.15
+8717,Pascal Struijk,Leeds,239360,Pascal Struijk,Leeds United,1.15
+6377,Joe Rodon,Leeds,229266,Joe Rodon,Leeds United,1.15
+9205,Jayden Bogle,Leeds,244591,Jayden Bogle,Leeds United,1.15
+780,Karl Darlow,Leeds,193331,Karl Darlow,Leeds United,1.15
+8865,Ollie Watkins,Aston Villa,221697,Ollie Watkins,Aston Villa,1.2
+12412,Morgan Rogers,Aston Villa,260247,Morgan Rogers,Aston Villa,1.2
+11807,Ian Maatsen,Aston Villa,248465,Ian Maatsen,Aston Villa,1.2
+7726,Ezri Konsa Ngoyo,Aston Villa,227678,Ezri Konsa,Aston Villa,0.819
+1024,Tyrone Mings,Aston Villa,212419,Tyrone Mings,Aston Villa,1.2
+8875,Tolu Arokodare,Wolverhampton Wanderers,258911,Tolu Arokodare,Wolverhampton Wanderers,1.2
+11384,João Gomes,Wolverhampton Wanderers,240507,Angel Gomes,Wolverhampton Wanderers,0.867
+6857,Morgan Gibbs-White,Nottingham Forest,236015,Morgan Gibbs-White,Nottingham Forest,1.2
+10348,Omari Hutchinson,Nottingham Forest,260145,Omari Hutchinson,Nottingham Forest,1.2
+9154,Elliot Anderson,Nottingham Forest,254243,Elliot Anderson,Nottingham Forest,1.2
+5722,Ibrahim Sangare,Nottingham Forest,235173,Ibrahim Sangaré,Nottingham Forest,1.2
+8204,Neco Williams,Nottingham Forest,243057,Neco Williams,Nottingham Forest,1.2
+6174,Nikola Milenkovic,Nottingham Forest,238095,Nikola Milenković,Nottingham Forest,1.2
+13068,Morato,Nottingham Forest,,,,0.485
+725,Ola Aina,Nottingham Forest,224656,Ola Aina,Nottingham Forest,1.2
+8786,Stefan Ortega Moreno,Nottingham Forest,200159,Stefan Ortega,Nottingham Forest,0.838
+500,Alex Iwobi,Fulham,213655,Alex Iwobi,Fulham FC,1.15
+6837,Ryan Sessegnon,Fulham,235883,Ryan Sessegnon,Fulham FC,1.15
+11728,Calvin Bassey,Fulham,241436,Calvin Bassey,Fulham FC,1.15
+6314,Joachim Andersen,Fulham,224221,Joachim Andersen,Fulham FC,1.15
+5973,Kenny Tete,Fulham,216266,Kenny Tete,Fulham FC,1.15
+181,Bernd Leno,Fulham,192563,Bernd Leno,Fulham FC,1.15
+13712,Robin Roefs,Sunderland,263798,Robin Roefs,Sunderland,1.2
+9680,Vitaly Janelt,Brentford,235167,Vitaly Janelt,Brentford,1.2
+9677,Kristoffer Ajer,Brentford,224258,Kristoffer Ajer,Brentford,1.2
+11281,Michael Kayode,Brentford,277869,Michael Kayode,Brentford,1.2
+8397,Florian Wirtz,Liverpool,256630,Florian Wirtz,Liverpool,1.2
+1250,Mohamed Salah,Liverpool,209331,Mohamed Salah,Liverpool,1.2
+10697,Ryan Gravenberch,Liverpool,246104,Ryan Gravenberch,Liverpool,1.2
+8379,Alexis Mac Allister,Liverpool,239837,Alexis Mac Allister,Liverpool,1.2
+1688,Andrew Robertson,Liverpool,216267,Andrew Robertson,Liverpool,1.2
+6326,Ibrahima Konaté,Liverpool,237678,Ibrahima Konaté,Liverpool,1.2
+833,Virgil van Dijk,Liverpool,203376,Virgil van Dijk,Liverpool,1.2
+9789,Brian Brobbey,Sunderland,251810,Brian Brobbey,Sunderland,1.2
+9767,Habib Diarra,Sunderland,264293,Habib Diarra,Sunderland,1.2
+13716,Noah Sadiki,Sunderland,269230,Noah Sadiki,Sunderland,1.2
+8651,Enzo Le Fée,Sunderland,246350,Enzo Le Fée,Sunderland,1.2
+7432,Reinildo,Sunderland,236045,Reinildo Isnard Mandava,Sunderland,0.566
+13715,Dan Ballard,Sunderland,243908,Daniel Ballard,Sunderland,1.08
+11711,Bart Verbruggen,Brighton,258498,Bart Verbruggen,Brighton & Hove Albion,1.2
+10807,Jan Paul van Hecke,Brighton,258908,Jan Paul van Hecke,Brighton & Hove Albion,1.2
+7762,Jean-Ricner Bellegarde,Wolverhampton Wanderers,235456,Jean-Ricner Bellegarde,Wolverhampton Wanderers,1.2
+12113,Jackson Tchatchoua,Wolverhampton Wanderers,262937,Jackson Tchatchoua,Wolverhampton Wanderers,1.2
+11070,Jørgen Strand Larsen,Crystal Palace,238756,Jørgen Strand Larsen,Crystal Palace,1.2
+5675,Ismaila Sarr,Crystal Palace,235353,Ismaïla Sarr,Crystal Palace,1.2
+12409,Adam Wharton,Crystal Palace,259240,Adam Wharton,Crystal Palace,1.2
+8214,Tyrick Mitchell,Crystal Palace,240947,Tyrick Mitchell,Crystal Palace,1.2
+12408,Daniel Muñoz,Crystal Palace,237646,Daniel Muñoz,Crystal Palace,1.2
+8430,Chris Richards,Crystal Palace,250954,Chris Richards,Crystal Palace,1.2
+7702,Dean Henderson,Crystal Palace,233306,Dean Henderson,Crystal Palace,1.2
+7958,Sandro Tonali,Newcastle United,241096,Sandro Tonali,Newcastle United,1.2
+8941,Jacob Ramsey,Newcastle United,246923,Jacob Ramsey,Newcastle United,1.2
+10216,Lewis Hall,Newcastle United,266127,Lewis Hall,Newcastle United,1.2
+7382,Dan Burn,Newcastle United,198032,Dan Burn,Newcastle United,1.2
+652,Kieran Trippier,Newcastle United,186345,Kieran Trippier,Newcastle United,1.2
+13713,Trai Hume,Sunderland,266400,Trai Hume,Sunderland,1.2
+8986,Omar Alderete,Sunderland,240359,Omar Alderete,Sunderland,1.2
+8995,Hugo Ekitike,Liverpool,257289,Hugo Ekitiké,Liverpool,1.2
+9788,Dominik Szoboszlai,Liverpool,236772,Dominik Szoboszlai,Liverpool,1.2
+12123,Murillo,Nottingham Forest,202750,Willy Boly,Nottingham Forest,0.521
+8378,Malick Thiaw,Newcastle United,256261,Malick Thiaw,Newcastle United,1.2
+5552,Nick Pope,Newcastle United,203841,Nick Pope,Newcastle United,1.2
+6048,Lewis Dunk,Brighton,199915,Lewis Dunk,Brighton & Hove Albion,1.2
+6722,Konstantinos Mavropanos,West Ham,242000,Konstantinos Mavropanos,West Ham United,1.2
+12910,Mads Hermansen,West Ham,246158,Mads Hermansen,West Ham United,1.2
+13729,Zian Flemming,Burnley,239373,Zian Flemming,Burnley,1.2
+13730,Marcus Edwards,Burnley,235619,Marcus Edwards,Burnley,1.2
+9558,Hannibal Mejbri,Burnley,258171,Hannibal Mejbri,Burnley,1.2
+9487,Maxime Estève,Burnley,262042,Maxime Estève,Burnley,1.2
+10756,Joe Worrall,Burnley,230708,Joe Worrall,Burnley,1.2
+6532,Martin Dubravka,Burnley,220407,Martin Dúbravka,Burnley,1.2
+6382,Pedro Neto,Chelsea,238616,Pedro Lomba Neto,Chelsea,0.969
+11356,Enzo Fernández,Chelsea,247090,Enzo Fernández,Chelsea,1.2
+11808,Andrey Santos,Chelsea,273018,Andrey N. dos Santos,Chelsea,1.012
+9453,Moisés Caicedo,Chelsea,256079,Moisés Caicedo,Chelsea,1.2
+6615,Trevoh Chalobah,Chelsea,230918,Trevoh Chalobah,Chelsea,1.2
+8067,Reece James,Chelsea,238074,Reece James,Chelsea,1.2
+9098,Robert Sánchez,Chelsea,228789,Robert Lynch Sánchez,Chelsea,1.024
+10806,Kaoru Mitoma,Brighton,255565,Kaoru Mitoma,Brighton & Hove Albion,1.2
+501,Danny Welbeck,Brighton,186146,Danny Welbeck,Brighton & Hove Albion,1.2
+11269,Jack Hinshelwood,Brighton,277283,Jack Hinshelwood,Brighton & Hove Albion,1.2
+489,James Milner,Brighton,138412,James Milner,Brighton & Hove Albion,1.2
+13066,Ferdi Kadioglu,Brighton,235152,Ferdi Kadıoğlu,Brighton & Hove Albion,1.2
+5584,Aaron Wan-Bissaka,West Ham,229880,Aaron Wan-Bissaka,West Ham United,1.2
+6885,Axel Disasi,West Ham,229942,Axel Disasi,West Ham United,1.2
+8260,Erling Haaland,Manchester City,239085,Erling Haaland,Manchester City,1.2
+13723,El Hadji Malick Diouf,West Ham,274915,El Hadji Malick Diouf,West Ham United,1.2
+11592,Nico O&#039;Reilly,Manchester City,277427,Nico O'Reilly,Manchester City,0.939
+3635,Bernardo Silva,Manchester City,218667,Bernardo Mota Carvalho e Silva,Manchester City,0.836
+11363,Antoine Semenyo,Manchester City,241236,Antoine Semenyo,Manchester City,1.2
+2496,Rodri,Manchester City,,,,0.471
+6674,Rayan Ait Nouri,Manchester City,242641,Rayan Aït-Nouri,Manchester City,1.016
+7603,Marc Guehi,Manchester City,241159,Marc Guéhi,Manchester City,1.2
+11000,Matheus Nunes,Manchester City,253124,Matheus Luiz Nunes,Manchester City,1.039
+1116,Gianluigi Donnarumma,Manchester City,230621,Gianluigi Donnarumma,Manchester City,1.2
+11504,Eli Junior Kroupi,Bournemouth,277909,Eli Junior Kroupi,AFC Bournemouth,1.15
+14395,Rayan,Bournemouth,,,,0.444
+8640,Adrien Truffert,Bournemouth,256769,Adrien Truffert,AFC Bournemouth,1.15
+10747,James Hill,Bournemouth,248492,James Hill,AFC Bournemouth,1.15
+10864,Marcos Senesi,Bournemouth,236506,Marcos Senesi,AFC Bournemouth,1.15
+12168,Alejandro Jiménez,Bournemouth,278928,Alejandro Jiménez Sánchez,AFC Bournemouth,0.81
+12032,Djordje Petrovic,Bournemouth,269626,Đorđe Petrović,AFC Bournemouth,1.083
+9492,Crysencio Summerville,West Ham,251954,Crysencio Summerville,West Ham United,1.2
+12948,Mateus Fernandes,West Ham,270857,Mateus Gonçalo Espanha Fernandes,West Ham United,0.867
+1776,Jarrod Bowen,West Ham,224371,Jarrod Bowen,West Ham United,1.2
+2182,Jefferson Lerma,Crystal Palace,213991,Jefferson Lerma,Crystal Palace,1.2
+8853,Maxence Lacroix,Crystal Palace,244067,Maxence Lacroix,Crystal Palace,1.2
+3645,Olivier Boscagli,Brighton,225863,Olivier Boscagli,Brighton & Hove Albion,1.2
+11709,Milos Kerkez,Liverpool,260908,Milos Kerkez,Liverpool,1.2
+6681,Harvey Barnes,Newcastle United,234742,Harvey Barnes,Newcastle United,1.2
+9307,Iliman Ndiaye,Everton,261188,Iliman Ndiaye,Everton,1.2
+7438,James Garner,Everton,243657,James Garner,Everton,1.2
+668,Idrissa Gueye,Everton,193474,Idrissa Gueye,Everton,1.2
+1653,Michael Keane,Everton,207599,Michael Keane,Everton,1.2
+1665,James Tarkowski,Everton,202695,James Tarkowski,Everton,1.2
+12014,Jake O&#039;Brien,Everton,253510,Jake O'Brien,Everton,0.93
+741,Jordan Pickford,Everton,204935,Jordan Pickford,Everton,1.2
+5596,Harry Wilson,Fulham,220710,Harry Wilson,Fulham FC,1.15
+8285,Sander Berge,Fulham,228092,Sander Berge,Fulham FC,1.15
+8489,Jorge Cuenca,Fulham,237522,Jorge Cuenca Barreno,Fulham FC,0.75
+8288,Tomas Soucek,West Ham,236792,Tomáš Souček,West Ham United,1.2
+9739,Kiernan Dewsbury-Hall,Everton,237386,Kiernan Dewsbury-Hall,Everton,1.2
+8327,Bruno Guimarães,Newcastle United,247851,Bruno Guimarães Moura,Newcastle United,0.883
+8635,Sven Botman,Newcastle United,251809,Sven Botman,Newcastle United,1.2
+7134,Marc Cucurella,Chelsea,239231,Marc Cucurella Saseta,Chelsea,0.85
+7589,Wesley Fofana,Chelsea,248695,Wesley Fofana,Chelsea,1.2
+8961,Rúben Dias,Manchester City,239818,Rúben Santos Gato Alves Dias,Manchester City,0.726
+10025,Lamare Bogarde,Aston Villa,264209,Lamare Bogarde,Aston Villa,1.2
+6552,Bryan Mbeumo,Manchester United,243014,Bryan Mbeumo,Manchester United,1.2
+1228,Bruno Fernandes,Manchester United,212198,Bruno Miguel Borges Fernandes,Manchester United,0.882
+8127,Amad Diallo Traore,Manchester United,254088,Amad Diallo,Manchester United,0.809
+11174,Kobbie Mainoo,Manchester United,269136,Kobbie Mainoo,Manchester United,1.2
+2248,Casemiro,Manchester United,,,,0.471
+1006,Luke Shaw,Manchester United,205988,Luke Shaw,Manchester United,1.2
+10802,Lisandro Martínez,Manchester United,239301,Lisandro Martínez,Manchester United,1.2
+14056,Senne Lammens,Manchester United,254803,Senne Lammens,Manchester United,1.2
+8780,Joël Veltman,Brighton,208004,Joël Veltman,Brighton & Hove Albion,1.2
+10746,Jaidon Anthony,Burnley,243669,Jaidon Anthony,Burnley,1.2
+9451,Chimuanya Ugochukwu,Burnley,257084,Lesley Ugochukwu,Burnley,0.829
+11243,Bashir Humphreys,Burnley,272777,Bashir Humphreys,Burnley,1.2
+638,Kyle Walker,Burnley,188377,Kyle Walker,Burnley,1.2
+13728,Josh Laurent,Burnley,217826,Josh Laurent,Burnley,1.2
+9017,Malo Gusto,Chelsea,259307,Malo Gusto,Chelsea,1.2
+10291,Vitalii Mykolenko,Everton,244380,Vitaliy Mykolenko,Everton,1.141
+8476,Jarrad Branthwaite,Everton,247649,Jarrad Branthwaite,Everton,1.2
+10751,Brenden Aaronson,Leeds,247361,Brenden Aaronson,Leeds United,1.15
+9944,Gabriel Gudmundsson,Leeds,236822,Gabriel Gudmundsson,Leeds United,1.15
+6807,Jaka Bijol,Leeds,244238,Jaka Bijol,Leeds United,1.15
+8272,João Pedro,Chelsea,252042,João Pedro Junqueira de Jesus,Chelsea,0.563
+8497,Cole Palmer,Chelsea,257534,Cole Palmer,Chelsea,1.2
+8150,Anthony Gordon,Newcastle United,242964,Anthony Gordon,Newcastle United,1.2
+6630,Joe Willock,Newcastle United,237329,Joe Willock,Newcastle United,1.2
+1679,Dominic Solanke,Tottenham,225539,Dominic Solanke,Tottenham Hotspur,1.2
+9021,Pape Sarr,Tottenham,259868,Pape Matar Sarr,Tottenham Hotspur,0.95
+10764,Djed Spence,Tottenham,243702,Djed Spence,Tottenham Hotspur,1.2
+10050,Micky van de Ven,Tottenham,264453,Micky van de Ven,Tottenham Hotspur,1.2
+9105,Radu Dragusin,Tottenham,260105,Radu Drăgușin,Tottenham Hotspur,0.967
+10184,Archie Gray,Tottenham,270208,Archie Gray,Tottenham Hotspur,1.2
+8858,Guglielmo Vicario,Tottenham,240091,Guglielmo Vicario,Tottenham Hotspur,1.2
+14424,Nilson Angulo,Sunderland,264205,Nilson Angulo,Sunderland,1.2
+14099,Luke O&#039;Nien,Sunderland,215700,Luke O'Nien,Sunderland,0.92
+14425,Melker Ellborg,Sunderland,259987,Melker Ellborg,Sunderland,1.2
+9910,Anton Stach,Leeds,257191,Anton Stach,Leeds United,1.15
+10552,Alejandro Garnacho,Chelsea,268438,Alejandro Garnacho,Chelsea,1.2
+13776,Jorrel Hato,Chelsea,272978,Jorrel Hato,Chelsea,1.2
+9272,Filip Jorgensen,Chelsea,258485,Filip Jörgensen,Chelsea,1.2
+9667,Amadou Onana,Aston Villa,257057,Amadou Onana,Aston Villa,1.2
+8859,Mikkel Damsgaard,Brentford,241508,Mikkel Damsgaard,Brentford,1.2
+9733,Nathan Collins,Brentford,248484,Nathan Collins,Brentford,1.2
+10741,Marcus Tavernier,Bournemouth,237477,Marcus Tavernier,AFC Bournemouth,1.15
+7352,Tyler Adams,Bournemouth,232999,Tyler Adams,AFC Bournemouth,1.15
+9156,Kevin Schade,Brentford,260926,Kevin Schade,Brentford,1.2
+7498,Lyle Foster,Burnley,241173,Lyle Foster,Burnley,1.2
+11824,Lucas Pires,Burnley,277068,Lucas Pires Silva,Burnley,0.836
+1760,Arthur Masuaku,Lens,212491,Arthur Masuaku,RC Lens,1.2
+6756,Dwight McNeil,Everton,243282,Dwight McNeil,Everton,1.2
+6937,Georginio Rutter,Brighton,245637,Georginio Rutter,Brighton & Hove Albion,1.2
+8706,Eberechi Eze,Arsenal,235794,Eberechi Eze,Arsenal,1.2
+6145,Daichi Kamada,Crystal Palace,232730,Daichi Kamada,Crystal Palace,1.2
+11167,Chadi Riad,Crystal Palace,258490,Chadi Riad,Crystal Palace,1.2
+9780,Mathys Tel,Tottenham,268421,Mathys Tel,Tottenham Hotspur,1.2
+10715,João Palhinha,Tottenham,229391,João Maria Palhinha Gonçalves,Tottenham Hotspur,0.669
+5261,Kevin Danso,Tottenham,237985,Kevin Danso,Tottenham Hotspur,1.2
+11974,Benjamin Sesko,Manchester United,260592,Benjamin Šeško,Manchester United,1.2
+7080,Matheus Cunha,Manchester United,240243,Matheus Santos Carneiro da Cunha,Manchester United,0.778
+10564,Leny Yoro,Manchester United,269087,Leny Yoro,Manchester United,1.2
+1687,Harry Maguire,Manchester United,203263,Harry Maguire,Manchester United,1.2
+10696,Noussair Mazraoui,Manchester United,236401,Noussair Mazraoui,Manchester United,1.2
+9524,Anthony Elanga,Newcastle United,257470,Anthony Elanga,Newcastle United,1.2
+13719,Chris Rigg,Sunderland,273459,Chris Rigg,Sunderland,1.2
+204,Granit Xhaka,Sunderland,199503,Granit Xhaka,Sunderland,1.2
+13064,Lutsharel Geertruida,Sunderland,241187,Lutsharel Geertruida,Sunderland,1.2
+12963,Evanilson,Bournemouth,,,,0.5
+843,James Ward-Prowse,Burnley,205569,James Ward-Prowse,Burnley,1.2
+87,Joelinton,Newcastle United,247249,Joël Piroe,Leeds United,0.632
+6816,Jean-Clair Todibo,West Ham,245388,Jean-Clair Todibo,West Ham United,1.2
+7208,Samuel Chukwueze,Fulham,246172,Samuel Chukwueze,Fulham FC,1.15
+8940,Antonee Robinson,Fulham,229348,Antonee Robinson,Fulham FC,1.15
+3203,Issa Diop,Fulham,231633,Issa Diop,Fulham FC,1.15
+7322,Bukayo Saka,Arsenal,246669,Bukayo Saka,Arsenal,1.2
+5603,Aaron Ramsdale,Newcastle United,233934,Aaron Ramsdale,Newcastle United,1.2
+13779,Jair,Nottingham Forest,,,,0.383
+6903,Matz Sels,Nottingham Forest,199641,Matz Sels,Nottingham Forest,1.2
+6221,Pau Torres,Aston Villa,241464,Pau Francisco Torres,Aston Villa,0.867
+8864,Matthew Cash,Aston Villa,227174,Matty Cash,Aston Villa,1.018
+12595,Hákon Valdimarsson,Brentford,264133,Hákon Valdimarsson,Brentford,1.2
+13718,Eliezer Mayenda,Sunderland,271248,Eliezer Mayenda,Sunderland,1.2
+5609,Yves Bissouma,Tottenham,236480,Yves Bissouma,Tottenham Hotspur,1.2
+7230,Emile Smith-Rowe,Fulham,240273,Emile Smith Rowe,Fulham FC,0.968
+10293,Toti,Wolverhampton Wanderers,,,,0.479
+7281,Diogo Dalot,Manchester United,74142,Diego León,Manchester United,0.717
+12916,Thierno Barry,Everton,276295,Thierno Barry,Everton,1.2
+6912,Pedro Porro,Tottenham,243576,Pedro Antonio Porro Sauceda,Tottenham Hotspur,0.629
+11296,Cody Gakpo,Liverpool,242516,Cody Gakpo,Liverpool,1.2
+8094,Mathis Cherki,Manchester City,251570,Rayan Cherki,Manchester City,0.84
+13246,Amadou Cissé,Strasbourg,,,,0.505
+6157,Timothy Castagne,Fulham,222501,Timothy Castagne,Fulham FC,1.15
+11772,Yehor Yarmolyuk,Brentford,270608,Yehor Yarmoliuk,Brentford,0.983
+9328,Jeremie Frimpong,Liverpool,253149,Jeremie Frimpong,Liverpool,1.2
+8969,Florentino Luís,Burnley,234569,Florentino Morris Luís,Burnley,1.011
+934,Axel Tuanzebe,Burnley,231485,Axel Tuanzebe,Burnley,1.2
+11461,Romaine Mundle,Sunderland,268903,Romaine Mundle,Sunderland,1.2
+10120,Conor Bradley,Liverpool,264298,Conor Bradley,Liverpool,1.2
+579,Nathan Aké,Manchester City,208920,Nathan Aké,Manchester City,1.2
+11763,Abduqodir Khusanov,Manchester City,277031,Abdukodir Khusanov,Manchester City,1.144
+10847,Rico Lewis,Manchester City,271574,Rico Lewis,Manchester City,1.2
+11944,Patrick Dorgu,Manchester United,277432,Patrick Dorgu,Manchester United,1.2
+2203,Emiliano Buendía,Aston Villa,226162,Emiliano Buendía,Aston Villa,1.2
+5956,Youri Tielemans,Aston Villa,216393,Youri Tielemans,Aston Villa,1.2
+10292,Nathan Patterson,Everton,257896,Nathan Patterson,Everton,1.2
+675,Jack Grealish,Everton,206517,Jack Grealish,Everton,1.2
+12757,Harrison Armstrong,Everton,74413,Harrison Armstrong,Everton,1.2
+11331,Merlin Röhl,Everton,259714,Merlin Röhl,Everton,1.2
+2310,Alphonse Areola,West Ham,193105,Alphonse Areola,West Ham United,1.2
+5743,Randal Kolo Muani,Tottenham,237679,Randal Kolo Muani,Tottenham Hotspur,1.2
+10822,Wilson Odobert,Tottenham,270579,Wilson Odobert,Tottenham Hotspur,1.2
+9040,Conor Gallagher,Tottenham,238216,Conor Gallagher,Tottenham Hotspur,1.2
+7218,Cristian Romero,Tottenham,232488,Cristian Romero,Tottenham Hotspur,1.2
+5735,Jean-Philippe Mateta,Crystal Palace,236461,Jean-Philippe Mateta,Crystal Palace,1.2
+10760,Brennan Johnson,Crystal Palace,251421,Brennan Johnson,Crystal Palace,1.2
+9024,Yeremi Pino,Crystal Palace,259377,Yeremy Jesús Pino Santos,Crystal Palace,0.621
+6104,Will Hughes,Crystal Palace,206516,Will Hughes,Crystal Palace,1.2
+13038,Justin Devenny,Crystal Palace,73895,Justin Devenny,Crystal Palace,1.2
+12358,Oliver Scarles,West Ham,274102,Oliver Scarles,West Ham United,1.2
+7298,Ben White,Arsenal,231936,Benjamin White,Arsenal,0.983
+8252,Nicolás Domínguez,Nottingham Forest,237819,Nicolás Domínguez,Nottingham Forest,1.2
+6456,Callum Hudson-Odoi,Nottingham Forest,240740,Callum Hudson-Odoi,Nottingham Forest,1.2
+13778,Igor Jesus,Nottingham Forest,79402,Igor Jesus Maciel da Cruz,Nottingham Forest,0.621
+885,Kyle Walker-Peters,West Ham,227927,Kyle Walker-Peters,West Ham United,1.2
+8845,Hee-Chan Hwang,Wolverhampton Wanderers,226380,Hee Chan Hwang,Wolverhampton Wanderers,1.163
+9554,Tim Iroegbunam,Everton,266609,Tim Iroegbunam,Everton,1.2
+7240,Benoit Badiashile Mukinayi,Chelsea,242578,Benoît Badiashile,Chelsea,0.841
+6055,Phil Foden,Manchester City,237692,Phil Foden,Manchester City,1.2
+1537,Sasa Lukic,Fulham,236699,Saša Lukić,Fulham FC,1.15
+1789,Lewis Cook,Bournemouth,224294,Lewis Cook,AFC Bournemouth,1.15
+13711,Maxim De Cuyper,Brighton,251479,Maxim De Cuyper,Brighton & Hove Albion,1.2
+8981,Jéremy Doku,Manchester City,246420,Jérémy Doku,Manchester City,1.2
+11965,Tijjani Reijnders,Manchester City,240638,Tijjani Reijnders,Manchester City,1.2
+13298,Max Alleyne,Manchester City,76250,Max Alleyne,Manchester City,1.2
+8868,Liam Delap,Chelsea,259031,Liam Delap,Chelsea,1.2
+5590,Tosin Adarabioyo,Chelsea,222104,Tosin Adarabioyo,Chelsea,1.2
+12369,Lucas Perri,Leeds,230670,Lucas Estella Perri,Leeds United,0.883
+11386,Lewis Miley,Newcastle United,274246,Lewis Miley,Newcastle United,1.2
+4105,Raúl Jiménez,Fulham,204838,Raúl Jiménez,Fulham FC,1.15
+6108,Rodrigo Bentancur,Tottenham,227535,Rodrigo Bentancur,Tottenham Hotspur,1.2
+6080,Victor Lindelöf,Aston Villa,221660,Victor Lindelöf,Aston Villa,1.2
+6420,Romain Faivre,Auxerre,242577,Romain Faivre,AJ Auxerre,1.2
+8831,Iyenoma Destiny Udogie,Tottenham,259583,Destiny Udogie,Tottenham Hotspur,0.978
+702,Tammy Abraham,Aston Villa,231352,Tammy Abraham,Aston Villa,1.2
+6122,Douglas Luiz,Aston Villa,236499,Douglas Luiz Soares de Paulo,Aston Villa,0.65
+13814,Pape Sy,Metz,73929,Pape Sy,FC Metz,1.15
+8211,Amine Adli,Bournemouth,255223,Amine Adli,AFC Bournemouth,1.15
+7698,Leandro Trossard,Arsenal,207421,Leandro Trossard,Arsenal,1.2
+825,Adam Smith,Bournemouth,190885,Adam Smith,AFC Bournemouth,1.15
+3253,Frederic Guilbert,Nantes,227222,Frédéric Guilbert,FC Nantes,1.2
+6904,Ibrahima Sissoko,Nantes,231089,Ibrahima Sissoko,FC Nantes,1.2
+6238,Ignatius Ganago,Nantes,241130,Ignatius Ganago,FC Nantes,1.2
+11385,Yasin Ayari,Brighton,257400,Yasin Ayari,Brighton & Hove Albion,1.2
+10527,Carlos Baleba,Brighton,272500,Carlos Baleba,Brighton & Hove Albion,1.2
+10856,Emmanuel Agbadou,Wolverhampton Wanderers,240507,Angel Gomes,Wolverhampton Wanderers,0.569
+10620,Luca Koleosho,Paris FC,266041,Luca Koleosho,Paris FC,1.2
+250,Ørjan Nyland,Sevilla,185427,Ørjan Nyland,Sevilla FC,1.2
+12726,Christantus Uche,Getafe,,,,0.487
+13788,Davinchi,Getafe,79393,David Cordón Mancha,Getafe CF,0.569
+13334,Ismael Bekhoucha,Getafe,73375,Ismael Bekhoucha,Getafe CF,1.2
+2290,Iago Aspas,Celta Vigo,192629,Iago Aspas Juncal,RC Celta,0.791
+5706,Dodi Lukebakio,Sevilla,,,,0.444
+6933,Javi Puado,Espanyol,244622,Javier Puado Díaz,RCD Espanyol,0.791
+9424,Pablo Cuñat,Levante,271532,Pablo Cuñat Campos,Levante UD,0.759
+9970,Antonio Sánchez,Mallorca,252909,Antonio Sánchez Navarro,RCD Mallorca,0.839
+13766,Jorge Cabello,Levante,193476,Rémy Cabella,FC Nantes,0.72
+13767,Roger Brugué,Levante,241591,Roger Brugué Ayguade,Levante UD,0.75
+13765,Unai Elgezabal,Levante,233588,Unai Elgezabal Udondo,Levante UD,0.8
+8744,Juan Cruz,Osasuna,271145,Abel Bretones Cruz,CA Osasuna,0.719
+12272,Myles Lewis-Skelly,Arsenal,278773,Myles Lewis-Skelly,Arsenal,1.2
+8129,Riccardo Calafiori,Arsenal,257711,Riccardo Calafiori,Arsenal,1.2
+13717,Chemsdine Talbi,Sunderland,275048,Chemsdine Talbi,Sunderland,1.2
+6665,Curtis Jones,Liverpool,242434,Curtis Jones,Liverpool,1.2
+852,Freddie Woodman,Liverpool,222514,Freddie Woodman,Liverpool,1.2
+13080,Ayden Heaven,Manchester United,75087,Ayden Heaven,Manchester United,1.2
+14290,Pablo,West Ham,,,,0.403
+13214,Aladji Bamba,Monaco,75734,Aladji Bamba,AS Monaco,1.2
+10809,Keane Lewis-Potter,Brentford,243606,Keane Lewis-Potter,Brentford,1.2
+11361,Daniel Bentley,Wolverhampton Wanderers,198350,Daniel Bentley,Wolverhampton Wanderers,1.2
+12759,Yankuba Minteh,Brighton,271800,Yankuba Minteh,Brighton & Hove Albion,1.2
+10805,Levi Colwill,Chelsea,262859,Levi Colwill,Chelsea,1.2
+9693,Giorgi Mamardashvili,Liverpool,262621,Giorgi Mamardashvili,Liverpool,1.2
+1857,David López,Girona,201505,David López Silva,Girona FC,0.836
+12046,Jhon Solis,Girona,,,,0.512
+10952,Joel Roca,Girona,272718,Joel Roca Casals,Girona FC,0.77
+6026,Richarlison,Tottenham,231943,Richarlison de Andrade,Tottenham Hotspur,0.717
+13348,Antonín Kinsky,Tottenham,73580,Antonín Kinský,Tottenham Hotspur,1.2
+7814,Taiwo Awoniyi,Nottingham Forest,230978,Taiwo Awoniyi,Nottingham Forest,1.2
+10126,James McAtee,Nottingham Forest,264349,James McAtee,Nottingham Forest,1.2
+11003,Ryan Yates,Nottingham Forest,235642,Ryan Yates,Nottingham Forest,1.2
+8920,Dilane Bakwa,Nottingham Forest,250789,Dilane Bakwa,Nottingham Forest,1.2
+13789,Adrián Liso,Getafe,277269,Adrián Liso Lahoz,Getafe CF,0.836
+13840,Martim Neto,Elche,270109,Martim Carvalho Neto,Elche CF,0.86
+12305,Isaac Romero,Sevilla,69967,Isaac Romero Bernal,Sevilla FC,0.824
+10388,Luka Ilic,Real Oviedo,243834,Luka Ilić,Real Oviedo,1.2
+10999,Marcão,Sevilla,200110,Marco Bizot,Aston Villa,0.588
+6485,Júnior Firpo,Real Betis,241184,Héctor Junior Firpo Adamés,Real Betis Balompié,0.682
+200,Andreas Christensen,Barcelona,213661,Andreas Christensen,FC Barcelona,1.2
+5654,Baptiste Santamaria,Valencia,219792,Baptiste Santamaria,Valencia CF,1.2
+2270,Antoine Griezmann,Atletico Madrid,194765,Antoine Griezmann,Atlético Madrid,1.2
+7613,Moussa Diarra,Alaves,238463,Amadou Haidara,RC Lens,0.593
+13005,Yáser Asprilla,Girona,,,,0.45
+6740,Miguel Ángel Rubio,Espanyol,243431,Miguel Ángel Rubio Lestán,RCD Espanyol,0.887
+13420,Vladyslav Krapyvtsov,Girona,76012,Vladyslav Krapyvtsov,Girona FC,1.2
+9241,Alfon,Sevilla,,,,0.471
+6592,Manuel Morlanes,Mallorca,241856,Manuel Morlanes Ariño,RCD Mallorca,0.883
+1823,Lucas Digne,Aston Villa,200458,Lucas Digne,Aston Villa,1.2
+9678,Ethan Pinnock,Brentford,238717,Ethan Pinnock,Brentford,1.2
+605,Jordan Henderson,Brentford,183711,Jordan Henderson,Brentford,1.2
+9614,Marco Bizot,Aston Villa,200110,Marco Bizot,Aston Villa,1.2
+7723,John McGinn,Aston Villa,210881,John McGinn,Aston Villa,1.2
+13364,Diego Gómez,Brighton,269278,Diego Gómez,Brighton & Hove Albion,1.2
+12758,Mats Wieffer,Brighton,248793,Mats Wieffer,Brighton & Hove Albion,1.2
+11704,Hjalmar Ekdal,Burnley,252316,Hjalmar Ekdal,Burnley,1.2
+8006,Evann Guessand,Crystal Palace,258444,Evann Guessand,Crystal Palace,1.2
+5652,Walter Benítez,Crystal Palace,215223,Walter Benítez,Crystal Palace,1.2
+9512,Valentino Livramento,Newcastle United,262118,Tino Livramento,Newcastle United,1.057
+13727,Quilindschy Hartman,Burnley,271121,Quilindschy Hartman,Burnley,1.2
+987,Joseph Gomez,Liverpool,225100,Joe Gomez,Liverpool,1.057
+9977,Loum Tchaouna,Burnley,264880,Loum Tchaouna,Burnley,1.2
+4456,Chris Wood,Nottingham Forest,192123,Chris Wood,Nottingham Forest,1.2
+13834,Ao Tanaka,Leeds,236764,Ao Tanaka,Leeds United,1.15
+2517,Martin Odegaard,Arsenal,222665,Martin Ødegaard,Arsenal,1.2
+13156,Pedro Lima,Wolverhampton Wanderers,73049,Pedro Henrique Cardoso de Lima,Wolverhampton Wanderers,0.7
+6852,Matt Doherty,Wolverhampton Wanderers,201417,Matt Doherty,Wolverhampton Wanderers,1.2
+9556,William Osula,Newcastle United,270519,William Osula,Newcastle United,1.2
+6063,Jacob Murphy,Newcastle United,206085,Jacob Murphy,Newcastle United,1.2
+11766,Manuel Ugarte,Manchester United,253306,Manuel Ugarte,Manchester United,1.2
+5220,Kai Havertz,Arsenal,235790,Kai Havertz,Arsenal,1.2
+14499,Tochukwu Nnadi,Marseille,78424,Tochukwu Nnadi,Olympique de Marseille,1.2
+13741,Jhon Arias,Wolverhampton Wanderers,,,,0.479
+978,Sam Johnstone,Wolverhampton Wanderers,206075,Sam Johnstone,Wolverhampton Wanderers,1.2
+12905,Nicolò Savona,Nottingham Forest,74310,Nicolò Savona,Nottingham Forest,1.2
+1018,Josh Cullen,Burnley,228151,Josh Cullen,Burnley,1.2
+7902,Matthijs de Ligt,Manchester United,235243,Matthijs de Ligt,Manchester United,1.2
+7365,Lucas Paquetá,West Ham,164835,Łukasz Fabiański,West Ham United,0.533
+5789,Boubacar Kamara,Aston Villa,236987,Boubacar Kamara,Aston Villa,1.2
+7268,Bafode Diakite,Bournemouth,246565,Bafodé Diakité,AFC Bournemouth,1.15
+7078,Sean Longstaff,Leeds,237161,Sean Longstaff,Leeds United,1.15
+11735,Sávio,Manchester City,,,,0.471
+9790,Josko Gvardiol,Manchester City,251517,Joško Gvardiol,Manchester City,1.2
+8942,Aaron Hickey,Brentford,248808,Aaron Hickey,Brentford,1.2
+7332,Max Kilman,West Ham,245336,Maximilian Kilman,West Ham United,0.941
+13749,Dro Fernández,Paris Saint Germain,80674,Pedro Fernández,Paris Saint-Germain,1.129
+9802,Nico González,Manchester City,255069,Nicolás González Iglesias,Manchester City,0.734
+12027,Mohammed Kudus,Tottenham,245155,Mohammed Kudus,Tottenham Hotspur,1.2
+2958,Oleksandr Zinchenko,Nottingham Forest,238095,Nikola Milenković,Nottingham Forest,0.55
+12054,Altay Bayindir,Manchester United,243647,Altay Bayındır,Manchester United,1.2
+5232,Alexander Isak,Liverpool,233731,Alexander Isak,Liverpool,1.2
+6098,Niclas Füllkrug,West Ham,,,,0.437
+101,Allan Saint-Maximin,Lens,216388,Allan Saint-Maximin,RC Lens,1.2
+12304,Renato Marin,Paris Saint Germain,279880,Renato Bellucci Marin,Paris Saint-Germain,0.927
+12756,Rodrigo Gomes,Wolverhampton Wanderers,259170,Rodrigo Martins Gomes,Wolverhampton Wanderers,0.965
+13724,Freddie Potts,West Ham,264579,Freddie Potts,West Ham United,1.2
+8662,Dan Ndoye,Nottingham Forest,257980,Dan Ndoye,Nottingham Forest,1.2
+14027,Veljko Milosavljevic,Bournemouth,81319,Veljko Milosavljević,AFC Bournemouth,1.15
+13736,Khalis Merah,Lyon,80067,Khalis Merah,Olympique Lyonnais,1.2
+5355,Jacob Bruun Larsen,Burnley,227503,Jacob Bruun Larsen,Burnley,1.2
+12535,Josh Acheampong,Chelsea,71651,Josh Acheampong,Chelsea,1.2
+11903,Oscar Bobb,Manchester City,,,,0.485
+9077,James Trafford,Manchester City,263063,James Trafford,Manchester City,1.2
+12845,Mathieu Acapandié,Nantes,74474,Mathieu Acapandié,FC Nantes,1.2
+76,Fabian Schär,Newcastle United,210047,Fabian Schär,Newcastle United,1.2
+586,John Stones,Manchester City,203574,John Stones,Manchester City,1.2
+9983,Beto,Everton,,,,0.383
+9501,Fabio Carvalho,Brentford,256725,Fábio Leandro Carvalho,Brentford,0.978
+12912,Lucas Bergvall,Tottenham,272926,Lucas Bergvall,Tottenham Hotspur,1.2
+11357,Noni Madueke,Arsenal,254796,Noni Madueke,Arsenal,1.2
+5304,Mikel Merino,Arsenal,225193,Mikel Merino Zazón,Arsenal,0.85
+13819,Maxi Oyedele,Strasbourg,269262,Maxi Oyedele,RC Strasbourg Alsace,1.2
+14359,Gessime Yassine,Strasbourg,70017,Gessime Yassine,RC Strasbourg Alsace,1.2
+13283,Raphaël Le Guen,Brest,76035,Raphaël Le Guen,Stade Brestois 29,1.2
+7148,Wilson Isidor,Sunderland,247335,Wilson Isidor,Sunderland,1.2
+13740,David Møller Wolfe,Wolverhampton Wanderers,262135,David Møller Wolfe,Wolverhampton Wanderers,1.2
+10770,Soungoutou Magassa,West Ham,275102,Soungoutou Magassa,West Ham United,1.2
+14017,John Victor,Nottingham Forest,234724,John Victor Maciel Furtado,Nottingham Forest,0.645
+7768,Mason Mount,Manchester United,233064,Mason Mount,Manchester United,1.2
+8384,Armando Broja,Burnley,256268,Armando Broja,Burnley,1.2
+11966,Noah Okafor,Leeds,242530,Noah Okafor,Leeds United,1.15
+12851,Emmanuel Biumla,Angers,275878,Emmanuel Biumla,Angers SCO,1.2
+6963,Justin Kluivert,Bournemouth,236920,Justin Kluivert,AFC Bournemouth,1.15
+8537,Dennis Cirkin,Sunderland,256831,Dennis Cirkin,Sunderland,1.2
+603,Nathaniel Clyne,Crystal Palace,190456,Nathaniel Clyne,Crystal Palace,1.2
+10431,Désiré Doué,Paris Saint Germain,271421,Désiré Doué,Paris Saint-Germain,1.2
+660,Ben Davies,Tottenham,205923,Ben Davies,Tottenham Hotspur,1.2
+468,Callum Wilson,West Ham,196978,Callum Wilson,West Ham United,1.2
+10586,Tyler Dibling,Everton,279497,Tyler Dibling,Everton,1.2
+13775,Estêvão,Chelsea,,,,0.517
+8044,Joshua Zirkzee,Manchester United,250961,Joshua Zirkzee,Manchester United,1.2
+5661,Jonathan Ikone,Paris FC,234612,Jonathan Ikoné,Paris FC,1.2
+14030,Kevin,Fulham,70571,Kevin Santos,Fulham FC,0.588
+10542,Jamie Bynoe-Gittens,Chelsea,266032,Jamie Gittens,Chelsea,0.889
+7943,Igor Julio,West Ham,,,,0.45
+10936,Charles Pickel,Espanyol,233884,Charles Pickel,RCD Espanyol,1.2
+1244,Wojciech Szczesny,Barcelona,186153,Wojciech Szczęsny,FC Barcelona,1.2
+3697,Odsonne Edouard,Lens,233866,Odsonne Édouard,RC Lens,1.2
+3226,Ousmane Dembélé,Paris Saint Germain,231443,Ousmane Dembélé,Paris Saint-Germain,1.2
+10614,Damián Rodríguez,Celta Vigo,279027,Javier Rodríguez Galiano,RC Celta,0.65
+2198,Moi Gómez,Osasuna,206590,Moisés Gómez Bordonado,CA Osasuna,0.631
+8765,Roberto Navarro,Athletic Club,253130,Robert Navarro Muñoz,Athletic Club,0.85
+13847,Franco Mastantuono,Real Madrid,279173,Franco Mastantuono,Real Madrid,1.2
+8042,Raul García,Osasuna,253416,Raúl García de Haro,CA Osasuna,0.783
+813,Salomón Rondón,Real Oviedo,,,,0.507
+8329,Unai Vencedor,Levante,247328,Unai Vencedor Paris,Levante UD,0.812
+2328,Thomas Partey,Villarreal,209989,Thomas Partey,Villarreal CF,1.2
+11025,Pablo Torre,Mallorca,267976,Pablo Torre Carral,RCD Mallorca,0.809
+14059,Alemão,Rayo Vallecano,,,,0.45
+6126,Ander Guevara,Alaves,240458,Ander Guevara Lajo,Deportivo Alavés,0.889
+12418,Rodrigo Ribeiro,Augsburg,268837,Rodrigo Duarte Ribeiro,FC Augsburg,1.011
+12066,Ethan Mbappé,Lille,278172,Ethan Mbappé,Lille OSC,1.15
+13770,Paco Cortés,Levante,72563,Francisco Cortés Gracia,Levante UD,0.588
+9250,Reda Khadra,Le Havre,260558,Reda Khadra,Le Havre AC,1.2
+965,Santiago Cazorla,Real Oviedo,146562,Santiago Cazorla González,Real Oviedo,0.83
+6820,David Brooks,Bournemouth,220196,David Brooks,AFC Bournemouth,1.15
+6118,Portu,Girona,,,,0.364
+13017,Filippo Mané,Borussia Dortmund,73016,Filippo Mane,Borussia Dortmund,1.2
+7867,Robert Skov,Union Berlin,215449,Robert Skov,1. FC Union Berlin,1.2
+294,Gian-Luca Waldschmidt,FC Cologne,220085,Luca Waldschmidt,1. FC Köln,1.089
+6638,Linton Maina,FC Cologne,242997,Linton Maina,1. FC Köln,1.2
+12041,Roman Yaremchuk,Lyon,240702,Roman Yaremchuk,Olympique Lyonnais,1.2
+10367,Tiago Tomás,VfB Stuttgart,257073,Tiago B. de Melo Tomás,VfB Stuttgart,0.888
+8351,Ki-Jana Hoever,Wolverhampton Wanderers,,,,0.467
+14440,Álvaro Fidalgo,Real Betis,246608,Álvaro Fidalgo Fernández,Real Betis Balompié,0.787
+10878,Sandi Lovric,Verona,,,,0.483
+13873,Nicolae Stanciu,Genoa,201299,Nicola Leali,Genoa,0.717
+9061,Pontus Almqvist,Parma Calcio 1913,,,,0.0
+14431,Giorgi Kvilitaia,Metz,235812,Giorgi Kvilitaia,FC Metz,1.15
+1461,Pol Lirola,Verona,,,,0.476
+6421,Brahim Diaz,Real Madrid,231410,Brahim Díaz,Real Madrid,1.2
+14465,Ibrahim Diabate,Alaves,259747,Ibrahim Diabate,Deportivo Alavés,1.2
+13881,Noa Lang,Napoli,,,,0.45
+11046,Abdallah Sima,Lens,259816,Abdallah Sima,RC Lens,1.2
+4168,Javi Muñoz,Getafe,226157,Javier Muñoz Jiménez,Getafe CF,0.717
+7791,Sebastiaan Bornauw,Leeds,242663,Sebastiaan Bornauw,Leeds United,1.15
+6088,Orel Mangala,Lyon,234078,Orel Mangala,Olympique Lyonnais,1.2
+14177,Livan Burcu,Union Berlin,276583,Livan Burcu,1. FC Union Berlin,1.2
+497,Francis Coquelin,Nantes,189271,Francis Coquelin,FC Nantes,1.2
+12069,Junior Adamu,Freiburg,269184,Junior Mwanga,RC Strasbourg Alsace,0.72
+10796,Zakaria Aboukhlal,Torino,248564,Zakaria Aboukhlal,Torino,1.2
+11867,Victor Boniface,Werder Bremen,247679,Victor Boniface,SV Werder Bremen,1.2
+9855,Mattia Viti,Fiorentina,258976,Fabiano Parisi,Fiorentina,0.53
+13198,Ramón Martínez,Sevilla,202811,Emiliano Martínez,Aston Villa,0.86
+7631,Sebastian Szymanski,Rennes,235973,Sebastian Szymański,Stade Rennais FC,1.2
+10101,Carlos Martín,Rayo Vallecano,265396,Carlos Martín Domínguez,Rayo Vallecano,0.772
+11102,Adam Buksa,Udinese,224438,Adam Buksa,Udinese,1.2
+592,Ross Barkley,Aston Villa,199189,Ross Barkley,Aston Villa,1.2
+6345,Jadon Sancho,Aston Villa,233049,Jadon Sancho,Aston Villa,1.2
+14086,Alex Sancris,Getafe,275986,Alejandro San Cristóbal,Getafe CF,0.679
+13974,Isaac Schmidt,Werder Bremen,256776,Isaac Schmidt,SV Werder Bremen,1.2
+11958,Gaetano Oristanio,Parma Calcio 1913,,,,0.0
+11297,Carlos Alcaraz,Everton,256402,Carlos Alcaraz,Everton,1.2
+8017,Alex Kral,Union Berlin,247028,Alex Král,1. FC Union Berlin,1.2
+1734,Sofiane Boufal,Le Havre,211381,Sofiane Boufal,Le Havre AC,1.2
+9350,Armindo Sieb,Mainz 05,259162,Armindo Sieb,1. FSV Mainz 05,1.2
+14118,Charalampos Kostoulas,Brighton,73885,Charalampos Kostoulas,Brighton & Hove Albion,1.2
+12537,Asier Osambela,Osasuna,71598,Asier Osambela Larraya,CA Osasuna,0.828
+8684,Fodé Doucouré,Le Havre,257406,Fodé Doucouré,Le Havre AC,1.2
+9345,Ahmadou Bamba Dieng,Lorient,261084,Bamba Dieng,FC Lorient,0.883
+4250,Nicolas Höfler,Freiburg,199897,Nicolas Höfler,SC Freiburg,1.2
+8778,Fabio Silva,Borussia Dortmund,252037,Fábio Daniel Soares Silva,Borussia Dortmund,0.811
+14428,Hugo Bolin,Borussia M.Gladbach,272931,Hugo Bolin,Borussia Mönchengladbach,1.2
+14379,Kail Boudache,Nice,83396,Kaïl Boudache,OGC Nice,1.2
+10717,Rodrigo Muniz,Fulham,264337,Rodrigo Muniz Carvalho,Fulham FC,0.743
+12410,Joshua King,Fulham,70786,Josh King,Fulham FC,1.05
+2217,Antonio Sanabria,Cremonese,219932,Antonio Sanabria,Cremonese,1.2
+1209,Ciro Immobile,Paris FC,192387,Ciro Immobile,Paris FC,1.2
+14241,Kenny Quetant,Le Havre,82739,Kenny Quetant,Le Havre AC,1.2
+5962,Tanguy NDombele Alvaro,Nice,235569,Tanguy Ndombele,OGC Nice,0.861
+5786,Yoane Wissa,Newcastle United,234824,Yoane Wissa,Newcastle United,1.2
+6544,Lukas Nmecha,Leeds,230084,Lukas Nmecha,Leeds United,1.15
+10074,Sambou Soumano,Lorient,257978,Sambou Soumano,FC Lorient,1.15
+12218,Francesco Camarda,Lecce,279202,Francesco Camarda,Lecce,1.2
+11936,Lorenzo Lucca,Napoli,202884,Leonardo Spinazzola,Napoli,0.55
+8893,Josan,Elche,,,,0.429
+9813,Randy Nteka,Rayo Vallecano,251756,Randy Nteka,Rayo Vallecano,1.2
+12870,Buba Sangaré,Elche,279200,Aboubacar Sangaré Traoré,Elche CF,0.667
+13926,Alexander Røssing-Lelesiit,Hamburger SV,72319,Alexander Røssing-Lelesiit,Hamburger SV,1.2
+14331,Ayoube Amaimouni-Echghouyab,Eintracht Frankfurt,78474,Ayoube Amaimouni,Eintracht Frankfurt,0.812
+13744,Felix Mambimbi,Le Havre,247519,Félix Mambimbi,Le Havre AC,1.2
+9996,Abdou Harroui,Verona,276528,Claudio Echeverri,Girona FC,0.533
+695,Bertrand Traoré,Sunderland,207948,Bertrand Traoré,Sunderland,1.2
+12997,Alieu Fadera,Sassuolo,263882,Alieu Fadera,Sassuolo,1.2
+13815,Morgan Bokele,Metz,,,,0.435
+7065,Florian Neuhaus,Borussia M.Gladbach,234943,Florian Neuhaus,Borussia Mönchengladbach,1.2
+10832,Loïs Openda,Juventus,243580,Loïs Openda,Juventus,1.2
+6651,Grady Diangana,Elche,231436,Grady Diangana,Elche CF,1.15
+13813,Giorgi Abuashvili,Metz,277979,Giorgi Abuashvili,FC Metz,1.15
+11350,Amin Sarr,Verona,230872,Mile Svilar,Roma,0.6
+10744,Ryan Christie,Bournemouth,213884,Ryan Christie,AFC Bournemouth,1.15
+6835,Tom Cairney,Fulham,195202,Tom Cairney,Fulham FC,1.15
+9274,Naouirou Ahamada,Auxerre,259205,Naouirou Ahamada,AJ Auxerre,1.2
+12000,Ibou Sané,Metz,278065,Sadibou Sané,FC Metz,1.007
+13810,Brian Madjo,Metz,,,,0.435
+687,Pedro,Lazio,275978,Petar Ratkov,Lazio,0.521
+12979,Connor Metcalfe,St. Pauli,240648,Connor Metcalfe,FC St. Pauli,1.2
+2446,Dani Ceballos,Real Madrid,222509,Daniel Ceballos Fernández,Real Madrid,0.734
+13933,Nicolas Kühn,Como,239977,Nicolas Kühn,Como,1.2
+14363,Rémi Himbert,Lyon,83214,Rémi Himbert,Olympique Lyonnais,1.2
+14518,Renzo Saravia,Valencia,215256,Renzo Saravia,Valencia CF,1.2
+5179,Jon Guridi,Alaves,238126,Jon Guridi Aldalur,Deportivo Alavés,0.764
+14033,Mayckel Lahdo,Nantes,193476,Rémy Cabella,FC Nantes,0.53
+12980,Elias Saad,Augsburg,240193,Elvis Rexhbeçaj,FC Augsburg,0.53
+10947,Ramón Terrats,Espanyol,259521,Ramón Terrats Espacio,RCD Espanyol,0.815
+10380,Zito,Mallorca,,,,0.3
+7649,Younes Namli,Le Havre,,,,0.467
+12868,Mattia Felici,Cagliari,248857,Mattia Felici,Cagliari,1.2
+13960,Fallou Cham,Verona,,,,0.4
+13958,Lennon Miller,Udinese,275522,Lennon Miller,Udinese,1.2
+13172,Adrian Benedyczak,Parma Calcio 1913,,,,0.0
+6672,Riccardo Sottil,Lecce,246431,Riccardo Sottil,Lecce,1.2
+6482,Eddie Nketiah,Crystal Palace,236988,Eddie Nketiah,Crystal Palace,1.2
+557,Matteo Darmian,Inter,184392,Matteo Darmian,Inter,1.2
+9905,David Okereke,Cremonese,233732,David Okereke,Cremonese,1.2
+3743,Lucas Tousart,Brest,227234,Lucas Tousart,Stade Brestois 29,1.2
+12857,Daniel Mosquera,Verona,241463,Daniel Raba Antolin,Valencia CF,0.529
+13543,Valde,Real Madrid,,,,0.505
+14569,Bara Sapoko Ndiaye,Bayern Munich,79317,David Santos Daiber,FC Bayern München,0.536
+6974,Mattias Svanberg,Wolfsburg,228946,Mattias Svanberg,VfL Wolfsburg,1.2
+5947,Mihailo Ristic,Celta Vigo,240223,Mihailo Ristić,RC Celta,1.2
+13442,Tidiam Gomis,RasenBallsport Leipzig,278061,Tidiam Gomis,RB Leipzig,1.2
+13386,Jacob Ondrejka,Parma Calcio 1913,,,,0.0
+7562,Eric Junior Dina Ebimbe,Brest,248573,Junior Dina Ebimbe,Stade Brestois 29,1.078
+14337,Youssoupha Niang,FC Cologne,83078,Youssoupha Niang,1. FC Köln,1.2
+9935,Aster Vranckx,Sassuolo,252027,Aster Vranckx,Sassuolo,1.2
+12470,Max Moerstedt,Hoffenheim,279542,Max Moerstedt,TSG 1899 Hoffenheim,1.2
+900,Adama Traoré,Fulham,,,,0.429
+8838,Junior Messias,Genoa,240938,Junior Messias,Genoa,1.2
+13965,Edoardo Iannoni,Sassuolo,270657,Edoardo Iannoni,Sassuolo,1.2
+14360,Luís Balbo,Fiorentina,83223,Luís Balbo,Fiorentina,1.2
+14426,Alex Amorim,Genoa,79913,Alexsandro Amorim,Genoa,0.986
+14407,Nathan Mbala,Metz,83564,Nathan Mbala,FC Metz,1.15
+11411,Damion Downs,Hamburger SV,274944,Damion Downs,Hamburger SV,1.2
+14036,Fabio Baldé,Hamburger SV,74102,Fabio Baldé,Hamburger SV,1.2
+13751,Isak Jansson,Nice,252960,Isak Jansson,OGC Nice,1.2
+8002,Rodrigo Riquelme,Real Betis,252324,Rodrigo Riquelme Reche,Real Betis Balompié,0.892
+11633,Marc Guiu,Chelsea,278813,Marc Guiu Paz,Chelsea,0.868
+14164,Fabio Moreno Fell,Mainz 05,82128,Fabio Moreno Fell,1. FSV Mainz 05,1.2
+13937,Daniel Denoon,Pisa,74876,Daniel Denoon,Pisa,1.2
+10771,Ben Seghir,Bayer Leverkusen,272781,Eliesse Ben Seghir,Bayer 04 Leverkusen,0.914
+13896,Zachary Athekame,AC Milan,279782,Zachary Athekame,AC Milan,1.2
+13215,Axel Tape,Bayer Leverkusen,75736,Axel Tape,Bayer 04 Leverkusen,1.2
+7549,Abel Ruiz,Girona,239250,Abel Ruiz Ortega,Girona FC,0.77
+5110,Mariano,Alaves,221639,Mariano Díaz Mejía,Deportivo Alavés,0.61
+5611,Martin Terrier,Bayer Leverkusen,236786,Martin Terrier,Bayer 04 Leverkusen,1.2
+1754,Joel Asoro,Metz,75965,Joseph Mangondo,FC Metz,0.56
+10209,Jofre Carreras,Espanyol,258949,Jofre Carreras Pagès,RCD Espanyol,0.874
+13835,Joël Piroe,Leeds,247249,Joël Piroe,Leeds United,1.15
+5595,Daniel James,Leeds,232104,Daniel James,Leeds United,1.15
+13506,Rayan Fofana,Lens,77633,Rayan Fofana,RC Lens,1.2
+12977,Lars Ritzka,St. Pauli,237884,Lars Ritzka,FC St. Pauli,1.2
+14423,Philip Otele,Hamburger SV,266395,Philip Otele,Hamburger SV,1.2
+13885,Andréas Hountondji,St. Pauli,261766,Andréas Hountondji,FC St. Pauli,1.2
+1186,Andrea Belotti,Cagliari,208596,Andrea Belotti,Cagliari,1.2
+12801,Osame Sahraoui,Lille,246548,Osame Sahraoui,Lille OSC,1.15
+12530,Mikayil Faye,Cremonese,277118,Mikayil Faye,Cremonese,1.2
+13772,Nacho Pérez,Levante,80679,Nacho Pérez Gómez,Levante UD,0.786
+12774,Andy Irving,West Ham,,,,0.42
+10870,Williot Swedberg,Celta Vigo,263227,Williot Swedberg,RC Celta,1.2
+14393,Thiago Fernández,Real Oviedo,275205,Thiago Fernández,Real Oviedo,1.2
+8393,Omar Marmoush,Manchester City,256675,Omar Marmoush,Manchester City,1.2
+7825,Iker Losada,Levante,252865,Iker Losada Aragunde,Levante UD,0.71
+13954,Álex Forés,Real Oviedo,269643,Alex Forés Mendoza,Real Oviedo,0.764
+13113,David Jiménez,Real Madrid,75239,David Jiménez Corredor,Real Madrid,0.793
+3348,Florian Sotoca,Lens,227232,Florian Sotoca,RC Lens,1.2
+10273,Iker Benito,Osasuna,264159,Iker Benito Sánchez,CA Osasuna,0.783
+3285,Gaetan Perrin,Lille,232360,Gaëtan Perrin,Lille OSC,1.15
+14351,Rafiu Durosinmi,Pisa,273128,Rafiu Durosinmi,Pisa,1.2
+9882,Dennis Johnsen,Cremonese,,,,0.385
+9843,Caleb Ekuban,Genoa,239795,Caleb Ekuban,Genoa,1.2
+13864,Cyriaque Irié,Freiburg,74431,Cyriaque Irié,SC Freiburg,1.2
+13306,Zach Abbott,Nottingham Forest,74242,Zach Abbott,Nottingham Forest,1.2
+12573,Tyrique George,Chelsea,,,,0.464
+13099,Rui Modesto,Udinese,,,,0.505
+3495,Pierrick Capelle,Angers,209781,Pierrick Capelle,Angers SCO,1.2
+12257,Rayane Belaid,Atletico Madrid,279569,Rayane Belaid Khelil,Atlético Madrid,0.838
+8191,Giovanni Reyna,Borussia M.Gladbach,245541,Giovanni Reyna,Borussia Mönchengladbach,1.2
+12451,Djaoui Cissé,Rennes,71114,Djaoui Cissé,Stade Rennais FC,1.2
+10730,Muhammed Damar,Hoffenheim,271246,Muhammed Damar,TSG 1899 Hoffenheim,1.2
+12808,Mathis Amougou,Strasbourg,70020,Mathis Amougou,RC Strasbourg Alsace,1.2
+8109,Niels Nkounkou,Torino,255150,Niels Nkounkou,Torino,1.2
+13726,Oliver Sonne,Burnley,,,,0.485
+13376,Pablo García,Real Betis,241867,Aitor Ruibal García,Real Betis Balompié,0.845
+8807,Silas Wamangituka,Mainz 05,253474,Niklas Tauer,1. FSV Mainz 05,0.533
+13584,Harry Howell,Brighton,78227,Harry Howell,Brighton & Hove Albion,1.2
+5762,Pierre-Yves Hamel,Paris FC,236621,Pierre-Yves Hamel,Paris FC,1.2
+11266,Manu Bueno,Sevilla,275520,Manuel Bueno Sebastián,Sevilla FC,0.675
+10004,Romeo Lavia,Chelsea,263620,Romeo Lavia,Chelsea,1.2
+11080,Valentín Carboni,Genoa,236295,Aarón Martín Caricol,Genoa,0.606
+14605,Yaya Diémé,Strasbourg,259306,Fabian Rieder,FC Augsburg,0.522
+14064,Roony Bardghji,Barcelona,265600,Roony Bardghji,FC Barcelona,1.2
+12171,Hector Fort,Elche,278923,Héctor Fort García,Elche CF,0.759
+13649,Claudio Echeverri,Girona,276528,Claudio Echeverri,Girona FC,1.2
+13634,Jan Bürger,Wolfsburg,78753,Jan Bürger,VfL Wolfsburg,1.2
+14435,Jacen Russell-Rowe,Toulouse,269923,Jacen Russell-Rowe,Toulouse FC,1.2
+12776,Jeff Ekhator,Genoa,74485,Jeff Ekhator,Genoa,1.2
+14123,Wael Mohya,Borussia M.Gladbach,80454,Wael Mohya,Borussia Mönchengladbach,1.2
+11531,Unai Gómez,Athletic Club,277708,Unai Gómez Etxebarria,Athletic Club,0.695
+13783,Marius Broholm,Lille,268738,Marius Broholm,Lille OSC,1.15
+12383,Mohamed Bamba,Lorient,277216,Mohamed Bamba,FC Lorient,1.15
+6087,Takuma Asano,Mallorca,232610,Takuma Asano,RCD Mallorca,1.2
+11132,Ethan Nwaneri,Arsenal,271807,Ethan Nwaneri,Olympique de Marseille,1.15
+11861,Stefan Schimmer,FC Heidenheim,239078,Stefan Schimmer,1. FC Heidenheim 1846,1.2
+14237,Cenny Neumann,FC Cologne,82767,Cenny Neumann,1. FC Köln,1.2
+13612,Lanroy Machine,Angers,78377,Lanroy Machine,Angers SCO,1.2
+13976,Hamza Igamane,Lille,73449,Hamza Igamane,Lille OSC,1.15
+13880,Luca Moro,Sassuolo,248787,Luca Moro,Sassuolo,1.2
+10926,Tim Skarke,Union Berlin,229286,Tim Skarke,1. FC Union Berlin,1.2
+12095,Tomás Suslov,Verona,213565,Thomas Lemar,Girona FC,0.583
+5353,Josip Brekalo,Real Oviedo,73215,José Luis Pereda López,Real Oviedo,0.621
+1326,Assane Diousse,Auxerre,230144,Assane Dioussé,AJ Auxerre,1.2
+14197,Ricky-Jade Jones,St. Pauli,254482,Ricky-Jade Jones,FC St. Pauli,1.2
+12472,Iñigo Arguibide,Osasuna,71277,Iñigo Arguibide Goñi,CA Osasuna,0.907
+13291,Patrice Covic,Werder Bremen,76111,Patrice Čović,SV Werder Bremen,1.2
+5221,Leon Bailey,Aston Villa,229906,Leon Bailey,Aston Villa,1.2
+8206,Yannik Keitel,Augsburg,256118,Yannik Keitel,FC Augsburg,1.2
+13210,Mohamed Meïté,Rennes,263469,Mohamed Kaba,FC Nantes,0.64
+13047,Coba da Costa,Getafe,,,,0.502
+14296,Everton Pereira da Silva,Nice,75925,Everton Pereira da Silva,OGC Nice,1.2
+5199,Raba,Valencia,,,,0.414
+12330,Noah Edjouma,Toulouse,277820,Noah Lahmadi,Toulouse FC,0.633
+13692,Rio Ngumoha,Liverpool,80376,Rio Ngumoha,Liverpool,1.2
+12601,Darryl Bakola,Sassuolo,72098,Darryl Bakola,Sassuolo,1.2
+12820,Marc Bernal,Barcelona,74463,Marc Bernal Casas,FC Barcelona,0.836
+12376,Lucas Michal,Metz,70458,Lucas Michal,FC Metz,1.15
+11617,Yago Alonso,Elche,269250,Yago de Santiago Alonso,Elche CF,0.797
+13764,Calebe,Alaves,,,,0.45
+11333,Josip Juranovic,Union Berlin,257771,Josip Juranović,1. FC Union Berlin,1.2
+13552,Hamidou Makalou,Brest,77829,Hamidou Makalou,Stade Brestois 29,1.2
+8808,Wataru Endo,Liverpool,232487,Wataru Endo,Liverpool,1.2
+5231,Florian Kainz,FC Cologne,195038,Florian Kainz,1. FC Köln,1.2
+13265,Everton Pereira,Nice,75925,Everton Pereira da Silva,OGC Nice,0.819
+11155,Wilfried Gnonto,Leeds,258906,Wilfried Gnonto,Leeds United,1.15
+2418,Álvaro Odriozola,Real Sociedad,234035,Álvaro Odriozola Arzalluz,Real Sociedad,0.83
+14083,Enzo Koffi,Le Havre,81595,Enzo Koffi,Le Havre AC,1.2
+13841,Federico Redondo,Elche,269622,Federico Redondo,Elche CF,1.15
+12883,Marc Domenech,Mallorca,270206,Mateo Joseph,RCD Mallorca,0.53
+12804,George Ilenikhena,Monaco,,,,0.406
+5346,Jonas Meffert,Hamburger SV,234515,Jordan Lefort,Angers SCO,0.615
+13417,Maroan Sannadi,Athletic Club,76945,Maroan Sannadi Harrouch,Athletic Club,0.807
+13851,Ezechiel Banzuzi,RasenBallsport Leipzig,276216,Ezechiel Banzuzi,RB Leipzig,1.2
+13838,Ali Houary,Elche,,,,0.5
+9951,Tommaso Baldanzi,Genoa,269312,Tommaso Baldanzi,Genoa,1.2
+3276,Rachid Ghezzal,Lyon,210372,Rachid Ghezzal,Olympique Lyonnais,1.2
+9804,Gavi,Barcelona,,,,0.375
+14167,Selton Sánchez,Athletic Club,82124,Selton Sued Sánchez Camilo,Athletic Club,0.75
+13330,Robinio Vaz,Marseille,215316,Gerónimo Rulli,Olympique de Marseille,0.53
+1709,Cristhian Stuani,Girona,186537,Cristhian Stuani,Girona FC,1.2
+10395,Kevin Paredes,Wolfsburg,255272,Kevin Paredes,VfL Wolfsburg,1.2
+14371,Kento Shiogai,Wolfsburg,74879,Kento Shiogai,VfL Wolfsburg,1.2
+8028,Uros Radakovic,Nantes,211250,Uroš Radaković,FC Nantes,1.2
+2186,Morales,Levante,,,,0.438
+13924,Emir Sahiti,Hamburger SV,232839,Miro Muheim,Hamburger SV,0.595
+9752,Jesper Lindstrom,Wolfsburg,245741,Jesper Lindstrøm,VfL Wolfsburg,1.2
+13818,Kendry Páez,Strasbourg,,,,0.485
+910,Harrison Reed,Fulham,205990,Harrison Reed,Fulham FC,1.15
+1762,Ovie Ejaria,Real Oviedo,236246,Ovie Ejaria,Real Oviedo,1.2
+1089,Juan Cuadrado,Pisa,193082,Juan Cuadrado,Pisa,1.2
+13752,Gabin Bernardeau,Nice,78765,Gabin Bernardeau,OGC Nice,1.2
+13956,Vakoun Bayo,Udinese,246832,Vakoun Issouf Bayo,Udinese,0.959
+9902,Pasquale Mazzocchi,Napoli,239679,Pasquale Mazzocchi,Napoli,1.2
+10128,Javi Llabrés,Mallorca,264110,Javier Llabrés Exposito,RCD Mallorca,0.736
+14253,Fynn Schenten,FC Cologne,82816,Fynn Schenten,1. FC Köln,1.2
+7501,Amadou Haidara,Lens,238463,Amadou Haidara,RC Lens,1.2
+13471,Soriba Diaoune,Lille,77364,Soriba Diaoune,Lille OSC,1.15
+10270,Lohann Doucet,Paris FC,71614,Mohamed Dao,Paris FC,0.55
+326,Pascal Stenzel,VfB Stuttgart,229584,Pascal Stenzel,VfB Stuttgart,1.2
+7809,Mads Pedersen,Augsburg,229640,Mads Pedersen,FC Augsburg,1.2
+435,Benjamin Henrichs,RasenBallsport Leipzig,228579,Benjamin Henrichs,RB Leipzig,1.2
+9505,Beñat Prados,Athletic Club,263617,Beñat Prados Díaz,Athletic Club,0.878
+8701,Timothee Pembele,Le Havre,257270,Timothée Pembélé,Le Havre AC,1.2
+14034,Bahmed Deuff,Nantes,79513,Bahmed Deuff,FC Nantes,1.2
+14555,Javier Morcillo,Atletico Madrid,85082,Javier Morcillo,Atlético Madrid,1.2
+5543,Gabriel Jesus,Arsenal,230666,Gabriel Fernando de Jesus,Arsenal,0.884
+11295,David Datro Fofana,Strasbourg,260942,David Datro Fofana,RC Strasbourg Alsace,1.2
+14174,Pharell Hensel,Wolfsburg,82194,Pharell Hensel,VfL Wolfsburg,1.2
+11339,Youssouf Ndayishimiye,Nice,,,,0.403
+8760,Arsen Zakharyan,Real Sociedad,264701,Arsen Zakharyan,Real Sociedad,1.2
+1433,Federico Chiesa,Liverpool,235805,Federico Chiesa,Liverpool,1.2
+1252,Stephan El Shaarawy,Roma,190813,Stephan El Shaarawy,Roma,1.2
+14403,Sandro Kulenovic,Torino,236413,Sandro Kulenović,Torino,1.2
+5250,Yussuf Poulsen,Hamburger SV,207791,Yussuf Poulsen,Hamburger SV,1.2
+8383,Faustino Anjorin,Torino,248474,Tino Anjorin,Torino,1.057
+14132,Djibirin Harouna,Angers,81849,Harouna Djibirin,Angers SCO,0.55
+323,Adnan Januzaj,Sevilla,208330,Adnan Januzaj,Sevilla FC,1.2
+10595,Umut Tohumcu,Hoffenheim,,,,0.494
+3786,Mathieu Cafaro,Paris FC,231236,Mathieu Cafaro,Paris FC,1.2
+11736,Artem Dovbyk,Roma,242458,Artem Dovbyk,Roma,1.2
+11952,Fodé Sylla,Lens,277935,Fodé Sylla,RC Lens,1.2
+5140,Kike Barja,Osasuna,225200,Enrique Barja Afonso,CA Osasuna,0.583
+10090,Iker Bravo,Udinese,,,,0.505
+13072,Vasilije Adzic,Juventus,75085,Vasilije Adžić,Juventus,1.2
+10955,Alex Sala,Lecce,265732,Àlex Sala Herrero,Lecce,0.742
+13580,Mikel Goti,Real Sociedad,230142,Mikel Oyarzabal Ugarte,Real Sociedad,0.55
+13927,Aboubaka Soumahoro,Hamburger SV,,,,0.437
+14374,Alex Tóth,Bournemouth,70903,Alex Tóth,AFC Bournemouth,1.15
+14502,Manuel Ángel,Real Madrid,84290,Manuel Ángel Morán Ibáñez,Real Madrid,0.699
+13821,Urko Izeta,Athletic Club,183512,Yuri Berchiche Izeta,Athletic Club,0.733
+14412,Nesta Elphege,Parma Calcio 1913,,,,0.0
+1253,Edin Dzeko,Fiorentina,80505,Eman Košpo,Fiorentina,0.55
+13451,Konan N’Dri,Lecce,247668,Konan N'Dri,Lecce,1.2
+12365,Alieu Njie,Torino,70480,Alieu Njie,Torino,1.2
+14287,Alejandro Mestanza,Getafe,82907,Alejandro García Mestanza,Getafe CF,1.037
+3278,Maxwel Cornet,Genoa,215798,Maxwel Cornet,Genoa,1.2
+1740,Paul Pogba,Monaco,195864,Paul Pogba,AS Monaco,1.2
+1104,Leonardo Pavoletti,Cagliari,205850,Leonardo Pavoletti,Cagliari,1.2
+14410,Souza,Tottenham,,,,0.494
+14581,Idrissa Sabaly,Strasbourg,,,,0.45
+14342,Petar Ratkov,Lazio,275978,Petar Ratkov,Lazio,1.2
+14433,Branimir Mlacic,Udinese,80380,Branimir Mlačić,Udinese,1.2
+11758,Ousmane Touré,Lille,278261,Ousmane Touré,Lille OSC,1.15
+12769,Derek Cornelius,Marseille,,,,0.474
+7546,Harvey Elliott,Aston Villa,246174,Harvey Elliott,Aston Villa,1.2
+9631,Christopher Wooh,Rennes,,,,0.439
+14584,Jesse Derry,Chelsea,,,,0.42
+1545,Emil Krafth,Newcastle United,207650,Emil Krafth,Newcastle United,1.2
+1678,Michy Batshuayi,Eintracht Frankfurt,204529,Michy Batshuayi,Eintracht Frankfurt,1.2
+13828,Amady Camara,Nantes,279130,Amady Camara,FC Nantes,1.2
+11381,Dawda Camara,Girona,81378,Gibert Jordana Cámara,Girona FC,0.806
+13843,Bambo Diaby,Elche,279035,Adam Boayar,Elche CF,0.545
+12255,Paris Brunner,Monaco,274126,Paris Brunner,AS Monaco,1.2
+12982,Oladapo Afolayan,St. Pauli,211362,Adam Dźwigała,FC St. Pauli,0.533
+14413,Wesley,Real Sociedad,,,,0.421
+13780,Antoni Milambo,Brentford,263640,Antoni Milambo,Brentford,1.2
+11816,Abakar Sylla,Nantes,269003,Abakar Sylla,FC Nantes,1.2
+12635,Matteo Palma,Udinese,,,,0.494
+11054,Juan Cabal,Juventus,251870,Juan David Cabal,Juventus,0.969
+13997,Hugo Lopez,Villarreal,81244,Hugo López Cortés,Villarreal CF,0.791
+13026,Luis Guilherme,West Ham,246158,Mads Hermansen,West Ham United,0.55
+5077,Mikel Vesga,Athletic Club,146947,Mikel Vesga Arruti,Athletic Club,0.809
+14500,Andrés Antañón,Celta Vigo,84238,Andrés Antañón Vieites,RC Celta,0.828
+12426,Stanis Idumbo Muzambo,Sevilla,,,,0.486
+10906,Thórir Helgason,Lecce,263657,Þórir Jóhann Helgason,Lecce,0.943
+14415,Love Arrhov,Eintracht Frankfurt,76519,Love Arrhov,Eintracht Frankfurt,1.2
+13349,Lorenzo Venturino,Roma,76172,Lorenzo Venturino,Roma,1.2
+13918,Julián Vignolo,Toulouse,80771,Julián Vignolo,Toulouse FC,1.2
+12901,Antoniu Roca,Espanyol,263133,Antoniu Roca Vives,RCD Espanyol,0.85
+11091,Veljko Birmancevic,Getafe,261307,Veljko Birmančević,Getafe CF,1.2
+13110,Toni Fernández,Barcelona,75156,Antonio Fernández Casino,FC Barcelona,0.787
+10255,Sadik Fofana,Lecce,263949,Sadik Fofana,Lecce,1.2
+14517,Steeve Kango,Lyon,84357,Steeve Kango,Olympique Lyonnais,1.2
+11362,Facundo Buonanotte,Chelsea,,,,0.487
+10526,Abu Kamara,Getafe,270379,Abu Kamara,Getafe CF,1.2
+10616,Samuel Iling-Junior,Pisa,272379,Samuel Iling-Junior,Pisa,1.2
+13859,Koki Machida,Hoffenheim,232873,Koki Machida,TSG 1899 Hoffenheim,1.2
+12995,Bojan Miovski,Girona,276680,Jan Ziółkowski,Roma,0.667
+13045,Eddy Kouadio,Fiorentina,74926,Eddy Kouadio,Fiorentina,1.2
+4193,Aitor Fernández,Osasuna,193314,Aitor Fernández,CA Osasuna,1.2
+10036,Jeremy Sarmiento,Cremonese,278903,Jérémy Jacquet,Stade Rennais FC,0.667
+13932,Riccardo Braschi,Fiorentina,80508,Riccardo Braschi,Fiorentina,1.2
+9922,Jon Karrikaburu,Real Sociedad,262513,Jon Karrikaburu,Real Sociedad,1.2
+13150,Jack Fletcher,Manchester United,75439,Jack Fletcher,Manchester United,1.2
+13281,Bernard Nguene,Nice,78765,Gabin Bernardeau,OGC Nice,0.583
+12826,Lasso Coulibaly,Auxerre,263421,Lasso Coulibaly,AJ Auxerre,1.2
+14005,Ioan Vermesan,Verona,259608,Evan Ferguson,Roma,0.538
+14511,Ange Lago,Marseille,240753,Amine Gouiri,Olympique de Marseille,0.621
+9134,Alessandro Di Pardo,Cagliari,229743,Alessandro Deiola,Cagliari,0.828
+10328,Edon Zhegrova,Juventus,239763,Edon Zhegrova,Juventus,1.2
+14481,Salim Musah,Werder Bremen,79455,Salim Musah,SV Werder Bremen,1.2
+13862,Adam Kölle,FC Heidenheim,79762,Adam Kölle,1. FC Heidenheim 1846,1.2
+7075,Borna Sosa,Crystal Palace,243388,Borna Sosa,Crystal Palace,1.2
+13703,Marco Esteban,Real Oviedo,277421,Marco Esteban Fernández,Real Oviedo,0.772
+13326,Abdoulie Ceesay,St. Pauli,76228,Abdoulie Ceesay,FC St. Pauli,1.2
+6492,Reiss Nelson,Brentford,231448,Reiss Nelson,Brentford,1.2
+8396,Jessic Ngankam,Eintracht Frankfurt,183513,Jens Grahl,Eintracht Frankfurt,0.55
+11851,Václav Cerny,Wolfsburg,199909,Pavao Pervan,VfL Wolfsburg,0.55
+5544,Angus Gunn,Nottingham Forest,216325,Angus Gunn,Nottingham Forest,1.2
+13247,Ezra Mayers,West Ham,75842,Ezra Mayers,West Ham United,1.2
+8689,Yvan Neyou,Getafe,192667,Allan-Roméo Nyom,Getafe CF,0.53
+14460,Djiamgone Jocelin Ta Bi,Sunderland,83236,Jocelin Ta Bi,Sunderland,0.922
+14532,Jahyann Pandore,Metz,73485,Alpha Touré,FC Metz,0.538
+7841,Dani Rodríguez,Mallorca,232008,Antonio Latorre Grueso,RCD Mallorca,0.55
+13137,Sékou Doucouré,Nantes,75316,Sékou Doucouré,FC Nantes,1.2
+12864,Pelayo Fernández,Rayo Vallecano,236033,Daniel Cárdenas Líndez,Rayo Vallecano,0.576
+13872,Max Dowman,Arsenal,267920,Alex Freeman,Villarreal CF,0.545
+13784,Maxima Goffi,Lille,80688,Maxima Goffi,Lille OSC,1.15
+14221,Carlos Macià,Villarreal,82665,Carlos Macià Coves,Villarreal CF,0.85
+13422,Mick Schmetgens,Werder Bremen,77127,Mick Schmetgens,SV Werder Bremen,1.2
+2012,Nicholas Pierini,Sassuolo,210935,Domenico Berardi,Sassuolo,0.55
+5509,Hernani,Parma Calcio 1913,,,,0.0
+8821,Donny van de Beek,Girona,221363,Donny van de Beek,Girona FC,1.2
+897,Juanmi,Getafe,,,,0.437
+12965,Bence Dárdai,Wolfsburg,259522,Bence Dárdai,VfL Wolfsburg,1.2
+12731,Daren Mosengo,Le Havre,73624,Daren Mosengo,Le Havre AC,1.2
+13877,Matías Pérez,Lecce,80006,Matías Pérez,Lecce,1.2
+13505,Alejo Sarco,Bayer Leverkusen,228813,Aleix García Serrano,Bayer 04 Leverkusen,0.566
+14334,Thiago Borbas,Real Oviedo,255786,Thiago Borbas,Real Oviedo,1.2
+12011,Seydou Fini,Genoa,,,,0.485
+14029,Tom Watson,Brighton,,,,0.45
+14183,Asier Hierro,Athletic Club,82180,Asier Hierro Campo,Athletic Club,0.85
+11847,Grant-Leon Ranos,Borussia M.Gladbach,71101,Alejo Sarco,Borussia Mönchengladbach,0.588
+2255,Isco,Real Betis,,,,0.429
+13928,Otto Stange,Hamburger SV,279213,Otto Stange,Hamburger SV,1.2
+14505,Maycon Douglas Cardozo,Bayern Munich,84386,Maycon Douglas Normanha Cardozo,FC Bayern München,1.03
+6219,Enes Ünal,Bournemouth,223197,Enes Ünal,AFC Bournemouth,1.15
+9645,Jim Allevinah,Angers,257395,Melvin Zinga,Angers SCO,0.53
+13900,Dachi Lordkipanidze,Cremonese,,,,0.462
+14222,Aitor Mañas,Alaves,70183,Aitor Mañas Buenadicha,Deportivo Alavés,0.717
+13266,Daniel Yáñez,Real Madrid,75917,Daniel Yáñez Barla,Real Madrid,0.85
+12400,Rabby Nzingoula,Strasbourg,,,,0.45
+12425,Faris Moumbagna,Cremonese,256669,Faris Pemi Moumbagna,Cremonese,1.057
+14013,Adam El Mokhtari,Elche,279035,Adam Boayar,Elche CF,0.593
+10800,Kjetil Haug,Toulouse,224322,Kjetil Haug,Toulouse FC,1.2
+14159,Tadjidine Mmadi,Marseille,82083,Tadjidine Mmadi,Olympique de Marseille,1.2
+13878,Olaf Gorter,Lecce,80606,Olaf Gorter,Lecce,1.2
+13823,Miguel Sierra,Sevilla,80682,Miguel Ángel Sierra Ortega,Sevilla FC,0.717
+14586,Cubo,Atletico Madrid,,,,0.336
+14324,Iker Luque,Atletico Madrid,81637,Iker Monreal Agundez,Athletic Club,0.533
+14173,Pablo Agudín,Real Oviedo,279758,Pablo Menéndez Agudín,Real Oviedo,0.927
+13392,Andrés García,Aston Villa,275468,Andrés García Robledo,Aston Villa,0.815
+13903,Cleo Mélières,Metz,80578,Cléo Mélières,FC Metz,1.15
+11752,Amir Richardson,Fiorentina,232080,Jack Harrison,Fiorentina,0.621
+13906,Nordan Mukiele,Rennes,80804,Nordan Mukiele,Stade Rennais FC,1.2
+9766,Ismaël Gharbi,Augsburg,263194,Ismaël Gharbi,FC Augsburg,1.2
+12359,Callum Marshall,West Ham,196978,Callum Wilson,West Ham United,0.621
+6296,Abdelhamid Sabiri,Fiorentina,237499,Abdelhamid Sabiri,Fiorentina,1.2
+14202,Jorge Montes,Getafe,82440,Jorge Montes García,Getafe CF,0.824
+9919,Calvin Stengs,Pisa,236593,Calvin Stengs,Pisa,1.2
+13236,Diego Aguado,Real Madrid,75747,Diego Aguado Facio,Real Madrid,0.85
+1583,Arkadiusz Milik,Juventus,205175,Arkadiusz Milik,Juventus,1.2
+12250,Elias Baum,Eintracht Frankfurt,278228,Elias Baum,Eintracht Frankfurt,1.2
+925,Patrick Roberts,Sunderland,263798,Robin Roefs,Sunderland,0.588
+7366,Maximilian Wöber,Werder Bremen,231838,Maximilian Wöber,SV Werder Bremen,1.2
+14028,Stefanos Tzimas,Brighton,274699,Stefanos Tzimas,Brighton & Hove Albion,1.2
+14098,Pape Cabral,Monaco,81663,Pape Cabral,AS Monaco,1.2
+14386,Juan Arizala,Udinese,275647,Juan David Arizala,Udinese,1.0
+8330,Jean Onana,Genoa,255934,Jean Onana,Genoa,1.2
+13387,Romain Esse,Crystal Palace,80711,Rio Cardines,Crystal Palace,0.659
+14229,Noam Obougou,Le Havre,82671,Noam Obougou,Le Havre AC,1.2
+14352,César Palacios,Real Madrid,83235,César Palacios Pérez,Real Madrid,0.874
+14267,Felipe Chávez,FC Cologne,82814,Felipe Chávez,1. FC Köln,1.2
+8946,Mourad El Ghezouani,Elche,,,,0.485
+9008,Jairo Izquierdo,Elche,,,,0.5
+11371,Ibrahim Salah,Rennes,204883,Brice Samba,Stade Rennais FC,0.633
+8014,Abdón Prats,Mallorca,202716,Abdón Prats Bastidas,RCD Mallorca,0.76
+8226,Tariq Lamptey,Fiorentina,242418,Tariq Lamptey,Fiorentina,1.2
+14264,Yael Trepy,Cagliari,82808,Yael Trepy,Cagliari,1.2
+14364,Job Ochieng,Real Sociedad,,,,0.464
+4247,Maximilian Philipp,Freiburg,216497,Maximilian Philipp,SC Freiburg,1.2
+6271,Ihlas Bebou,Hoffenheim,216258,Ihlas Bebou,TSG 1899 Hoffenheim,1.2
+10728,Oscar Fraulo,Borussia M.Gladbach,,,,0.505
+9776,Taichi Hara,St. Pauli,244089,Taichi Hara,FC St. Pauli,1.2
+12879,Glen Kamara,Rennes,213654,Glen Kamara,Stade Rennais FC,1.2
+14121,Jan Urbich,Borussia M.Gladbach,81726,Jan Urbich,Borussia Mönchengladbach,1.2
+13868,Lazar Jovanovic,VfB Stuttgart,79300,Lazar Jovanović,VfB Stuttgart,1.2
+12234,Tawanda Chirewa,Wolverhampton Wanderers,,,,0.464
+3208,Óscar Trejo,Rayo Vallecano,173030,Óscar Trejo,Rayo Vallecano,1.2
+9655,Pablo Rosario,Nice,,,,0.471
+14446,Alysson Edward,Aston Villa,82968,Alysson Edward F. da R. dos Santos,Aston Villa,0.659
+13972,Andrija Maksimovic,RasenBallsport Leipzig,79107,Andrija Maksimović,RB Leipzig,1.2
+12013,Skelly Alvero,Werder Bremen,75461,Wesley Adeh,SV Werder Bremen,0.55
+14160,Dan Sinaté,Angers,79493,Dan Sinaté,Angers SCO,1.2
+14216,Eder García,Athletic Club,82517,Eder García Altuna,Athletic Club,0.809
+9681,Frank Onyeka,Brentford,,,,0.494
+14130,David Santos,Bayern Munich,79317,David Santos Daiber,FC Bayern München,0.824
+12787,Daniel Mikolajewski,Parma Calcio 1913,,,,0.0
+13474,Julio Soler,Bournemouth,269796,Julio Soler,AFC Bournemouth,1.15
+13912,Jusuf Gazibegovic,FC Cologne,,,,0.4
+14348,Isaac,Verona,,,,0.381
+14046,Lorran,Pisa,,,,0.45
+13802,Nouha Dicko,Paris FC,234612,Jonathan Ikoné,Paris FC,0.61
+9895,Nicolò Cavuoti,Cagliari,,,,0.517
+6327,Kevin Akpoguma,Hoffenheim,211856,Kevin Akpoguma,TSG 1899 Hoffenheim,1.2
+14397,Tai Abed,Levante,76756,Tay Abed,Levante UD,1.025
+13094,Dário Essugo,Chelsea,261530,Dário Cassia Luís Essugo,Chelsea,0.867
+14217,Romelle Donovan,Brentford,278919,Romelle Donovan,Brentford,1.2
+14080,Taufik Seidu,Atletico Madrid,81604,Taufik Seidu Zanzi Awudu,Atlético Madrid,0.717
+10532,Giuseppe Ambrosino,Napoli,,,,0.439
+13748,Jofre Torrents,Barcelona,80663,Jofre Torrents Salvat,FC Barcelona,0.85
+13803,Julien Lopez,Paris FC,211240,Julien Lopez,Paris FC,1.2
+594,Romelu Lukaku,Napoli,192505,Romelu Lukaku,Napoli,1.2
+7742,Valentin Gendrey,Hoffenheim,245863,Valentin Gendrey,TSG 1899 Hoffenheim,1.2
+14597,Pierre Mounguengue,Paris Saint Germain,271421,Désiré Doué,Paris Saint-Germain,0.533
+14455,Uchenna Ogundu,Augsburg,80729,Uchenna Ogundu,FC Augsburg,1.2
+11231,Ben Doak,Bournemouth,266815,Ben Gannon-Doak,AFC Bournemouth,0.727
+13056,Almugera Kabar,Borussia Dortmund,278854,Almugera Kabar,Borussia Dortmund,1.2
+13989,Antonio Arena,Roma,79095,Antonio Arena,Roma,1.2
+7083,Christian Nørgaard,Arsenal,210697,Christian Nørgaard,Arsenal,1.2
+14266,Bendito Mantato,Manchester United,82853,Bendito Mantato,Manchester United,1.2
+14193,George Hemmings,Aston Villa,82350,George Hemmings,Aston Villa,1.2
+14399,Agustín Albarracín,Cagliari,71730,Agustín Albarracín,Cagliari,1.2
+5294,Salih Özcan,Borussia Dortmund,235407,Salih Özcan,Borussia Dortmund,1.2
+12344,Anthony Bermont,Lens,70005,Anthony Bermont,RC Lens,1.2
+13262,Jonah Kusi-Asare,Fulham,278578,Jonah Kusi-Asare,Fulham FC,1.15
+7091,Christian Kouamé,Fiorentina,235866,Christian Kouamé,Fiorentina,1.2
+14055,Divine Mukasa,Manchester City,,,,0.46
+14576,Ugo El Kadmiri,Marseille,263602,Bilal Nadir,Olympique de Marseille,0.53
+13889,Jano Monserrate,Atletico Madrid,74108,Alejandro Monserrate Pueyo,Atlético Madrid,0.782
+13131,Cole Campbell,Hoffenheim,73057,Cole Campbell,TSG 1899 Hoffenheim,1.2
+13558,Daniel Díaz,Real Sociedad,231410,Brahim Díaz,Real Madrid,0.786
+11701,Zeki Amdouni,Burnley,262642,Zeki Amdouni,Burnley,1.2
+8405,Immanuel Pherai,Hamburger SV,269962,Daniel Elfadli,Hamburger SV,0.602
+2254,Mateo Kovacic,Manchester City,207410,Mateo Kovačić,Manchester City,1.2
+12589,Vincent Burlet,Lille,,,,0.5
+13943,Louis Buffon,Pisa,,,,0.512
+9731,Guilherme Ramos,Hamburger SV,212197,Daniel Heuer Fernandes,Hamburger SV,0.536
+13388,Justin Bourgault,Brest,,,,0.425
+13870,Bradley Burrowes,Aston Villa,80816,Bradley Burrowes,Aston Villa,1.2
+13224,Callum Olusesi,Tottenham,75770,Callum Olusesi,Tottenham Hotspur,1.2
+4951,Grigoris Kastanos,Verona,,,,0.514
+11279,Ali Dembélé,Torino,70480,Alieu Njie,Torino,0.526
+12094,Mike Trésor,Burnley,253150,Mike Trésor,Burnley,1.2
+14081,Ryan Rodin,Auxerre,80650,Ryan Rodin,AJ Auxerre,1.2
+8812,Sasa Kalajdzic,Wolverhampton Wanderers,,,,0.464
+13981,Aiman Dardari,Augsburg,259522,Bence Dárdai,VfL Wolfsburg,0.64
+13608,Ilyas Azizi,Toulouse,78379,Ilyas Azizi,Toulouse FC,1.2
+1264,Edoardo Goldaniga,Como,223524,Edoardo Goldaniga,Como,1.2
+13855,Iván Corralejo,Real Betis,80806,Iván Corralejo Mantero,Real Betis Balompié,0.828
+13049,Damián Pizarro,Le Havre,,,,0.5
+14045,Tomás Esteves,Pisa,,,,0.512
+13902,Ismaël Guerti,Metz,78584,Ismaël Guerti,FC Metz,1.15
+8241,Balthazar Pierret,Lecce,80006,Matías Pérez,Lecce,0.602
+13720,Dan Neil,Sunderland,74917,Milan Aleksić,Sunderland,0.526
+14519,Ville Koski,Alaves,81776,Ville Koski,Deportivo Alavés,1.2
+13421,Wisdom Mike,Bayern Munich,77126,Wisdom Mike,FC Bayern München,1.2
+13428,Marin Ljubicic,Union Berlin,277799,Andrej Ilić,1. FC Union Berlin,0.53
+13790,Joselu Pérez,Getafe,80675,José Luis Pérez del Amo,Getafe CF,0.736
+7424,Alex Sola,Getafe,71977,Alberto Risco Alcántara,Getafe CF,0.55
+14608,Mezian Soares,Lens,235454,Malang Sarr,RC Lens,0.633
+585,Seamus Coleman,Everton,180216,Séamus Coleman,Everton,1.2
+13704,Omar Falah,Real Oviedo,78072,Omar Falah Ruiz,Real Oviedo,0.85
+13702,Borja Sánchez,Real Oviedo,272503,Sergio Mestre Sánchez,Real Madrid,0.738
+13863,Yannik Wagner,FC Heidenheim,80231,Yannik Wagner,1. FC Heidenheim 1846,1.2
+65,Timo Werner,RasenBallsport Leipzig,,,,0.505
+14089,Lancinet Kourouma,Girona,72269,Lancinet Kourouma,Girona FC,1.2
+14195,Adil Hamdani,Lyon,82335,Adil Hamdani,Olympique Lyonnais,1.2
+4422,Ashley Barnes,Burnley,186905,Ashley Barnes,Burnley,1.2
+14208,Gorka Carrera,Real Sociedad,268889,Álvaro Fernández Carreras,Real Madrid,0.579
+2122,Joan Jordán,Sevilla,224309,Joan Jordán Moreno,Sevilla FC,0.809
+14116,Diego Morcillo,Alaves,81738,Diego Morcillo Muñoz,Deportivo Alavés,0.874
+14338,Jeremy Arévalo,VfB Stuttgart,277742,Jeremy Arévalo Mera,VfB Stuttgart,0.898
+14459,Yassir Zabiri,Rennes,74698,Yassir Zabiri,Stade Rennais FC,1.2
+14577,Nouhoum Kamissoko,Marseille,,,,0.414
+10774,Adam Hlozek,Hoffenheim,246618,Adam Hložek,TSG 1899 Hoffenheim,1.2
+14227,Juan Arango,Girona,82667,Juan Arango,Girona FC,1.2
+14104,Laurs Skjellerup,Sassuolo,,,,0.425
+14514,Daniel Semedo,Lorient,82993,Daniel Xavier Semedo,FC Lorient,0.938
+14201,Elias Legendre,Rennes,82427,Elías Legendre Quiñonez,Stade Rennais FC,0.807
+14411,Tyrese Noubissie,Strasbourg,,,,0.514
+11834,Adrià Alti,Villarreal,220901,David Raya Martín,Arsenal,0.593
+13010,Enzo Molébé,Lyon,,,,0.485
+13695,Samu Becerra,Rayo Vallecano,79474,Samuel Becerra Gómez,Rayo Vallecano,0.8
+12474,George Earthy,West Ham,,,,0.425
+14281,Jaydon Banel,Burnley,243669,Jaidon Anthony,Burnley,0.665
+10862,Tim Oermann,Bayer Leverkusen,270033,Tim Oermann,Bayer 04 Leverkusen,1.2
+14242,Zoumana Diallo,Nice,82740,Zoumana Diallo,OGC Nice,1.2
+8416,Sergio Lozano,Levante,,,,0.462
+7627,Andrea Ghion,Sassuolo,235842,Andrea Pinamonti,Sassuolo,0.764
+14246,Jorge Cestero,Real Madrid,82756,Jorge Cestero Sancho,Real Madrid,0.838
+12766,Jota Silva,Nottingham Forest,256008,Felipe Rodrigues da Silva,Nottingham Forest,0.657
+11892,Leart Paqarada,FC Heidenheim,223633,Leart Paçarada,1. FC Heidenheim 1846,0.979
+12275,Willy Kambwala,Villarreal,268414,Willy Kambwala,Villarreal CF,1.2
+1598,Manuel De Luca,Cremonese,192840,Milan Đurić,Cremonese,0.61
+14157,Matteo Lavelli,Inter,82087,Matteo Lavelli,Inter,1.2
+11105,Abdul Mumin,Rayo Vallecano,235662,Abdul Mumin,Rayo Vallecano,1.2
+766,Jamaal Lascelles,Newcastle United,,,,0.517
+14219,Mohamadou Kanté,West Ham,278284,Mohamadou Kanté,West Ham United,1.2
+14101,Mathis Jangeal,Paris Saint Germain,81659,Mathis Jangeal,Paris Saint-Germain,1.2
+9826,Axel Camblan,Brest,,,,0.502
+14366,Álex Sánchez,Elche,265732,Àlex Sala Herrero,Lecce,0.621
+11705,Federico Gattoni,Sevilla,241930,Federico Gattoni,Sevilla FC,1.2
+12951,Jan Salas,Mallorca,74716,Miguel Jan Salas Franch,RCD Mallorca,0.613
+13753,Djibril Coulibaly,Nice,80063,Djibril Coulibaly,OGC Nice,1.2
+12203,Treymaurice Nyoni,Liverpool,279128,Trey Nyoni,Liverpool,0.941
+13416,Luka Djuric,Hoffenheim,76924,Luka Đurić,TSG 1899 Hoffenheim,1.002
+13310,Jamaldeen Jimoh,Aston Villa,,,,0.494
+14461,Rouven Tarnutzer,Freiburg,84104,Rouven Tarnutzer,SC Freiburg,1.2
+14322,Ibai Aguirre,Real Sociedad,,,,0.474
+10082,Hugo Gonzalez,Celta Vigo,277029,Miguel Román González,RC Celta,0.847
+14567,Linus Güther,Union Berlin,,,,0.512
+13342,Alessandro Romano,Roma,268913,Alessandro Circati,Parma,0.743
+14318,Noah Nsoki,Paris Saint Germain,82991,Noah Nsoki,Paris Saint-Germain,1.2
+14444,Othniël Raterink,Cagliari,74768,Othniël Raterink,Cagliari,1.2
+13220,Tom Edozie,Wolverhampton Wanderers,75772,Tom Edozie,Wolverhampton Wanderers,1.2
+902,Sam Byram,Leeds,208892,Sam Byram,Leeds United,1.15
+14198,Shea Lacey,Manchester United,278124,Shea Lacey,Manchester United,1.2
+14362,Hugo Burcio,Celta Vigo,83212,Hugo Burcio García,RC Celta,0.809
+12001,Joseph N&#039;Duquidi,Metz,75965,Joseph Mangondo,FC Metz,0.545
+13638,Hugo Solozabal,Getafe,78728,Hugo Solozábal Granados,Getafe CF,0.807
+13242,Ben Winterburn,Bournemouth,,,,0.429
+14205,Tomás Marqués,Barcelona,82439,Tomás Noël Marqués Morera,FC Barcelona,0.734
+9332,Dane Scarlett,Tottenham,243702,Djed Spence,Tottenham Hotspur,0.55
+9786,Ben Bobzien,Mainz 05,,,,0.505
+12825,Theo Bair,Auxerre,257612,Sékou Mara,AJ Auxerre,0.576
+9057,Franco Ezequiel Carboni,Parma Calcio 1913,,,,0.0
+2383,André Gomes,Lille,240753,Amine Gouiri,Olympique de Marseille,0.522
+14357,Erawan Garnier,Lens,83218,Erawan Garnier,RC Lens,1.2
+13211,Mathis Saka,Toulouse,79390,Mario Sauer,Toulouse FC,0.595
+14269,Deniz Ofli,Bayern Munich,82811,Deniz Ofli,FC Bayern München,1.2
+11536,David Odogu,AC Milan,73286,David Odogu,AC Milan,1.2
+6049,Solly March,Brighton,206594,Solly March,Brighton & Hove Albion,1.2
+14542,Erblin Osmani,Bayern Munich,,,,0.494
+12199,Alex Murphy,Newcastle United,270617,Alex Murphy,Newcastle United,1.2
+14134,Jun&#039;ai Byfield,Tottenham,81899,Jun'ai Byfield,Tottenham Hotspur,1.097
+14272,Tyler Fletcher,Manchester United,82899,Tyler Fletcher,Manchester United,1.2
+14103,Tidiane Devernois,Auxerre,80651,Tidiane Devernois,AJ Auxerre,1.2
+14161,Lucas Rosier,Rennes,82084,Lucas Rosier,Stade Rennais FC,1.2
+14228,Mamoudou Cissokho,Auxerre,82670,Mamoudou Cissokho,AJ Auxerre,1.2
+14122,Pedro Felipe,Sassuolo,81732,Pedro Felipe de Jesus Gomes,Sassuolo,0.665
+10405,Josh Dasilva,Brentford,231445,Josh Dasilva,Brentford,1.2
+14356,Kaye Furo,Brentford,75452,Kaye Furo,Brentford,1.2
+10803,Tyrell Malacia,Manchester United,238041,Tyrell Malacia,Manchester United,1.2
+12060,Ernest Nuamah,Lyon,268763,Ernest Nuamah,Olympique Lyonnais,1.2
+14176,James Rowswell,Tottenham,82187,James Rowswell,Tottenham Hotspur,1.2
+14263,Joél Drakes-Thomas,Crystal Palace,,,,0.45
+13399,Joe Knight,Brighton,,,,0.505
+14571,Bané Diatta,Angers,234640,Bakery Jatta,Hamburger SV,0.696
+12039,Bertug Yildirim,Rennes,,,,0.502
+14127,Nehemiah Oriola,Brighton,81895,Nehemiah Oriola,Brighton & Hove Albion,1.2
+14011,Martin Bley,Lorient,81514,Martin Bley,FC Lorient,1.15
+14578,Hilan Slimani,Marseille,243715,William Saliba,Arsenal,0.593
+9658,Billal Brahimi,Nice,,,,0.517
+13467,Tyler Fredricson,Manchester United,269233,Tyler Fredricson,Manchester United,1.2
+13024,Serigne Diop,Brest,74884,Serigne Saliou Diop,Stade Brestois 29,0.974
+14320,Mohamed Benoit-Dao,Paris FC,71614,Mohamed Dao,Paris FC,0.836
+11033,Kaden Rodney,Crystal Palace,276718,Kaden Rodney,Crystal Palace,1.2
+10205,Myles Peart-Harris,Brentford,,,,0.437
+13754,Hamza Koutoune,Nice,,,,0.502
+13594,Noham Kamara,Lyon,78216,Noham Kamara,Olympique Lyonnais,1.2
+5298,Arne Maier,Augsburg,77413,Felix Meiser,FC Augsburg,0.595
+12431,Isak Hansen-Aaröen,Werder Bremen,,,,0.474
+14224,Aleksa Puric,Atletico Madrid,,,,0.512
+13621,Charles Herrmann,Borussia M.Gladbach,,,,0.437
+14252,Tim Schnitzer,Augsburg,82845,Tim Schnitzer,FC Augsburg,1.2
+188,Kevin Kampl,RasenBallsport Leipzig,236703,David Raum,RB Leipzig,0.526
+14163,Yvan Zaddy,Auxerre,82080,Yvan Zaddy,AJ Auxerre,1.2
+14422,Mathis Albert,Borussia Dortmund,254117,Maximilian Beier,Borussia Dortmund,0.533
+14117,Carlos Ballestero,Alaves,81739,Carlos Ballestero García,Deportivo Alavés,0.879
+13482,Luken Beitia,Real Sociedad,243834,Luka Ilić,Real Oviedo,0.571
+13356,Henrick Do Marcolino,Rennes,76534,Henrick Do Marcolino,Stade Rennais FC,1.2
+14223,Samba Konate,RasenBallsport Leipzig,82689,Samba Konaté,RB Leipzig,1.2
+6142,Tim Kleindienst,Borussia M.Gladbach,214096,Tim Kleindienst,Borussia Mönchengladbach,1.2
+13181,Samuel Nibombé,Monaco,75554,Samuel Nibombe,AS Monaco,1.2
+14071,Cassiano Kiala,Bayern Munich,79318,Cassiano Kiala,FC Bayern München,1.2
+12314,Yannick Eduardo,Hoffenheim,70038,Yannick Eduardo,TSG 1899 Hoffenheim,1.2
+14096,Tobias Weigel,FC Heidenheim,81684,Tobias Weigel,1. FC Heidenheim 1846,1.2
+14109,Dmytro Bogdanov,Union Berlin,278229,Dmytro Bogdanov,1. FC Union Berlin,1.2
+14140,Andréa Le Borgne,Como,273875,Álex Valle Gómez,Como,0.55
+14085,Cas Odenthal,Sassuolo,,,,0.467
+13646,Lander Pinillos,Alaves,78858,Lander Pinillos Wilson,Deportivo Alavés,0.861
+14381,Nils Zätterström,Genoa,71553,Nils Zätterström,Genoa,1.2
+13537,Joi Nuredini,Genoa,77830,Joi Nuredini,Genoa,1.2
+12044,Dani Pérez,Real Betis,272487,Daniel Pérez Guerrero,Real Betis Balompié,0.695
+13970,Cheveyo Mul,AC Milan,81252,Cheveyo Balentien,AC Milan,0.693
+10155,Rubén Iranzo,Valencia,266031,Rubén Iranzo Lendínez,Valencia CF,0.777
+10561,Jesús Santiago,Verona,82667,Juan Arango,Girona FC,0.56
+12639,Junior Ajayi,Verona,82667,Juan Arango,Girona FC,0.522
+13951,Tjas Begic,Parma Calcio 1913,,,,0.0
+13267,Arkaitz Mariezkurrena,Real Sociedad,265520,Unai Marrero Larrañaga,Real Sociedad,0.562
+14259,Lander Astiazarán,Real Sociedad,246672,Ander Barrenetxea,Real Sociedad,0.579
